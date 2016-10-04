@@ -1,0 +1,7305 @@
+{Index}: 1
+{StartTime}: 0:3:0
+{EndTime}: 0:3:4
+{Text}: {Captain's Log: Stardate 8130.3.} 
+
+{Index}: 2
+{StartTime}: 0:3:4
+{EndTime}: 0:3:7
+{Text}: {Starship Enterprise on training mission} 
+
+{Index}: 3
+{StartTime}: 0:3:7
+{EndTime}: 0:3:10
+{Text}: {to Gamma Hydra, Section 14,} 
+
+{Index}: 4
+{StartTime}: 0:3:10
+{EndTime}: 0:3:12
+{Text}: {coordinates 22-87-4.} 
+
+{Index}: 5
+{StartTime}: 0:3:12
+{EndTime}: 0:3:16
+{Text}: {Approaching neutral zone.} 
+
+{Index}: 6
+{StartTime}: 0:3:16
+{EndTime}: 0:3:19
+{Text}: {All systems normal and functioning.} 
+
+{Index}: 7
+{StartTime}: 0:3:19
+{EndTime}: 0:3:21
+{Text}: {Leaving Section 14 for Section 15.} 
+
+{Index}: 8
+{StartTime}: 0:3:21
+{EndTime}: 0:3:23
+{Text}: {Stand by.} 
+
+{Index}: 9
+{StartTime}: 0:3:23
+{EndTime}: 0:3:27
+{Text}: {Project parabolic course to avoid entering neutral zone.} 
+
+{Index}: 10
+{StartTime}: 0:3:27
+{EndTime}: 0:3:28
+{Text}: {Aye, Captain.} 
+
+{Index}: 11
+{StartTime}: 0:3:30
+{EndTime}: 0:3:32
+{Text}: {Course change projected.} 
+
+{Index}: 12
+{StartTime}: 0:3:32
+{EndTime}: 0:3:33
+{Text}: {Captain, I'm getting something} 
+
+{Index}: 13
+{StartTime}: 0:3:34
+{EndTime}: 0:3:35
+{Text}: {on the distress channel.} 
+
+{Index}: 14
+{StartTime}: 0:3:35
+{EndTime}: 0:3:37
+{Text}: {On speakers.} 
+
+{Index}: 15
+{StartTime}: 0:3:37
+{EndTime}: 0:3:38
+{Text}: {Imperative.} 
+
+{Index}: 16
+{StartTime}: 0:3:38
+{EndTime}: 0:3:40
+{Text}: {This is Kobayashi Maru.} 
+
+{Index}: 17
+{StartTime}: 0:3:40
+{EndTime}: 0:3:44
+{Text}: {We've struck a gravitic mine and have lost power.} 
+
+{Index}: 18
+{StartTime}: 0:3:44
+{EndTime}: 0:3:47
+{Text}: {Our hull is penetrated and we have sustained...} 
+
+{Index}: 19
+{StartTime}: 0:3:47
+{EndTime}: 0:3:50
+{Text}: {This is the starship Enterprise.} 
+
+{Index}: 20
+{StartTime}: 0:3:50
+{EndTime}: 0:3:52
+{Text}: {Your message is breaking up.} 
+
+{Index}: 21
+{StartTime}: 0:3:52
+{EndTime}: 0:3:54
+{Text}: {Can you give us your coordinates?} 
+
+{Index}: 22
+{StartTime}: 0:3:54
+{EndTime}: 0:3:58
+{Text}: {Our position is Gamma Hydra, Section 10.} 
+
+{Index}: 23
+{StartTime}: 0:3:58
+{EndTime}: 0:4:0
+{Text}: {In the neutral zone.} 
+
+{Index}: 24
+{StartTime}: 0:4:0
+{EndTime}: 0:4:1
+{Text}: {Hull penetrated.} 
+
+{Index}: 25
+{StartTime}: 0:4:1
+{EndTime}: 0:4:3
+{Text}: {Life support systems failing.} 
+
+{Index}: 26
+{StartTime}: 0:4:3
+{EndTime}: 0:4:4
+{Text}: {Can you assist us, Enterprise?} 
+
+{Index}: 27
+{StartTime}: 0:4:5
+{EndTime}: 0:4:7
+{Text}: {Data on Kobayashi Maru.} 
+
+{Index}: 28
+{StartTime}: 0:4:7
+{EndTime}: 0:4:10
+{Text}: {Vessel is third-class neutronic fuel carrier,} 
+
+{Index}: 29
+{StartTime}: 0:4:10
+{EndTime}: 0:4:12
+{Text}: {crew of 81,300 passengers.} 
+
+{Index}: 30
+{StartTime}: 0:4:14
+{EndTime}: 0:4:15
+{Text}: {Damn.} 
+
+{Index}: 31
+{StartTime}: 0:4:16
+{EndTime}: 0:4:21
+{Text}: {Mr. Sulu, plot an intercept course.} 
+
+{Index}: 32
+{StartTime}: 0:4:21
+{EndTime}: 0:4:24
+{Text}: {May I remind you that if the starship enters the zone...} 
+
+{Index}: 33
+{StartTime}: 0:4:25
+{EndTime}: 0:4:27
+{Text}: {I'm aware of my responsibilities, mister.} 
+
+{Index}: 34
+{StartTime}: 0:4:32
+{EndTime}: 0:4:35
+{Text}: {Estimating two minutes to intercept.} 
+
+{Index}: 35
+{StartTime}: 0:4:39
+{EndTime}: 0:4:40
+{Text}: {Now entering the neutral zone.} 
+
+{Index}: 36
+{StartTime}: 0:4:40
+{EndTime}: 0:4:43
+{Text}: {Warning.} {We have entered neutral zone.} 
+
+{Index}: 37
+{StartTime}: 0:4:43
+{EndTime}: 0:4:46
+{Text}: {We are now in violation of treaty, Captain.} 
+
+{Index}: 38
+{StartTime}: 0:4:46
+{EndTime}: 0:4:48
+{Text}: {Stand by, transporter room,} 
+
+{Index}: 39
+{StartTime}: 0:4:48
+{EndTime}: 0:4:50
+{Text}: {ready to beam survivors aboard.} 
+
+{Index}: 40
+{StartTime}: 0:4:50
+{EndTime}: 0:4:52
+{Text}: {Captain, I've lost their signal.} 
+
+{Index}: 41
+{StartTime}: 0:4:52
+{EndTime}: 0:4:56
+{Text}: {Alert.} {Three Klingon cruisers bearing 3-1-6 mark 4,} 
+
+{Index}: 42
+{StartTime}: 0:4:56
+{EndTime}: 0:4:57
+{Text}: {closing fast.} 
+
+{Index}: 43
+{StartTime}: 0:4:57
+{EndTime}: 0:4:58
+{Text}: {Visual.} 
+
+{Index}: 44
+{StartTime}: 0:5:0
+{EndTime}: 0:5:3
+{Text}: {Battle stations.} {Activate shields.} 
+
+{Index}: 45
+{StartTime}: 0:5:4
+{EndTime}: 0:5:5
+{Text}: {Shields activated.} 
+
+{Index}: 46
+{StartTime}: 0:5:5
+{EndTime}: 0:5:8
+{Text}: {Tell them we're on a rescue mission.} 
+
+{Index}: 47
+{StartTime}: 0:5:8
+{EndTime}: 0:5:9
+{Text}: {They're jamming the frequencies.} 
+
+{Index}: 48
+{StartTime}: 0:5:9
+{EndTime}: 0:5:11
+{Text}: {Klingons on attack course and closing.} 
+
+{Index}: 49
+{StartTime}: 0:5:12
+{EndTime}: 0:5:13
+{Text}: {We're over our heads.} 
+
+{Index}: 50
+{StartTime}: 0:5:13
+{EndTime}: 0:5:15
+{Text}: {Mr. Sulu, get us out of here.} 
+
+{Index}: 51
+{StartTime}: 0:5:16
+{EndTime}: 0:5:17
+{Text}: {I'll try, Captain.} 
+
+{Index}: 52
+{StartTime}: 0:5:17
+{EndTime}: 0:5:20
+{Text}: {Alert.} {Klingon torpedoes activated.} {Alert.} 
+
+{Index}: 53
+{StartTime}: 0:5:20
+{EndTime}: 0:5:21
+{Text}: {Evasive action.} 
+
+{Index}: 54
+{StartTime}: 0:5:26
+{EndTime}: 0:5:28
+{Text}: {Engineering, damage report.} 
+
+{Index}: 55
+{StartTime}: 0:5:28
+{EndTime}: 0:5:30
+{Text}: {Main energizer hit, Captain.} 
+
+{Index}: 56
+{StartTime}: 0:5:30
+{EndTime}: 0:5:31
+{Text}: {Engage auxiliary power.} 
+
+{Index}: 57
+{StartTime}: 0:5:31
+{EndTime}: 0:5:33
+{Text}: {Prepare to return fire.} 
+
+{Index}: 58
+{StartTime}: 0:5:33
+{EndTime}: 0:5:35
+{Text}: {Aah!} 
+
+{Index}: 59
+{StartTime}: 0:5:35
+{EndTime}: 0:5:37
+{Text}: {Shields collapsing, Captain.} 
+
+{Index}: 60
+{StartTime}: 0:5:41
+{EndTime}: 0:5:43
+{Text}: {Fire all phasers.} 
+
+{Index}: 61
+{StartTime}: 0:5:43
+{EndTime}: 0:5:45
+{Text}: {No power to the weapons, Captain.} 
+
+{Index}: 62
+{StartTime}: 0:5:49
+{EndTime}: 0:5:51
+{Text}: {Captain, it's no use.} 
+
+{Index}: 63
+{StartTime}: 0:5:52
+{EndTime}: 0:5:54
+{Text}: {We're dead in space.} 
+
+{Index}: 64
+{StartTime}: 0:5:54
+{EndTime}: 0:5:56
+{Text}: {Activate escape pods.} 
+
+{Index}: 65
+{StartTime}: 0:5:56
+{EndTime}: 0:5:58
+{Text}: {Send out the log buoy.} 
+
+{Index}: 66
+{StartTime}: 0:5:58
+{EndTime}: 0:6:0
+{Text}: {All hands abandon ship.} 
+
+{Index}: 67
+{StartTime}: 0:6:0
+{EndTime}: 0:6:2
+{Text}: {All right, open it up.} 
+
+{Index}: 68
+{StartTime}: 0:6:11
+{EndTime}: 0:6:13
+{Text}: {Any suggestions, Admiral?} 
+
+{Index}: 69
+{StartTime}: 0:6:13
+{EndTime}: 0:6:15
+{Text}: {Prayer, Mr. Saavik.} 
+
+{Index}: 70
+{StartTime}: 0:6:15
+{EndTime}: 0:6:18
+{Text}: {The Klingons don't take prisoners.} 
+
+{Index}: 71
+{StartTime}: 0:6:18
+{EndTime}: 0:6:19
+{Text}: {Lights.} 
+
+{Index}: 72
+{StartTime}: 0:6:19
+{EndTime}: 0:6:21
+{Text}: {Blowers on.} 
+
+{Index}: 73
+{StartTime}: 0:6:24
+{EndTime}: 0:6:25
+{Text}: {Captain.} 
+
+{Index}: 74
+{StartTime}: 0:6:31
+{EndTime}: 0:6:33
+{Text}: {Trainees, to the briefing room.} 
+
+{Index}: 75
+{StartTime}: 0:6:33
+{EndTime}: 0:6:36
+{Text}: {Maintenance Crew, report to bridge simulator.} 
+
+{Index}: 76
+{StartTime}: 0:6:36
+{EndTime}: 0:6:40
+{Text}: {Maintenance Crew, report to bridge simulator.} 
+
+{Index}: 77
+{StartTime}: 0:6:40
+{EndTime}: 0:6:42
+{Text}: {Physician, heal thyself.} 
+
+{Index}: 78
+{StartTime}: 0:6:42
+{EndTime}: 0:6:46
+{Text}: {Is that all?} {What about my performance?} 
+
+{Index}: 79
+{StartTime}: 0:6:46
+{EndTime}: 0:6:47
+{Text}: {I'm not a drama critic.} 
+
+{Index}: 80
+{StartTime}: 0:6:50
+{EndTime}: 0:6:52
+{Text}: {Staying with a sinking ship?} 
+
+{Index}: 81
+{StartTime}: 0:6:52
+{EndTime}: 0:6:54
+{Text}: {Permission to speak candidly, sir.} 
+
+{Index}: 82
+{StartTime}: 0:6:54
+{EndTime}: 0:6:55
+{Text}: {Granted.} 
+
+{Index}: 83
+{StartTime}: 0:6:55
+{EndTime}: 0:6:59
+{Text}: {This was not a fair test of my abilities.} 
+
+{Index}: 84
+{StartTime}: 0:6:59
+{EndTime}: 0:7:0
+{Text}: {Why not?} 
+
+{Index}: 85
+{StartTime}: 0:7:0
+{EndTime}: 0:7:3
+{Text}: {Because there was no way to win.} 
+
+{Index}: 86
+{StartTime}: 0:7:3
+{EndTime}: 0:7:6
+{Text}: {A no-win situation is always possible.} 
+
+{Index}: 87
+{StartTime}: 0:7:6
+{EndTime}: 0:7:9
+{Text}: {Has that never occurred to you?} 
+
+{Index}: 88
+{StartTime}: 0:7:9
+{EndTime}: 0:7:11
+{Text}: {No, sir, it has not.} 
+
+{Index}: 89
+{StartTime}: 0:7:11
+{EndTime}: 0:7:14
+{Text}: {Dealing with death is at least as important} 
+
+{Index}: 90
+{StartTime}: 0:7:14
+{EndTime}: 0:7:16
+{Text}: {as dealing with life.} 
+
+{Index}: 91
+{StartTime}: 0:7:16
+{EndTime}: 0:7:19
+{Text}: {That thought had not occurred to me.} 
+
+{Index}: 92
+{StartTime}: 0:7:19
+{EndTime}: 0:7:22
+{Text}: {Now you have something new to think about.} 
+
+{Index}: 93
+{StartTime}: 0:7:22
+{EndTime}: 0:7:23
+{Text}: {Carry on.} 
+
+{Index}: 94
+{StartTime}: 0:7:23
+{EndTime}: 0:7:26
+{Text}: {Engineering Cadets, assemble on C Level.} 
+
+{Index}: 95
+{StartTime}: 0:7:26
+{EndTime}: 0:7:31
+{Text}: {Admiral, why not put an experienced crew on the ship?} 
+
+{Index}: 96
+{StartTime}: 0:7:31
+{EndTime}: 0:7:33
+{Text}: {Galloping around the cosmos} 
+
+{Index}: 97
+{StartTime}: 0:7:33
+{EndTime}: 0:7:36
+{Text}: {is a game for the young.} 
+
+{Index}: 98
+{StartTime}: 0:7:36
+{EndTime}: 0:7:38
+{Text}: {Now, what does that mean?} 
+
+{Index}: 99
+{StartTime}: 0:7:44
+{EndTime}: 0:7:46
+{Text}: {Aren't you dead?} 
+
+{Index}: 100
+{StartTime}: 0:7:48
+{EndTime}: 0:7:50
+{Text}: {I assume you're loitering around here} 
+
+{Index}: 101
+{StartTime}: 0:7:50
+{EndTime}: 0:7:54
+{Text}: {to learn what efficiency rating I plan to give your cadets.} 
+
+{Index}: 102
+{StartTime}: 0:7:54
+{EndTime}: 0:7:56
+{Text}: {I am understandably curious.} 
+
+{Index}: 103
+{StartTime}: 0:7:56
+{EndTime}: 0:7:59
+{Text}: {They destroyed the simulator room} 
+
+{Index}: 104
+{StartTime}: 0:7:59
+{EndTime}: 0:8:1
+{Text}: {and you with it.} 
+
+{Index}: 105
+{StartTime}: 0:8:1
+{EndTime}: 0:8:3
+{Text}: {The Kobayashi Maru scenario} 
+
+{Index}: 106
+{StartTime}: 0:8:3
+{EndTime}: 0:8:6
+{Text}: {frequently wreaks havoc with students and equipment.} 
+
+{Index}: 107
+{StartTime}: 0:8:6
+{EndTime}: 0:8:10
+{Text}: {You took the test three times yourself.} 
+
+{Index}: 108
+{StartTime}: 0:8:10
+{EndTime}: 0:8:12
+{Text}: {Your final solution was unique.} 
+
+{Index}: 109
+{StartTime}: 0:8:12
+{EndTime}: 0:8:14
+{Text}: {That was its virtue.} 
+
+{Index}: 110
+{StartTime}: 0:8:15
+{EndTime}: 0:8:18
+{Text}: {Oh, by the way, thank you for this.} 
+
+{Index}: 111
+{StartTime}: 0:8:18
+{EndTime}: 0:8:22
+{Text}: {I know of your fondness for antiques.} 
+
+{Index}: 112
+{StartTime}: 0:8:22
+{EndTime}: 0:8:25
+{Text}: {"It was the best of times,} 
+
+{Index}: 113
+{StartTime}: 0:8:25
+{EndTime}: 0:8:28
+{Text}: {it was the worst of times."} 
+
+{Index}: 114
+{StartTime}: 0:8:28
+{EndTime}: 0:8:29
+{Text}: {Message, Spock?} 
+
+{Index}: 115
+{StartTime}: 0:8:29
+{EndTime}: 0:8:32
+{Text}: {None that I know.} {Except, of course, happy birthday.} 
+
+{Index}: 116
+{StartTime}: 0:8:33
+{EndTime}: 0:8:35
+{Text}: {Surely the best of times.} 
+
+{Index}: 117
+{StartTime}: 0:8:35
+{EndTime}: 0:8:36
+{Text}: {Captain Spock,} 
+
+{Index}: 118
+{StartTime}: 0:8:36
+{EndTime}: 0:8:39
+{Text}: {space shuttle leaving in 15 minutes.} 
+
+{Index}: 119
+{StartTime}: 0:8:39
+{EndTime}: 0:8:41
+{Text}: {Where are you off to?} 
+
+{Index}: 120
+{StartTime}: 0:8:41
+{EndTime}: 0:8:45
+{Text}: {The Enterprise, to check in before your inspection.} 
+
+{Index}: 121
+{StartTime}: 0:8:45
+{EndTime}: 0:8:46
+{Text}: {And you?} 
+
+{Index}: 122
+{StartTime}: 0:8:48
+{EndTime}: 0:8:49
+{Text}: {Home.} 
+
+{Index}: 123
+{StartTime}: 0:9:5
+{EndTime}: 0:9:8
+{Text}: {Bless me, Doctor, what beams you} 
+
+{Index}: 124
+{StartTime}: 0:9:8
+{EndTime}: 0:9:11
+{Text}: {into this neck of the woods?} 
+
+{Index}: 125
+{StartTime}: 0:9:11
+{EndTime}: 0:9:13
+{Text}: {Beware Romulans bearing gifts.} 
+
+{Index}: 126
+{StartTime}: 0:9:15
+{EndTime}: 0:9:17
+{Text}: {Happy birthday, Jim.} 
+
+{Index}: 127
+{StartTime}: 0:9:17
+{EndTime}: 0:9:18
+{Text}: {Thanks.} 
+
+{Index}: 128
+{StartTime}: 0:9:20
+{EndTime}: 0:9:22
+{Text}: {Romulan ale.} 
+
+{Index}: 129
+{StartTime}: 0:9:22
+{EndTime}: 0:9:24
+{Text}: {Why, Bones, this is illegal.} 
+
+{Index}: 130
+{StartTime}: 0:9:24
+{EndTime}: 0:9:27
+{Text}: {I only use it for medicinal purposes.} 
+
+{Index}: 131
+{StartTime}: 0:9:27
+{EndTime}: 0:9:30
+{Text}: {I got aboard a ship that brings it in.} 
+
+{Index}: 132
+{StartTime}: 0:9:30
+{EndTime}: 0:9:32
+{Text}: {Now, don't be a prig.} 
+
+{Index}: 133
+{StartTime}: 0:9:32
+{EndTime}: 0:9:34
+{Text}: {2283.} 
+
+{Index}: 134
+{StartTime}: 0:9:34
+{EndTime}: 0:9:38
+{Text}: {Well, it takes this stuff a while to ferment.} 
+
+{Index}: 135
+{StartTime}: 0:9:38
+{EndTime}: 0:9:40
+{Text}: {Here, give me.} 
+
+{Index}: 136
+{StartTime}: 0:9:40
+{EndTime}: 0:9:42
+{Text}: {Now, you open this one.} 
+
+{Index}: 137
+{StartTime}: 0:9:42
+{EndTime}: 0:9:44
+{Text}: {I'm almost afraid to.} 
+
+{Index}: 138
+{StartTime}: 0:9:44
+{EndTime}: 0:9:47
+{Text}: {What is it?} {Klingon aphrodisiacs?} 
+
+{Index}: 139
+{StartTime}: 0:9:47
+{EndTime}: 0:9:49
+{Text}: {No.} 
+
+{Index}: 140
+{StartTime}: 0:9:49
+{EndTime}: 0:9:53
+{Text}: {Bones, this is...} 
+
+{Index}: 141
+{StartTime}: 0:9:53
+{EndTime}: 0:9:54
+{Text}: {charming.} 
+
+{Index}: 142
+{StartTime}: 0:9:54
+{EndTime}: 0:9:56
+{Text}: {For most patients your age,} 
+
+{Index}: 143
+{StartTime}: 0:9:56
+{EndTime}: 0:9:59
+{Text}: {I'd recommend Retinax 5.} 
+
+{Index}: 144
+{StartTime}: 0:9:59
+{EndTime}: 0:10:0
+{Text}: {I'm allergic to Retinax.} 
+
+{Index}: 145
+{StartTime}: 0:10:0
+{EndTime}: 0:10:2
+{Text}: {Exactly.} {Cheers!} 
+
+{Index}: 146
+{StartTime}: 0:10:2
+{EndTime}: 0:10:4
+{Text}: {Cheers.} 
+
+{Index}: 147
+{StartTime}: 0:10:11
+{EndTime}: 0:10:13
+{Text}: {Ahh.} 
+
+{Index}: 148
+{StartTime}: 0:10:13
+{EndTime}: 0:10:15
+{Text}: {Happy birthday.} 
+
+{Index}: 149
+{StartTime}: 0:10:16
+{EndTime}: 0:10:19
+{Text}: {I don't know what to say.} 
+
+{Index}: 150
+{StartTime}: 0:10:19
+{EndTime}: 0:10:21
+{Text}: {You could say thank you.} 
+
+{Index}: 151
+{StartTime}: 0:10:21
+{EndTime}: 0:10:22
+{Text}: {Thank you.} 
+
+{Index}: 152
+{StartTime}: 0:10:27
+{EndTime}: 0:10:30
+{Text}: {Damn it, Jim, what the hell's the matter with you?} 
+
+{Index}: 153
+{StartTime}: 0:10:30
+{EndTime}: 0:10:34
+{Text}: {Why are we treating your birthday like a funeral?} 
+
+{Index}: 154
+{StartTime}: 0:10:34
+{EndTime}: 0:10:37
+{Text}: {Bones, I don't want to be lectured.} 
+
+{Index}: 155
+{StartTime}: 0:10:37
+{EndTime}: 0:10:39
+{Text}: {What the hell do you want?} 
+
+{Index}: 156
+{StartTime}: 0:10:41
+{EndTime}: 0:10:45
+{Text}: {This is not about age, and you know it.} 
+
+{Index}: 157
+{StartTime}: 0:10:45
+{EndTime}: 0:10:48
+{Text}: {It's about you flying a goddamn computer console} 
+
+{Index}: 158
+{StartTime}: 0:10:48
+{EndTime}: 0:10:51
+{Text}: {when you want to be out there hopping galaxies.} 
+
+{Index}: 159
+{StartTime}: 0:10:51
+{EndTime}: 0:10:53
+{Text}: {Spare me your poetry.} 
+
+{Index}: 160
+{StartTime}: 0:10:53
+{EndTime}: 0:10:55
+{Text}: {We all have assigned duties.} 
+
+{Index}: 161
+{StartTime}: 0:10:55
+{EndTime}: 0:10:57
+{Text}: {Bull!} 
+
+{Index}: 162
+{StartTime}: 0:10:57
+{EndTime}: 0:11:0
+{Text}: {You're hiding- hiding behind rules and regulations.} 
+
+{Index}: 163
+{StartTime}: 0:11:1
+{EndTime}: 0:11:2
+{Text}: {From whom?} 
+
+{Index}: 164
+{StartTime}: 0:11:2
+{EndTime}: 0:11:5
+{Text}: {From yourself, Admiral.} 
+
+{Index}: 165
+{StartTime}: 0:11:10
+{EndTime}: 0:11:12
+{Text}: {Don't mince words, Bones.} 
+
+{Index}: 166
+{StartTime}: 0:11:12
+{EndTime}: 0:11:14
+{Text}: {What do you really think?} 
+
+{Index}: 167
+{StartTime}: 0:11:18
+{EndTime}: 0:11:25
+{Text}: {Jim, I'm your doctor, and I'm your friend.} 
+
+{Index}: 168
+{StartTime}: 0:11:25
+{EndTime}: 0:11:27
+{Text}: {Get back your command.} 
+
+{Index}: 169
+{StartTime}: 0:11:27
+{EndTime}: 0:11:30
+{Text}: {Get it back before you turn} 
+
+{Index}: 170
+{StartTime}: 0:11:30
+{EndTime}: 0:11:32
+{Text}: {into part of this collection,} 
+
+{Index}: 171
+{StartTime}: 0:11:32
+{EndTime}: 0:11:36
+{Text}: {before you really do grow old.} 
+
+{Index}: 172
+{StartTime}: 0:11:52
+{EndTime}: 0:11:56
+{Text}: {Starship Log: Stardate 8130.4.} 
+
+{Index}: 173
+{StartTime}: 0:11:56
+{EndTime}: 0:11:59
+{Text}: {Log entry by First Officer Pavel Chekov.} 
+
+{Index}: 174
+{StartTime}: 0:11:59
+{EndTime}: 0:12:3
+{Text}: {Starship Reliant on orbital approach to Ceti Alpha VI} 
+
+{Index}: 175
+{StartTime}: 0:12:3
+{EndTime}: 0:12:6
+{Text}: {in connection with Project Genesis.} 
+
+{Index}: 176
+{StartTime}: 0:12:6
+{EndTime}: 0:12:8
+{Text}: {We are searching for a lifeless planet} 
+
+{Index}: 177
+{StartTime}: 0:12:8
+{EndTime}: 0:12:10
+{Text}: {to use as a test site} 
+
+{Index}: 178
+{StartTime}: 0:12:10
+{EndTime}: 0:12:12
+{Text}: {for the Genesis experiment.} 
+
+{Index}: 179
+{StartTime}: 0:12:12
+{EndTime}: 0:12:13
+{Text}: {So far, no success.} 
+
+{Index}: 180
+{StartTime}: 0:12:13
+{EndTime}: 0:12:15
+{Text}: {Standard orbit, please.} 
+
+{Index}: 181
+{StartTime}: 0:12:15
+{EndTime}: 0:12:18
+{Text}: {Mr. Beach, any change in the surface scan?} 
+
+{Index}: 182
+{StartTime}: 0:12:19
+{EndTime}: 0:12:20
+{Text}: {Negative.} 
+
+{Index}: 183
+{StartTime}: 0:12:20
+{EndTime}: 0:12:23
+{Text}: {Limited atmosphere dominated by kraylon gas,} 
+
+{Index}: 184
+{StartTime}: 0:12:23
+{EndTime}: 0:12:25
+{Text}: {sand, high-velocity winds.} 
+
+{Index}: 185
+{StartTime}: 0:12:25
+{EndTime}: 0:12:28
+{Text}: {incapable of supporting life forms.} 
+
+{Index}: 186
+{StartTime}: 0:12:28
+{EndTime}: 0:12:31
+{Text}: {Does it have to be completely lifeless?} 
+
+{Index}: 187
+{StartTime}: 0:12:31
+{EndTime}: 0:12:33
+{Text}: {Have you found something?} 
+
+{Index}: 188
+{StartTime}: 0:12:33
+{EndTime}: 0:12:37
+{Text}: {We picked up a minor energy flux} 
+
+{Index}: 189
+{StartTime}: 0:12:37
+{EndTime}: 0:12:39
+{Text}: {on one dynoscanner.} 
+
+{Index}: 190
+{StartTime}: 0:12:39
+{EndTime}: 0:12:41
+{Text}: {Damn.} {Are you sure?} 
+
+{Index}: 191
+{StartTime}: 0:12:41
+{EndTime}: 0:12:44
+{Text}: {Maybe the scanner's out of adjustment.} 
+
+{Index}: 192
+{StartTime}: 0:12:44
+{EndTime}: 0:12:48
+{Text}: {I suppose it could be a particle of preanimate matter} 
+
+{Index}: 193
+{StartTime}: 0:12:48
+{EndTime}: 0:12:50
+{Text}: {caught in the matrix.} 
+
+{Index}: 194
+{StartTime}: 0:12:50
+{EndTime}: 0:12:53
+{Text}: {Get on the Comm-pic to Dr. Marcus.} 
+
+{Index}: 195
+{StartTime}: 0:12:53
+{EndTime}: 0:12:55
+{Text}: {Aye, sir.} 
+
+{Index}: 196
+{StartTime}: 0:12:55
+{EndTime}: 0:12:58
+{Text}: {Maybe it's something we can transplant.} 
+
+{Index}: 197
+{StartTime}: 0:12:58
+{EndTime}: 0:13:1
+{Text}: {You know what she'll say.} 
+
+{Index}: 198
+{StartTime}: 0:13:1
+{EndTime}: 0:13:2
+{Text}: {Let me get this straight-} 
+
+{Index}: 199
+{StartTime}: 0:13:2
+{EndTime}: 0:13:4
+{Text}: {something you can transplant?} 
+
+{Index}: 200
+{StartTime}: 0:13:4
+{EndTime}: 0:13:5
+{Text}: {Yes, Doctor.} 
+
+{Index}: 201
+{StartTime}: 0:13:6
+{EndTime}: 0:13:8
+{Text}: {Something you can transplant?} 
+
+{Index}: 202
+{StartTime}: 0:13:9
+{EndTime}: 0:13:11
+{Text}: {I don't know.} 
+
+{Index}: 203
+{StartTime}: 0:13:11
+{EndTime}: 0:13:15
+{Text}: {But it may only be preanimate matter.} 
+
+{Index}: 204
+{StartTime}: 0:13:15
+{EndTime}: 0:13:17
+{Text}: {Then again, it may not.} 
+
+{Index}: 205
+{StartTime}: 0:13:17
+{EndTime}: 0:13:21
+{Text}: {There can't be so much as a microbe,} 
+
+{Index}: 206
+{StartTime}: 0:13:21
+{EndTime}: 0:13:23
+{Text}: {or the show's off.} 
+
+{Index}: 207
+{StartTime}: 0:13:23
+{EndTime}: 0:13:27
+{Text}: {Have a look.} {If it can be moved-} 
+
+{Index}: 208
+{StartTime}: 0:13:27
+{EndTime}: 0:13:29
+{Text}: {You bet, Doctor.} {we're on our way.} 
+
+{Index}: 209
+{StartTime}: 0:13:34
+{EndTime}: 0:13:37
+{Text}: {Well, don't have kittens.} {Genesis will work.} 
+
+{Index}: 210
+{StartTime}: 0:13:37
+{EndTime}: 0:13:41
+{Text}: {They'll remember you with Newton, Einstein, Surak.} 
+
+{Index}: 211
+{StartTime}: 0:13:41
+{EndTime}: 0:13:44
+{Text}: {Thanks.} {No respect from my offspring.} 
+
+{Index}: 212
+{StartTime}: 0:13:44
+{EndTime}: 0:13:46
+{Text}: {Par for the course.} 
+
+{Index}: 213
+{StartTime}: 0:13:46
+{EndTime}: 0:13:49
+{Text}: {You teaming up with me for bridge?} 
+
+{Index}: 214
+{StartTime}: 0:13:49
+{EndTime}: 0:13:51
+{Text}: {Maybe.} 
+
+{Index}: 215
+{StartTime}: 0:13:51
+{EndTime}: 0:13:53
+{Text}: {What is it?} 
+
+{Index}: 216
+{StartTime}: 0:13:53
+{EndTime}: 0:13:56
+{Text}: {Whenever we deal with Starfleet,} 
+
+{Index}: 217
+{StartTime}: 0:13:56
+{EndTime}: 0:13:58
+{Text}: {I get nervous.} 
+
+{Index}: 218
+{StartTime}: 0:13:58
+{EndTime}: 0:14:0
+{Text}: {We are dealing with something} 
+
+{Index}: 219
+{StartTime}: 0:14:0
+{EndTime}: 0:14:4
+{Text}: {that could be perverted into a dreadful weapon.} 
+
+{Index}: 220
+{StartTime}: 0:14:4
+{EndTime}: 0:14:7
+{Text}: {Remember that overgrown Boy Scout} 
+
+{Index}: 221
+{StartTime}: 0:14:7
+{EndTime}: 0:14:9
+{Text}: {you hung around with?} 
+
+{Index}: 222
+{StartTime}: 0:14:9
+{EndTime}: 0:14:11
+{Text}: {Jim Kirk was many things,} 
+
+{Index}: 223
+{StartTime}: 0:14:11
+{EndTime}: 0:14:15
+{Text}: {but he was never a boy scout.} 
+
+{Index}: 224
+{StartTime}: 0:14:16
+{EndTime}: 0:14:19
+{Text}: {Captain Terrell, standby to beam down.} 
+
+{Index}: 225
+{StartTime}: 0:14:33
+{EndTime}: 0:14:35
+{Text}: {Chekov, are you sure} 
+
+{Index}: 226
+{StartTime}: 0:14:35
+{EndTime}: 0:14:38
+{Text}: {these are the correct coordinates?} 
+
+{Index}: 227
+{StartTime}: 0:14:38
+{EndTime}: 0:14:41
+{Text}: {Captain, this is the garden spot} 
+
+{Index}: 228
+{StartTime}: 0:14:41
+{EndTime}: 0:14:43
+{Text}: {of Ceti Alpha VI.} 
+
+{Index}: 229
+{StartTime}: 0:14:44
+{EndTime}: 0:14:46
+{Text}: {I can barely see it.} 
+
+{Index}: 230
+{StartTime}: 0:14:55
+{EndTime}: 0:14:57
+{Text}: {There's nothing here.} 
+
+{Index}: 231
+{StartTime}: 0:14:57
+{EndTime}: 0:15:0
+{Text}: {The tricorder must be broken.} 
+
+{Index}: 232
+{StartTime}: 0:15:13
+{EndTime}: 0:15:16
+{Text}: {Chekov, over here.} 
+
+{Index}: 233
+{StartTime}: 0:15:23
+{EndTime}: 0:15:26
+{Text}: {Those look like cargo carriers.} 
+
+{Index}: 234
+{StartTime}: 0:15:35
+{EndTime}: 0:15:38
+{Text}: {Hey, give me a hand.} 
+
+{Index}: 235
+{StartTime}: 0:16:16
+{EndTime}: 0:16:18
+{Text}: {What the hell happened?} 
+
+{Index}: 236
+{StartTime}: 0:16:18
+{EndTime}: 0:16:20
+{Text}: {If they crashed,} 
+
+{Index}: 237
+{StartTime}: 0:16:20
+{EndTime}: 0:16:23
+{Text}: {where's the rest of the ship?} 
+
+{Index}: 238
+{StartTime}: 0:16:36
+{EndTime}: 0:16:38
+{Text}: {What the hell is that?} 
+
+{Index}: 239
+{StartTime}: 0:16:51
+{EndTime}: 0:16:53
+{Text}: {Botany Bay?} 
+
+{Index}: 240
+{StartTime}: 0:16:54
+{EndTime}: 0:16:56
+{Text}: {Botany Bay!} 
+
+{Index}: 241
+{StartTime}: 0:16:57
+{EndTime}: 0:16:59
+{Text}: {Oh, no!} 
+
+{Index}: 242
+{StartTime}: 0:17:0
+{EndTime}: 0:17:2
+{Text}: {We've got to leave now!} 
+
+{Index}: 243
+{StartTime}: 0:17:2
+{EndTime}: 0:17:4
+{Text}: {What about-} 
+
+{Index}: 244
+{StartTime}: 0:17:4
+{EndTime}: 0:17:6
+{Text}: {Never mind that.} {Hurry!} 
+
+{Index}: 245
+{StartTime}: 0:17:6
+{EndTime}: 0:17:8
+{Text}: {Chekov, what's wrong with you?} 
+
+{Index}: 246
+{StartTime}: 0:17:8
+{EndTime}: 0:17:10
+{Text}: {Chekov?} 
+
+{Index}: 247
+{StartTime}: 0:17:11
+{EndTime}: 0:17:13
+{Text}: {Come on!} {Hurry!} 
+
+{Index}: 248
+{StartTime}: 0:17:26
+{EndTime}: 0:17:29
+{Text}: {Starship Reliant to Captain Terrell.} 
+
+{Index}: 249
+{StartTime}: 0:17:29
+{EndTime}: 0:17:32
+{Text}: {This is Commander Kyle.} 
+
+{Index}: 250
+{StartTime}: 0:17:32
+{EndTime}: 0:17:34
+{Text}: {Will you please respond, Captain?} 
+
+{Index}: 251
+{StartTime}: 0:17:35
+{EndTime}: 0:17:39
+{Text}: {Captain Terrell, respond, please.} 
+
+{Index}: 252
+{StartTime}: 0:17:43
+{EndTime}: 0:17:46
+{Text}: {Let's give them a little more time.} 
+
+{Index}: 253
+{StartTime}: 0:18:20
+{EndTime}: 0:18:21
+{Text}: {Khan.} 
+
+{Index}: 254
+{StartTime}: 0:18:36
+{EndTime}: 0:18:38
+{Text}: {I don't know you.} 
+
+{Index}: 255
+{StartTime}: 0:18:45
+{EndTime}: 0:18:47
+{Text}: {But you...} 
+
+{Index}: 256
+{StartTime}: 0:18:47
+{EndTime}: 0:18:51
+{Text}: {I never forget a face.} 
+
+{Index}: 257
+{StartTime}: 0:18:51
+{EndTime}: 0:18:52
+{Text}: {Mr..} {.} 
+
+{Index}: 258
+{StartTime}: 0:18:54
+{EndTime}: 0:18:56
+{Text}: {Chekov.} 
+
+{Index}: 259
+{StartTime}: 0:18:57
+{EndTime}: 0:18:58
+{Text}: {Isn't it?} 
+
+{Index}: 260
+{StartTime}: 0:19:1
+{EndTime}: 0:19:4
+{Text}: {I never thought to see your face again.} 
+
+{Index}: 261
+{StartTime}: 0:19:4
+{EndTime}: 0:19:6
+{Text}: {Chekov, who is this man?} 
+
+{Index}: 262
+{StartTime}: 0:19:6
+{EndTime}: 0:19:8
+{Text}: {A criminal, Captain.} 
+
+{Index}: 263
+{StartTime}: 0:19:8
+{EndTime}: 0:19:11
+{Text}: {A product of 20th-century genetic engineering.} 
+
+{Index}: 264
+{StartTime}: 0:19:11
+{EndTime}: 0:19:14
+{Text}: {What do you want?} {I demand to be-} 
+
+{Index}: 265
+{StartTime}: 0:19:14
+{EndTime}: 0:19:19
+{Text}: {You are in a position to demand nothing, sir.} 
+
+{Index}: 266
+{StartTime}: 0:19:19
+{EndTime}: 0:19:21
+{Text}: {I, on the other hand,} 
+
+{Index}: 267
+{StartTime}: 0:19:21
+{EndTime}: 0:19:25
+{Text}: {am in a position to grant nothing.} 
+
+{Index}: 268
+{StartTime}: 0:19:25
+{EndTime}: 0:19:28
+{Text}: {What you see is all that remains} 
+
+{Index}: 269
+{StartTime}: 0:19:28
+{EndTime}: 0:19:32
+{Text}: {of the ship's company and crew} 
+
+{Index}: 270
+{StartTime}: 0:19:32
+{EndTime}: 0:19:34
+{Text}: {of the Botany Bay,} 
+
+{Index}: 271
+{StartTime}: 0:19:34
+{EndTime}: 0:19:38
+{Text}: {marooned here 15 years ago by Captain James T. Kirk.} 
+
+{Index}: 272
+{StartTime}: 0:19:38
+{EndTime}: 0:19:41
+{Text}: {Listen, you men and women-} 
+
+{Index}: 273
+{StartTime}: 0:19:41
+{EndTime}: 0:19:43
+{Text}: {Captain, Captain.} 
+
+{Index}: 274
+{StartTime}: 0:19:46
+{EndTime}: 0:19:48
+{Text}: {Save your strength, Captain.} 
+
+{Index}: 275
+{StartTime}: 0:19:48
+{EndTime}: 0:19:50
+{Text}: {These people had sworn} 
+
+{Index}: 276
+{StartTime}: 0:19:50
+{EndTime}: 0:19:54
+{Text}: {to live and die at my command} 
+
+{Index}: 277
+{StartTime}: 0:19:54
+{EndTime}: 0:19:56
+{Text}: {200 years before you were born.} 
+
+{Index}: 278
+{StartTime}: 0:19:56
+{EndTime}: 0:20:2
+{Text}: {Do you mean he never told you the tale?} 
+
+{Index}: 279
+{StartTime}: 0:20:2
+{EndTime}: 0:20:4
+{Text}: {To amuse your Captain?} 
+
+{Index}: 280
+{StartTime}: 0:20:4
+{EndTime}: 0:20:6
+{Text}: {No?} 
+
+{Index}: 281
+{StartTime}: 0:20:6
+{EndTime}: 0:20:8
+{Text}: {Never told you} 
+
+{Index}: 282
+{StartTime}: 0:20:8
+{EndTime}: 0:20:11
+{Text}: {How the Enterprise picked up the Botany Bay} 
+
+{Index}: 283
+{StartTime}: 0:20:11
+{EndTime}: 0:20:14
+{Text}: {lost in space from the year 1996,} 
+
+{Index}: 284
+{StartTime}: 0:20:14
+{EndTime}: 0:20:18
+{Text}: {myself and the ship's company in cryogenic freeze?} 
+
+{Index}: 285
+{StartTime}: 0:20:18
+{EndTime}: 0:20:21
+{Text}: {I've never even met Admiral Kirk.} 
+
+{Index}: 286
+{StartTime}: 0:20:21
+{EndTime}: 0:20:22
+{Text}: {Admiral?} 
+
+{Index}: 287
+{StartTime}: 0:20:22
+{EndTime}: 0:20:23
+{Text}: {Admiral.} 
+
+{Index}: 288
+{StartTime}: 0:20:25
+{EndTime}: 0:20:26
+{Text}: {Admiral.} 
+
+{Index}: 289
+{StartTime}: 0:20:30
+{EndTime}: 0:20:32
+{Text}: {Never told you} 
+
+{Index}: 290
+{StartTime}: 0:20:32
+{EndTime}: 0:20:37
+{Text}: {how Admiral Kirk sent 70 of us into exile} 
+
+{Index}: 291
+{StartTime}: 0:20:37
+{EndTime}: 0:20:39
+{Text}: {on this barren sand heap} 
+
+{Index}: 292
+{StartTime}: 0:20:40
+{EndTime}: 0:20:44
+{Text}: {with only the contents of these cargo bays} 
+
+{Index}: 293
+{StartTime}: 0:20:44
+{EndTime}: 0:20:46
+{Text}: {to sustain us?} 
+
+{Index}: 294
+{StartTime}: 0:20:46
+{EndTime}: 0:20:49
+{Text}: {You lie!} {On Ceti Alpha V, there was life.} 
+
+{Index}: 295
+{StartTime}: 0:20:49
+{EndTime}: 0:20:51
+{Text}: {A fair chance-} 
+
+{Index}: 296
+{StartTime}: 0:20:51
+{EndTime}: 0:20:53
+{Text}: {This is Ceti Alpha V!} 
+
+{Index}: 297
+{StartTime}: 0:21:1
+{EndTime}: 0:21:3
+{Text}: {Ceti Alpha VI exploded} 
+
+{Index}: 298
+{StartTime}: 0:21:3
+{EndTime}: 0:21:7
+{Text}: {six months after we were left here.} 
+
+{Index}: 299
+{StartTime}: 0:21:7
+{EndTime}: 0:21:10
+{Text}: {The shock shifted the orbit} 
+
+{Index}: 300
+{StartTime}: 0:21:10
+{EndTime}: 0:21:12
+{Text}: {of this planet,} 
+
+{Index}: 301
+{StartTime}: 0:21:12
+{EndTime}: 0:21:15
+{Text}: {and everything was laid waste.} 
+
+{Index}: 302
+{StartTime}: 0:21:15
+{EndTime}: 0:21:17
+{Text}: {Admiral Kirk never bothered to check} 
+
+{Index}: 303
+{StartTime}: 0:21:17
+{EndTime}: 0:21:20
+{Text}: {on our progress.} 
+
+{Index}: 304
+{StartTime}: 0:21:23
+{EndTime}: 0:21:26
+{Text}: {It was only the fact} 
+
+{Index}: 305
+{StartTime}: 0:21:26
+{EndTime}: 0:21:28
+{Text}: {of my genetically engineered intellect} 
+
+{Index}: 306
+{StartTime}: 0:21:28
+{EndTime}: 0:21:31
+{Text}: {that allowed us to survive.} 
+
+{Index}: 307
+{StartTime}: 0:21:35
+{EndTime}: 0:21:37
+{Text}: {On earth...} 
+
+{Index}: 308
+{StartTime}: 0:21:39
+{EndTime}: 0:21:41
+{Text}: {200 years ago...} 
+
+{Index}: 309
+{StartTime}: 0:21:42
+{EndTime}: 0:21:45
+{Text}: {I was a prince...} 
+
+{Index}: 310
+{StartTime}: 0:21:45
+{EndTime}: 0:21:49
+{Text}: {with power over millions.} 
+
+{Index}: 311
+{StartTime}: 0:21:49
+{EndTime}: 0:21:51
+{Text}: {Captain Kirk was your host.} 
+
+{Index}: 312
+{StartTime}: 0:21:51
+{EndTime}: 0:21:53
+{Text}: {You repaid his hospitality} 
+
+{Index}: 313
+{StartTime}: 0:21:53
+{EndTime}: 0:21:56
+{Text}: {by trying to steal his ship} 
+
+{Index}: 314
+{StartTime}: 0:21:56
+{EndTime}: 0:21:57
+{Text}: {and murder him.} 
+
+{Index}: 315
+{StartTime}: 0:22:7
+{EndTime}: 0:22:11
+{Text}: {You didn't expect to find me.} 
+
+{Index}: 316
+{StartTime}: 0:22:11
+{EndTime}: 0:22:15
+{Text}: {You thought this was Ceti Alpha VI.} 
+
+{Index}: 317
+{StartTime}: 0:22:16
+{EndTime}: 0:22:18
+{Text}: {Ahh.} 
+
+{Index}: 318
+{StartTime}: 0:22:19
+{EndTime}: 0:22:22
+{Text}: {Why are you here?} 
+
+{Index}: 319
+{StartTime}: 0:22:31
+{EndTime}: 0:22:33
+{Text}: {Why?} 
+
+{Index}: 320
+{StartTime}: 0:22:40
+{EndTime}: 0:22:42
+{Text}: {Allow me to introduce you} 
+
+{Index}: 321
+{StartTime}: 0:22:42
+{EndTime}: 0:22:44
+{Text}: {to Ceti Alpha V's} 
+
+{Index}: 322
+{StartTime}: 0:22:44
+{EndTime}: 0:22:48
+{Text}: {only remaining indigenous life form.} 
+
+{Index}: 323
+{StartTime}: 0:22:59
+{EndTime}: 0:23:0
+{Text}: {What do you think?} 
+
+{Index}: 324
+{StartTime}: 0:23:1
+{EndTime}: 0:23:4
+{Text}: {It killed 20 of my people...} 
+
+{Index}: 325
+{StartTime}: 0:23:7
+{EndTime}: 0:23:9
+{Text}: {including my beloved wife.} 
+
+{Index}: 326
+{StartTime}: 0:23:24
+{EndTime}: 0:23:27
+{Text}: {Oh, not all at once.} 
+
+{Index}: 327
+{StartTime}: 0:23:30
+{EndTime}: 0:23:35
+{Text}: {And not instantly, to be sure.} 
+
+{Index}: 328
+{StartTime}: 0:23:46
+{EndTime}: 0:23:47
+{Text}: {You see,} 
+
+{Index}: 329
+{StartTime}: 0:23:47
+{EndTime}: 0:23:50
+{Text}: {their young enter through the ears} 
+
+{Index}: 330
+{StartTime}: 0:23:50
+{EndTime}: 0:23:53
+{Text}: {and wrap themselves around the cerebral cortex.} 
+
+{Index}: 331
+{StartTime}: 0:23:53
+{EndTime}: 0:23:57
+{Text}: {This has the effect of rendering the victim} 
+
+{Index}: 332
+{StartTime}: 0:23:57
+{EndTime}: 0:24:2
+{Text}: {extremely susceptible to, uh...suggestion.} 
+
+{Index}: 333
+{StartTime}: 0:24:3
+{EndTime}: 0:24:8
+{Text}: {Later, as they grow...} 
+
+{Index}: 334
+{StartTime}: 0:24:8
+{EndTime}: 0:24:12
+{Text}: {follows madness...} 
+
+{Index}: 335
+{StartTime}: 0:24:13
+{EndTime}: 0:24:14
+{Text}: {and death.} 
+
+{Index}: 336
+{StartTime}: 0:24:22
+{EndTime}: 0:24:24
+{Text}: {Khan, listen to me.} 
+
+{Index}: 337
+{StartTime}: 0:24:24
+{EndTime}: 0:24:29
+{Text}: {These are pets, of course.} 
+
+{Index}: 338
+{StartTime}: 0:24:31
+{EndTime}: 0:24:35
+{Text}: {Not quite domesticated.} 
+
+{Index}: 339
+{StartTime}: 0:24:35
+{EndTime}: 0:24:37
+{Text}: {Khan,} 
+
+{Index}: 340
+{StartTime}: 0:24:37
+{EndTime}: 0:24:41
+{Text}: {Captain Kirk was only doing his duty.} 
+
+{Index}: 341
+{StartTime}: 0:24:50
+{EndTime}: 0:24:52
+{Text}: {Aah!} 
+
+{Index}: 342
+{StartTime}: 0:24:52
+{EndTime}: 0:24:57
+{Text}: {Aaaahh!} 
+
+{Index}: 343
+{StartTime}: 0:25:9
+{EndTime}: 0:25:10
+{Text}: {That's better.} 
+
+{Index}: 344
+{StartTime}: 0:25:12
+{EndTime}: 0:25:17
+{Text}: {Now, tell me, why are you here?} 
+
+{Index}: 345
+{StartTime}: 0:25:17
+{EndTime}: 0:25:19
+{Text}: {And tell me} 
+
+{Index}: 346
+{StartTime}: 0:25:19
+{EndTime}: 0:25:24
+{Text}: {where I may find James Kirk.} 
+
+{Index}: 347
+{StartTime}: 0:25:26
+{EndTime}: 0:25:29
+{Text}: {Enterprise to Admiral Kirk's shuttle.} 
+
+{Index}: 348
+{StartTime}: 0:25:29
+{EndTime}: 0:25:30
+{Text}: {You're cleared for docking.} 
+
+{Index}: 349
+{StartTime}: 0:25:30
+{EndTime}: 0:25:33
+{Text}: {Approach portside torpedo bay.} 
+
+{Index}: 350
+{StartTime}: 0:25:35
+{EndTime}: 0:25:39
+{Text}: {Enterprise, this is Admiral Kirk's party on final approach.} 
+
+{Index}: 351
+{StartTime}: 0:25:39
+{EndTime}: 0:25:42
+{Text}: {Enterprise welcomes you.} {Prepare for docking.} 
+
+{Index}: 352
+{StartTime}: 0:25:56
+{EndTime}: 0:25:58
+{Text}: {I hate inspections.} 
+
+{Index}: 353
+{StartTime}: 0:26:0
+{EndTime}: 0:26:4
+{Text}: {I'm delighted.} {Any chance to go aboard the Enterprise.} 
+
+{Index}: 354
+{StartTime}: 0:26:13
+{EndTime}: 0:26:16
+{Text}: {I'm glad you're at the helm for three weeks.} 
+
+{Index}: 355
+{StartTime}: 0:26:16
+{EndTime}: 0:26:18
+{Text}: {These kids can't steer.} 
+
+{Index}: 356
+{StartTime}: 0:26:35
+{EndTime}: 0:26:36
+{Text}: {Open the air lock.} 
+
+{Index}: 357
+{StartTime}: 0:26:37
+{EndTime}: 0:26:39
+{Text}: {Permission to come aboard.} 
+
+{Index}: 358
+{StartTime}: 0:26:39
+{EndTime}: 0:26:42
+{Text}: {You're welcome.} {You know my training crew.} 
+
+{Index}: 359
+{StartTime}: 0:26:43
+{EndTime}: 0:26:45
+{Text}: {Certainly they know you.} 
+
+{Index}: 360
+{StartTime}: 0:26:45
+{EndTime}: 0:26:48
+{Text}: {We've been through death and life together.} 
+
+{Index}: 361
+{StartTime}: 0:26:51
+{EndTime}: 0:26:54
+{Text}: {Mr. Scott, you old space dog, you're well.} 
+
+{Index}: 362
+{StartTime}: 0:26:54
+{EndTime}: 0:26:57
+{Text}: {I had a wee bout, sir,} 
+
+{Index}: 363
+{StartTime}: 0:26:57
+{EndTime}: 0:26:59
+{Text}: {but Dr. McCoy pulled me through.} 
+
+{Index}: 364
+{StartTime}: 0:26:59
+{EndTime}: 0:27:1
+{Text}: {Wee bout of what?} 
+
+{Index}: 365
+{StartTime}: 0:27:1
+{EndTime}: 0:27:3
+{Text}: {Shore leave, Admiral.} 
+
+{Index}: 366
+{StartTime}: 0:27:5
+{EndTime}: 0:27:7
+{Text}: {Who do we have here?} 
+
+{Index}: 367
+{StartTime}: 0:27:7
+{EndTime}: 0:27:11
+{Text}: {Midshipman First Class Peter Preston, Engineer's Mate, sir.} 
+
+{Index}: 368
+{StartTime}: 0:27:11
+{EndTime}: 0:27:13
+{Text}: {First training voyage, Mr. Preston?} 
+
+{Index}: 369
+{StartTime}: 0:27:13
+{EndTime}: 0:27:14
+{Text}: {Yes, sir.} 
+
+{Index}: 370
+{StartTime}: 0:27:14
+{EndTime}: 0:27:16
+{Text}: {I see.} 
+
+{Index}: 371
+{StartTime}: 0:27:16
+{EndTime}: 0:27:19
+{Text}: {Shall we start with the engine room?} 
+
+{Index}: 372
+{StartTime}: 0:27:19
+{EndTime}: 0:27:22
+{Text}: {We'll see you there.} {Everything is in order.} 
+
+{Index}: 373
+{StartTime}: 0:27:22
+{EndTime}: 0:27:25
+{Text}: {That'll be a pleasant surprise, Mr. Scott.} 
+
+{Index}: 374
+{StartTime}: 0:27:25
+{EndTime}: 0:27:29
+{Text}: {I'll see you on the bridge, Admiral.} 
+
+{Index}: 375
+{StartTime}: 0:27:29
+{EndTime}: 0:27:31
+{Text}: {Company, dismissed.} 
+
+{Index}: 376
+{StartTime}: 0:28:22
+{EndTime}: 0:28:25
+{Text}: {Well, Mr. Scott, are your cadets capable} 
+
+{Index}: 377
+{StartTime}: 0:28:25
+{EndTime}: 0:28:27
+{Text}: {of handling a minor training cruise?} 
+
+{Index}: 378
+{StartTime}: 0:28:27
+{EndTime}: 0:28:28
+{Text}: {Give the word, Admiral.} 
+
+{Index}: 379
+{StartTime}: 0:28:28
+{EndTime}: 0:28:30
+{Text}: {The word is given.} 
+
+{Index}: 380
+{StartTime}: 0:28:30
+{EndTime}: 0:28:32
+{Text}: {Aye, sir.} 
+
+{Index}: 381
+{StartTime}: 0:28:32
+{EndTime}: 0:28:35
+{Text}: {What about the rest of the inspection?} 
+
+{Index}: 382
+{StartTime}: 0:28:49
+{EndTime}: 0:28:51
+{Text}: {This is Starfleet operations.} 
+
+{Index}: 383
+{StartTime}: 0:28:51
+{EndTime}: 0:28:53
+{Text}: {Enterprise is clear for departure.} 
+
+{Index}: 384
+{StartTime}: 0:28:53
+{EndTime}: 0:28:55
+{Text}: {Admiral on the bridge.} 
+
+{Index}: 385
+{StartTime}: 0:29:4
+{EndTime}: 0:29:6
+{Text}: {Running lights on.} 
+
+{Index}: 386
+{StartTime}: 0:29:10
+{EndTime}: 0:29:11
+{Text}: {Very well, Mr. Saavik.} 
+
+{Index}: 387
+{StartTime}: 0:29:12
+{EndTime}: 0:29:14
+{Text}: {You may clear all moorings.} 
+
+{Index}: 388
+{StartTime}: 0:29:14
+{EndTime}: 0:29:16
+{Text}: {Aye, sir.} 
+
+{Index}: 389
+{StartTime}: 0:29:16
+{EndTime}: 0:29:19
+{Text}: {All moorings are cleared, Captain.} 
+
+{Index}: 390
+{StartTime}: 0:29:19
+{EndTime}: 0:29:20
+{Text}: {Thank you.} 
+
+{Index}: 391
+{StartTime}: 0:29:24
+{EndTime}: 0:29:25
+{Text}: {Lieutenant,} 
+
+{Index}: 392
+{StartTime}: 0:29:27
+{EndTime}: 0:29:30
+{Text}: {have you piloted a starship out of space dock?} 
+
+{Index}: 393
+{StartTime}: 0:29:30
+{EndTime}: 0:29:31
+{Text}: {Never, sir.} 
+
+{Index}: 394
+{StartTime}: 0:29:42
+{EndTime}: 0:29:44
+{Text}: {Take her out, Mr. Saavik.} 
+
+{Index}: 395
+{StartTime}: 0:29:46
+{EndTime}: 0:29:47
+{Text}: {Aye, sir.} 
+
+{Index}: 396
+{StartTime}: 0:29:55
+{EndTime}: 0:29:58
+{Text}: {For everything there is a first time, Lieutenant.} 
+
+{Index}: 397
+{StartTime}: 0:29:59
+{EndTime}: 0:30:0
+{Text}: {Don't you agree, Admiral?} 
+
+{Index}: 398
+{StartTime}: 0:30:1
+{EndTime}: 0:30:1
+{Text}: {Uh-huh.} 
+
+{Index}: 399
+{StartTime}: 0:30:2
+{EndTime}: 0:30:3
+{Text}: {Aft thrusters, Mr. Sulu.} 
+
+{Index}: 400
+{StartTime}: 0:30:4
+{EndTime}: 0:30:6
+{Text}: {Aft thrusters.} 
+
+{Index}: 401
+{StartTime}: 0:30:6
+{EndTime}: 0:30:7
+{Text}: {Would you like a tranquilizer?} 
+
+{Index}: 402
+{StartTime}: 0:30:8
+{EndTime}: 0:30:10
+{Text}: {Add 1 /4 impulse power.} 
+
+{Index}: 403
+{StartTime}: 0:30:10
+{EndTime}: 0:30:13
+{Text}: {Add 1 /4 impulse power.} 
+
+{Index}: 404
+{StartTime}: 0:31:23
+{EndTime}: 0:31:25
+{Text}: {We are free to navigate.} 
+
+{Index}: 405
+{StartTime}: 0:31:26
+{EndTime}: 0:31:28
+{Text}: {Course heading, Captain?} 
+
+{Index}: 406
+{StartTime}: 0:31:28
+{EndTime}: 0:31:30
+{Text}: {Captain's discretion.} 
+
+{Index}: 407
+{StartTime}: 0:31:30
+{EndTime}: 0:31:32
+{Text}: {Mr. Sulu,} 
+
+{Index}: 408
+{StartTime}: 0:31:32
+{EndTime}: 0:31:35
+{Text}: {you may... indulge yourself.} 
+
+{Index}: 409
+{StartTime}: 0:31:36
+{EndTime}: 0:31:38
+{Text}: {Aye, sir.} 
+
+{Index}: 410
+{StartTime}: 0:32:4
+{EndTime}: 0:32:6
+{Text}: {Does that about do it?} 
+
+{Index}: 411
+{StartTime}: 0:32:6
+{EndTime}: 0:32:8
+{Text}: {I doubt we could squeeze} 
+
+{Index}: 412
+{StartTime}: 0:32:8
+{EndTime}: 0:32:11
+{Text}: {any more information into the memory banks.} 
+
+{Index}: 413
+{StartTime}: 0:32:11
+{EndTime}: 0:32:12
+{Text}: {We'll design a bigger one.} 
+
+{Index}: 414
+{StartTime}: 0:32:12
+{EndTime}: 0:32:14
+{Text}: {Who would build it?} 
+
+{Index}: 415
+{StartTime}: 0:32:14
+{EndTime}: 0:32:15
+{Text}: {Dr. Marcus, Comm-pic coming in} 
+
+{Index}: 416
+{StartTime}: 0:32:15
+{EndTime}: 0:32:18
+{Text}: {on the hyperchannel.} 
+
+{Index}: 417
+{StartTime}: 0:32:18
+{EndTime}: 0:32:20
+{Text}: {It's the starship Reliant.} 
+
+{Index}: 418
+{StartTime}: 0:32:20
+{EndTime}: 0:32:23
+{Text}: {On the screen, Jedda.} 
+
+{Index}: 419
+{StartTime}: 0:32:23
+{EndTime}: 0:32:24
+{Text}: {Come in, please.} 
+
+{Index}: 420
+{StartTime}: 0:32:25
+{EndTime}: 0:32:28
+{Text}: {This is the Reliant callingRegula-1.} 
+
+{Index}: 421
+{StartTime}: 0:32:28
+{EndTime}: 0:32:31
+{Text}: {Repeat, this is U.S.S. Reliant.} 
+
+{Index}: 422
+{StartTime}: 0:32:31
+{EndTime}: 0:32:33
+{Text}: {Commander, we are receiving.} 
+
+{Index}: 423
+{StartTime}: 0:32:33
+{EndTime}: 0:32:35
+{Text}: {This is Regula-1 .} 
+
+{Index}: 424
+{StartTime}: 0:32:35
+{EndTime}: 0:32:37
+{Text}: {Ah, Dr. Marcus.} {Good.} 
+
+{Index}: 425
+{StartTime}: 0:32:37
+{EndTime}: 0:32:39
+{Text}: {We're en route to you} 
+
+{Index}: 426
+{StartTime}: 0:32:39
+{EndTime}: 0:32:43
+{Text}: {and should be there in three days.} 
+
+{Index}: 427
+{StartTime}: 0:32:43
+{EndTime}: 0:32:46
+{Text}: {We weren't expecting you for three months.} 
+
+{Index}: 428
+{StartTime}: 0:32:46
+{EndTime}: 0:32:48
+{Text}: {Has something happened?} 
+
+{Index}: 429
+{StartTime}: 0:32:48
+{EndTime}: 0:32:52
+{Text}: {No.} {Ceti Alpha VI has checked out.} 
+
+{Index}: 430
+{StartTime}: 0:32:52
+{EndTime}: 0:32:54
+{Text}: {Then why are you coming-} 
+
+{Index}: 431
+{StartTime}: 0:32:55
+{EndTime}: 0:32:56
+{Text}: {We have new orders.} 
+
+{Index}: 432
+{StartTime}: 0:32:56
+{EndTime}: 0:32:59
+{Text}: {All materials of Project Genesis} 
+
+{Index}: 433
+{StartTime}: 0:33:0
+{EndTime}: 0:33:3
+{Text}: {will be transferred to this ship} 
+
+{Index}: 434
+{StartTime}: 0:33:3
+{EndTime}: 0:33:5
+{Text}: {fortesting on Ceti Alpha VI.} 
+
+{Index}: 435
+{StartTime}: 0:33:5
+{EndTime}: 0:33:8
+{Text}: {Who do they think they are?} 
+
+{Index}: 436
+{StartTime}: 0:33:8
+{EndTime}: 0:33:12
+{Text}: {Commander Chekov, this is completely irregular.} 
+
+{Index}: 437
+{StartTime}: 0:33:12
+{EndTime}: 0:33:14
+{Text}: {I have my orders.} 
+
+{Index}: 438
+{StartTime}: 0:33:14
+{EndTime}: 0:33:17
+{Text}: {Pin him down, mother.} {Who gave the order?} 
+
+{Index}: 439
+{StartTime}: 0:33:19
+{EndTime}: 0:33:21
+{Text}: {The order comes from...} 
+
+{Index}: 440
+{StartTime}: 0:33:23
+{EndTime}: 0:33:25
+{Text}: {Admiral James T. Kirk.} 
+
+{Index}: 441
+{StartTime}: 0:33:25
+{EndTime}: 0:33:27
+{Text}: {I knew it!} 
+
+{Index}: 442
+{StartTime}: 0:33:27
+{EndTime}: 0:33:29
+{Text}: {The military's been waiting} 
+
+{Index}: 443
+{StartTime}: 0:33:29
+{EndTime}: 0:33:32
+{Text}: {to get their hands on it.} 
+
+{Index}: 444
+{StartTime}: 0:33:32
+{EndTime}: 0:33:35
+{Text}: {I have no intention of allowing Reliant} 
+
+{Index}: 445
+{StartTime}: 0:33:35
+{EndTime}: 0:33:36
+{Text}: {or any unauthorized personnel} 
+
+{Index}: 446
+{StartTime}: 0:33:36
+{EndTime}: 0:33:38
+{Text}: {access to our work.} 
+
+{Index}: 447
+{StartTime}: 0:33:38
+{EndTime}: 0:33:41
+{Text}: {I am sorry that you feel that way.} 
+
+{Index}: 448
+{StartTime}: 0:33:41
+{EndTime}: 0:33:44
+{Text}: {Admiral Kirk's orders are confirmed.} 
+
+{Index}: 449
+{StartTime}: 0:33:44
+{EndTime}: 0:33:47
+{Text}: {Please prepare to deliver Genesis to us} 
+
+{Index}: 450
+{StartTime}: 0:33:47
+{EndTime}: 0:33:49
+{Text}: {upon our arrival.} 
+
+{Index}: 451
+{StartTime}: 0:33:49
+{EndTime}: 0:33:50
+{Text}: {Reliant out.} 
+
+{Index}: 452
+{StartTime}: 0:33:52
+{EndTime}: 0:33:55
+{Text}: {Well done, Commander.} 
+
+{Index}: 453
+{StartTime}: 0:33:55
+{EndTime}: 0:33:58
+{Text}: {You realize, sir, they will attempt} 
+
+{Index}: 454
+{StartTime}: 0:33:58
+{EndTime}: 0:34:0
+{Text}: {to contact Admiral Kirk} 
+
+{Index}: 455
+{StartTime}: 0:34:0
+{EndTime}: 0:34:2
+{Text}: {and confirm the order.} 
+
+{Index}: 456
+{StartTime}: 0:34:15
+{EndTime}: 0:34:17
+{Text}: {Hold, please.} 
+
+{Index}: 457
+{StartTime}: 0:34:19
+{EndTime}: 0:34:21
+{Text}: {Thank you, sir.} 
+
+{Index}: 458
+{StartTime}: 0:34:23
+{EndTime}: 0:34:24
+{Text}: {Lieutenant,} 
+
+{Index}: 459
+{StartTime}: 0:34:24
+{EndTime}: 0:34:27
+{Text}: {are you wearing your hair differently?} 
+
+{Index}: 460
+{StartTime}: 0:34:27
+{EndTime}: 0:34:29
+{Text}: {It's still regulation, Admiral.} 
+
+{Index}: 461
+{StartTime}: 0:34:32
+{EndTime}: 0:34:34
+{Text}: {May I speak, sir?} 
+
+{Index}: 462
+{StartTime}: 0:34:36
+{EndTime}: 0:34:38
+{Text}: {Self-expression doesn't seem to be} 
+
+{Index}: 463
+{StartTime}: 0:34:38
+{EndTime}: 0:34:40
+{Text}: {one of your problems.} 
+
+{Index}: 464
+{StartTime}: 0:34:43
+{EndTime}: 0:34:45
+{Text}: {You're bothered by your performance} 
+
+{Index}: 465
+{StartTime}: 0:34:45
+{EndTime}: 0:34:47
+{Text}: {on the Kobayashi Maru.} 
+
+{Index}: 466
+{StartTime}: 0:34:47
+{EndTime}: 0:34:49
+{Text}: {I failed to resolve the situation.} 
+
+{Index}: 467
+{StartTime}: 0:34:49
+{EndTime}: 0:34:50
+{Text}: {There's no correct resolution.} 
+
+{Index}: 468
+{StartTime}: 0:34:50
+{EndTime}: 0:34:52
+{Text}: {It's a test of character.} 
+
+{Index}: 469
+{StartTime}: 0:34:52
+{EndTime}: 0:34:56
+{Text}: {May I ask how you dealt with the test?} 
+
+{Index}: 470
+{StartTime}: 0:34:58
+{EndTime}: 0:35:0
+{Text}: {You may ask.} 
+
+{Index}: 471
+{StartTime}: 0:35:2
+{EndTime}: 0:35:4
+{Text}: {That's a little joke.} 
+
+{Index}: 472
+{StartTime}: 0:35:5
+{EndTime}: 0:35:8
+{Text}: {Humor.} {It is a difficult concept.} 
+
+{Index}: 473
+{StartTime}: 0:35:8
+{EndTime}: 0:35:11
+{Text}: {It is not logical.} 
+
+{Index}: 474
+{StartTime}: 0:35:12
+{EndTime}: 0:35:14
+{Text}: {We learn by doing.} 
+
+{Index}: 475
+{StartTime}: 0:35:14
+{EndTime}: 0:35:17
+{Text}: {Who's been holding up the damn elevator?} 
+
+{Index}: 476
+{StartTime}: 0:35:17
+{EndTime}: 0:35:18
+{Text}: {Thank you, sir.} 
+
+{Index}: 477
+{StartTime}: 0:35:18
+{EndTime}: 0:35:21
+{Text}: {She change her hair style?} 
+
+{Index}: 478
+{StartTime}: 0:35:21
+{EndTime}: 0:35:22
+{Text}: {I hadn't noticed.} 
+
+{Index}: 479
+{StartTime}: 0:35:22
+{EndTime}: 0:35:25
+{Text}: {Wonderful stuff, that Romulan ale.} 
+
+{Index}: 480
+{StartTime}: 0:35:25
+{EndTime}: 0:35:27
+{Text}: {Admiral Kirk.} 
+
+{Index}: 481
+{StartTime}: 0:35:27
+{EndTime}: 0:35:28
+{Text}: {Kirk here.} 
+
+{Index}: 482
+{StartTime}: 0:35:28
+{EndTime}: 0:35:30
+{Text}: {I have an urgent Comm-pic} 
+
+{Index}: 483
+{StartTime}: 0:35:30
+{EndTime}: 0:35:33
+{Text}: {from Space Lab Regula-1 for you.} 
+
+{Index}: 484
+{StartTime}: 0:35:33
+{EndTime}: 0:35:35
+{Text}: {Dr. Carol Marcus.} 
+
+{Index}: 485
+{StartTime}: 0:35:37
+{EndTime}: 0:35:40
+{Text}: {I'll take it in my quarters.} 
+
+{Index}: 486
+{StartTime}: 0:35:40
+{EndTime}: 0:35:43
+{Text}: {It never rains but it pours.} 
+
+{Index}: 487
+{StartTime}: 0:35:43
+{EndTime}: 0:35:46
+{Text}: {As a physician, you should appreciate} 
+
+{Index}: 488
+{StartTime}: 0:35:46
+{EndTime}: 0:35:48
+{Text}: {the dangers of reopening old wounds.} 
+
+{Index}: 489
+{StartTime}: 0:35:51
+{EndTime}: 0:35:53
+{Text}: {Sorry.} 
+
+{Index}: 490
+{StartTime}: 0:35:53
+{EndTime}: 0:35:55
+{Text}: {Jim, can you read me?} 
+
+{Index}: 491
+{StartTime}: 0:35:55
+{EndTime}: 0:35:59
+{Text}: {I can hear you, Carol.} {What's wrong?} 
+
+{Index}: 492
+{StartTime}: 0:35:59
+{EndTime}: 0:36:2
+{Text}: {Why are you taking Genesis from us?} 
+
+{Index}: 493
+{StartTime}: 0:36:2
+{EndTime}: 0:36:5
+{Text}: {Taking Genesis?} {Who's taking Genesis?} 
+
+{Index}: 494
+{StartTime}: 0:36:5
+{EndTime}: 0:36:7
+{Text}: {Who is taking Genesis?} 
+
+{Index}: 495
+{StartTime}: 0:36:7
+{EndTime}: 0:36:11
+{Text}: {I can see you, but I can't hear.} 
+
+{Index}: 496
+{StartTime}: 0:36:11
+{EndTime}: 0:36:13
+{Text}: {Jim, did you give the order?} 
+
+{Index}: 497
+{StartTime}: 0:36:13
+{EndTime}: 0:36:16
+{Text}: {What order?} {Who's taking Genesis?} 
+
+{Index}: 498
+{StartTime}: 0:36:16
+{EndTime}: 0:36:18
+{Text}: {I won't let them have Genesis} 
+
+{Index}: 499
+{StartTime}: 0:36:18
+{EndTime}: 0:36:21
+{Text}: {without proper authorization.} 
+
+{Index}: 500
+{StartTime}: 0:36:21
+{EndTime}: 0:36:24
+{Text}: {On whose authority can they do this?} 
+
+{Index}: 501
+{StartTime}: 0:36:24
+{EndTime}: 0:36:25
+{Text}: {No one's authority.} 
+
+{Index}: 502
+{StartTime}: 0:36:26
+{EndTime}: 0:36:27
+{Text}: {Jim-} 
+
+{Index}: 503
+{StartTime}: 0:36:27
+{EndTime}: 0:36:29
+{Text}: {Uhura, what's happening?} 
+
+{Index}: 504
+{StartTime}: 0:36:29
+{EndTime}: 0:36:31
+{Text}: {Transmission jammed at the source.} 
+
+{Index}: 505
+{StartTime}: 0:36:33
+{EndTime}: 0:36:34
+{Text}: {Alert Starfleet headquarters.} 
+
+{Index}: 506
+{StartTime}: 0:36:34
+{EndTime}: 0:36:36
+{Text}: {Aye, sir.} 
+
+{Index}: 507
+{StartTime}: 0:36:36
+{EndTime}: 0:36:39
+{Text}: {I want to talk to Starfleet command.} 
+
+{Index}: 508
+{StartTime}: 0:36:39
+{EndTime}: 0:36:41
+{Text}: {We must have order in here.} 
+
+{Index}: 509
+{StartTime}: 0:36:42
+{EndTime}: 0:36:44
+{Text}: {This has to be a mistake.} 
+
+{Index}: 510
+{StartTime}: 0:36:44
+{EndTime}: 0:36:46
+{Text}: {Mistake.} 
+
+{Index}: 511
+{StartTime}: 0:36:46
+{EndTime}: 0:36:47
+{Text}: {We're all alone here.} 
+
+{Index}: 512
+{StartTime}: 0:36:48
+{EndTime}: 0:36:51
+{Text}: {They waited until everyone was on leave.} 
+
+{Index}: 513
+{StartTime}: 0:36:51
+{EndTime}: 0:36:54
+{Text}: {Reliant is at our disposal, not vice versa.} 
+
+{Index}: 514
+{StartTime}: 0:36:54
+{EndTime}: 0:36:56
+{Text}: {I can't believe Starfleet-} 
+
+{Index}: 515
+{StartTime}: 0:36:56
+{EndTime}: 0:36:58
+{Text}: {I tried to tell you} 
+
+{Index}: 516
+{StartTime}: 0:36:58
+{EndTime}: 0:37:1
+{Text}: {scientists are always pawns of the military.} 
+
+{Index}: 517
+{StartTime}: 0:37:1
+{EndTime}: 0:37:4
+{Text}: {Starfleet has kept peace for 1 00 years.} 
+
+{Index}: 518
+{StartTime}: 0:37:4
+{EndTime}: 0:37:7
+{Text}: {I cannot subscribe to your interpretation of this event.} 
+
+{Index}: 519
+{StartTime}: 0:37:7
+{EndTime}: 0:37:9
+{Text}: {You may be right, Doctor,} 
+
+{Index}: 520
+{StartTime}: 0:37:9
+{EndTime}: 0:37:10
+{Text}: {but what about Reliant?} 
+
+{Index}: 521
+{StartTime}: 0:37:10
+{EndTime}: 0:37:12
+{Text}: {She's on her way.} 
+
+{Index}: 522
+{StartTime}: 0:37:23
+{EndTime}: 0:37:24
+{Text}: {We have a problem.} 
+
+{Index}: 523
+{StartTime}: 0:37:24
+{EndTime}: 0:37:27
+{Text}: {Something may be wrong on Regula-1 .} 
+
+{Index}: 524
+{StartTime}: 0:37:27
+{EndTime}: 0:37:30
+{Text}: {We've been ordered to investigate.} 
+
+{Index}: 525
+{StartTime}: 0:37:30
+{EndTime}: 0:37:31
+{Text}: {If memory serves,} 
+
+{Index}: 526
+{StartTime}: 0:37:31
+{EndTime}: 0:37:35
+{Text}: {Regula-1 is a scientific research laboratory.} 
+
+{Index}: 527
+{StartTime}: 0:37:35
+{EndTime}: 0:37:37
+{Text}: {I told Starfleet command} 
+
+{Index}: 528
+{StartTime}: 0:37:37
+{EndTime}: 0:37:40
+{Text}: {all we had was a boatload of children,} 
+
+{Index}: 529
+{StartTime}: 0:37:40
+{EndTime}: 0:37:43
+{Text}: {but we're the only ship in the quadrant.} 
+
+{Index}: 530
+{StartTime}: 0:37:44
+{EndTime}: 0:37:46
+{Text}: {Spock, these cadets of yours-} 
+
+{Index}: 531
+{StartTime}: 0:37:46
+{EndTime}: 0:37:49
+{Text}: {How will they respond under real pressure?} 
+
+{Index}: 532
+{StartTime}: 0:37:50
+{EndTime}: 0:37:52
+{Text}: {As with all living things,} 
+
+{Index}: 533
+{StartTime}: 0:37:52
+{EndTime}: 0:37:54
+{Text}: {each according to his gifts.} 
+
+{Index}: 534
+{StartTime}: 0:37:55
+{EndTime}: 0:37:57
+{Text}: {Of course, the ship is yours.} 
+
+{Index}: 535
+{StartTime}: 0:37:58
+{EndTime}: 0:38:0
+{Text}: {No, that won't be necessary.} 
+
+{Index}: 536
+{StartTime}: 0:38:0
+{EndTime}: 0:38:4
+{Text}: {Just get me to Regula-1 .} 
+
+{Index}: 537
+{StartTime}: 0:38:4
+{EndTime}: 0:38:7
+{Text}: {As a teacher on a training mission,} 
+
+{Index}: 538
+{StartTime}: 0:38:7
+{EndTime}: 0:38:10
+{Text}: {I am content to command the Enterprise.} 
+
+{Index}: 539
+{StartTime}: 0:38:10
+{EndTime}: 0:38:12
+{Text}: {If we go on duty,} 
+
+{Index}: 540
+{StartTime}: 0:38:12
+{EndTime}: 0:38:15
+{Text}: {the senior officer must assume command.} 
+
+{Index}: 541
+{StartTime}: 0:38:15
+{EndTime}: 0:38:17
+{Text}: {It may be nothing.} 
+
+{Index}: 542
+{StartTime}: 0:38:18
+{EndTime}: 0:38:19
+{Text}: {Garbled communications.} 
+
+{Index}: 543
+{StartTime}: 0:38:21
+{EndTime}: 0:38:23
+{Text}: {You take the ship.} 
+
+{Index}: 544
+{StartTime}: 0:38:23
+{EndTime}: 0:38:26
+{Text}: {You proceed from a false assumption.} 
+
+{Index}: 545
+{StartTime}: 0:38:26
+{EndTime}: 0:38:28
+{Text}: {I am a Vulcan.} 
+
+{Index}: 546
+{StartTime}: 0:38:28
+{EndTime}: 0:38:30
+{Text}: {I have no ego to bruise.} 
+
+{Index}: 547
+{StartTime}: 0:38:32
+{EndTime}: 0:38:34
+{Text}: {You're about to remind me} 
+
+{Index}: 548
+{StartTime}: 0:38:34
+{EndTime}: 0:38:36
+{Text}: {logic alone dictates your actions?} 
+
+{Index}: 549
+{StartTime}: 0:38:36
+{EndTime}: 0:38:38
+{Text}: {I would not remind you} 
+
+{Index}: 550
+{StartTime}: 0:38:39
+{EndTime}: 0:38:41
+{Text}: {of that which you know so well.} 
+
+{Index}: 551
+{StartTime}: 0:38:41
+{EndTime}: 0:38:43
+{Text}: {It was a mistake} 
+
+{Index}: 552
+{StartTime}: 0:38:43
+{EndTime}: 0:38:46
+{Text}: {for you to accept promotion.} 
+
+{Index}: 553
+{StartTime}: 0:38:46
+{EndTime}: 0:38:50
+{Text}: {Commanding a starship is your first, best destiny.} 
+
+{Index}: 554
+{StartTime}: 0:38:50
+{EndTime}: 0:38:53
+{Text}: {Anything else is a waste of material.} 
+
+{Index}: 555
+{StartTime}: 0:38:53
+{EndTime}: 0:38:56
+{Text}: {I would not presume to debate you.} 
+
+{Index}: 556
+{StartTime}: 0:38:56
+{EndTime}: 0:38:58
+{Text}: {That is wise.} 
+
+{Index}: 557
+{StartTime}: 0:38:58
+{EndTime}: 0:39:1
+{Text}: {In any case, were I to invoke logic,} 
+
+{Index}: 558
+{StartTime}: 0:39:2
+{EndTime}: 0:39:4
+{Text}: {Logic dictates that the needs of the many} 
+
+{Index}: 559
+{StartTime}: 0:39:5
+{EndTime}: 0:39:7
+{Text}: {outweigh the needs of the few.} 
+
+{Index}: 560
+{StartTime}: 0:39:8
+{EndTime}: 0:39:10
+{Text}: {Or the one.} 
+
+{Index}: 561
+{StartTime}: 0:39:16
+{EndTime}: 0:39:18
+{Text}: {You're my superior officer.} 
+
+{Index}: 562
+{StartTime}: 0:39:18
+{EndTime}: 0:39:20
+{Text}: {You are also my friend.} 
+
+{Index}: 563
+{StartTime}: 0:39:20
+{EndTime}: 0:39:25
+{Text}: {I have been and always shall be yours.} 
+
+{Index}: 564
+{StartTime}: 0:39:27
+{EndTime}: 0:39:29
+{Text}: {Stop the energizers.} 
+
+{Index}: 565
+{StartTime}: 0:39:29
+{EndTime}: 0:39:31
+{Text}: {Put me on speakers.} 
+
+{Index}: 566
+{StartTime}: 0:39:34
+{EndTime}: 0:39:36
+{Text}: {An emergency situation has arisen.} 
+
+{Index}: 567
+{StartTime}: 0:39:36
+{EndTime}: 0:39:38
+{Text}: {By order of Starfleet command,} 
+
+{Index}: 568
+{StartTime}: 0:39:38
+{EndTime}: 0:39:42
+{Text}: {I'm assuming command of this vessel.} 
+
+{Index}: 569
+{StartTime}: 0:39:42
+{EndTime}: 0:39:45
+{Text}: {So note in Ship's Log.} 
+
+{Index}: 570
+{StartTime}: 0:39:45
+{EndTime}: 0:39:48
+{Text}: {Plot a new course for Regula-1 .} 
+
+{Index}: 571
+{StartTime}: 0:39:48
+{EndTime}: 0:39:50
+{Text}: {Mr. Scott.} 
+
+{Index}: 572
+{StartTime}: 0:39:50
+{EndTime}: 0:39:51
+{Text}: {Aye, sir.} 
+
+{Index}: 573
+{StartTime}: 0:39:52
+{EndTime}: 0:39:54
+{Text}: {We'll be going to warp speed.} 
+
+{Index}: 574
+{StartTime}: 0:39:54
+{EndTime}: 0:39:57
+{Text}: {Course plotted for Regula-1 , Admiral.} 
+
+{Index}: 575
+{StartTime}: 0:39:58
+{EndTime}: 0:40:0
+{Text}: {Engage warp engines.} 
+
+{Index}: 576
+{StartTime}: 0:40:0
+{EndTime}: 0:40:2
+{Text}: {Prepare for warp speed.} 
+
+{Index}: 577
+{StartTime}: 0:40:2
+{EndTime}: 0:40:3
+{Text}: {Ready, sir.} 
+
+{Index}: 578
+{StartTime}: 0:40:4
+{EndTime}: 0:40:8
+{Text}: {I know none of you were expecting this.} 
+
+{Index}: 579
+{StartTime}: 0:40:8
+{EndTime}: 0:40:13
+{Text}: {I'm asking you to grow up sooner than you expected.} 
+
+{Index}: 580
+{StartTime}: 0:40:13
+{EndTime}: 0:40:15
+{Text}: {Warp five, Sulu.} 
+
+{Index}: 581
+{StartTime}: 0:40:17
+{EndTime}: 0:40:20
+{Text}: {So much for the little training cruise.} 
+
+{Index}: 582
+{StartTime}: 0:40:28
+{EndTime}: 0:40:31
+{Text}: {Course to intercept Enterprise ready, sir.} 
+
+{Index}: 583
+{StartTime}: 0:40:31
+{EndTime}: 0:40:32
+{Text}: {Excellent.} 
+
+{Index}: 584
+{StartTime}: 0:40:33
+{EndTime}: 0:40:34
+{Text}: {Helmsman?} 
+
+{Index}: 585
+{StartTime}: 0:40:34
+{EndTime}: 0:40:36
+{Text}: {Sir.} {May I speak?} 
+
+{Index}: 586
+{StartTime}: 0:40:41
+{EndTime}: 0:40:44
+{Text}: {We're all with you, sir.} 
+
+{Index}: 587
+{StartTime}: 0:40:44
+{EndTime}: 0:40:46
+{Text}: {But consider this-} 
+
+{Index}: 588
+{StartTime}: 0:40:46
+{EndTime}: 0:40:48
+{Text}: {We are free.} 
+
+{Index}: 589
+{StartTime}: 0:40:48
+{EndTime}: 0:40:53
+{Text}: {We have the means to go where we will.} 
+
+{Index}: 590
+{StartTime}: 0:40:53
+{EndTime}: 0:40:55
+{Text}: {We have escaped permanent exile} 
+
+{Index}: 591
+{StartTime}: 0:40:55
+{EndTime}: 0:40:57
+{Text}: {on Ceti Alpha V.} 
+
+{Index}: 592
+{StartTime}: 0:40:57
+{EndTime}: 0:41:1
+{Text}: {You have proved your superior intellect} 
+
+{Index}: 593
+{StartTime}: 0:41:1
+{EndTime}: 0:41:3
+{Text}: {and defeated the plans of Admiral Kirk.} 
+
+{Index}: 594
+{StartTime}: 0:41:4
+{EndTime}: 0:41:7
+{Text}: {You do not need to defeat him again.} 
+
+{Index}: 595
+{StartTime}: 0:41:8
+{EndTime}: 0:41:10
+{Text}: {He tasks me.} 
+
+{Index}: 596
+{StartTime}: 0:41:11
+{EndTime}: 0:41:14
+{Text}: {He tasks me, and I shall have him.} 
+
+{Index}: 597
+{StartTime}: 0:41:15
+{EndTime}: 0:41:18
+{Text}: {I'll chase him round the moons of Nibia} 
+
+{Index}: 598
+{StartTime}: 0:41:19
+{EndTime}: 0:41:22
+{Text}: {and round the Antares Maelstrom} 
+
+{Index}: 599
+{StartTime}: 0:41:23
+{EndTime}: 0:41:24
+{Text}: {and round perdition's flames} 
+
+{Index}: 600
+{StartTime}: 0:41:24
+{EndTime}: 0:41:26
+{Text}: {before I give him up.} 
+
+{Index}: 601
+{StartTime}: 0:41:29
+{EndTime}: 0:41:32
+{Text}: {Prepare to alter course.} 
+
+{Index}: 602
+{StartTime}: 0:41:32
+{EndTime}: 0:41:35
+{Text}: {Space Station Regula-1 , please come in.} 
+
+{Index}: 603
+{StartTime}: 0:41:36
+{EndTime}: 0:41:38
+{Text}: {Dr. Marcus, please respond.} 
+
+{Index}: 604
+{StartTime}: 0:41:40
+{EndTime}: 0:41:42
+{Text}: {This is Enterprise call-} 
+
+{Index}: 605
+{StartTime}: 0:41:42
+{EndTime}: 0:41:44
+{Text}: {It's no use.} 
+
+{Index}: 606
+{StartTime}: 0:41:44
+{EndTime}: 0:41:46
+{Text}: {There's no response.} 
+
+{Index}: 607
+{StartTime}: 0:41:46
+{EndTime}: 0:41:48
+{Text}: {But no longer jammed.} 
+
+{Index}: 608
+{StartTime}: 0:41:48
+{EndTime}: 0:41:50
+{Text}: {No, sir.} {No nothing.} 
+
+{Index}: 609
+{StartTime}: 0:41:55
+{EndTime}: 0:41:58
+{Text}: {There are two possibilities-} 
+
+{Index}: 610
+{StartTime}: 0:41:58
+{EndTime}: 0:42:0
+{Text}: {they are unable to respond,} 
+
+{Index}: 611
+{StartTime}: 0:42:0
+{EndTime}: 0:42:2
+{Text}: {they are unwilling to respond.} 
+
+{Index}: 612
+{StartTime}: 0:42:2
+{EndTime}: 0:42:4
+{Text}: {How far?} 
+
+{Index}: 613
+{StartTime}: 0:42:4
+{EndTime}: 0:42:7
+{Text}: {12 hours, 43 minutes, present speed.} 
+
+{Index}: 614
+{StartTime}: 0:42:9
+{EndTime}: 0:42:11
+{Text}: {"Give up Genesis," she said.} 
+
+{Index}: 615
+{StartTime}: 0:42:12
+{EndTime}: 0:42:14
+{Text}: {Give it up to whom?} 
+
+{Index}: 616
+{StartTime}: 0:42:14
+{EndTime}: 0:42:18
+{Text}: {It might help if I knew what Genesis was,} 
+
+{Index}: 617
+{StartTime}: 0:42:18
+{EndTime}: 0:42:20
+{Text}: {beyond the biblical reference.} 
+
+{Index}: 618
+{StartTime}: 0:42:20
+{EndTime}: 0:42:24
+{Text}: {Have Dr. McCoy join us in my quarters.} 
+
+{Index}: 619
+{StartTime}: 0:42:24
+{EndTime}: 0:42:27
+{Text}: {Mr. Saavik, you have the con.} 
+
+{Index}: 620
+{StartTime}: 0:42:32
+{EndTime}: 0:42:35
+{Text}: {Well, I've got sickbay ready.} 
+
+{Index}: 621
+{StartTime}: 0:42:35
+{EndTime}: 0:42:38
+{Text}: {Please tell me what's going on.} 
+
+{Index}: 622
+{StartTime}: 0:42:38
+{EndTime}: 0:42:41
+{Text}: {Computer, request security procedure} 
+
+{Index}: 623
+{StartTime}: 0:42:41
+{EndTime}: 0:42:44
+{Text}: {and access to Project Genesis summary.} 
+
+{Index}: 624
+{StartTime}: 0:42:45
+{EndTime}: 0:42:48
+{Text}: {Identify for retina scan.} 
+
+{Index}: 625
+{StartTime}: 0:42:48
+{EndTime}: 0:42:50
+{Text}: {Kirk, Admiral James T.} 
+
+{Index}: 626
+{StartTime}: 0:42:58
+{EndTime}: 0:43:1
+{Text}: {Security scan approved.} 
+
+{Index}: 627
+{StartTime}: 0:43:1
+{EndTime}: 0:43:2
+{Text}: {Summary, please.} 
+
+{Index}: 628
+{StartTime}: 0:43:6
+{EndTime}: 0:43:8
+{Text}: {Project Genesis.} 
+
+{Index}: 629
+{StartTime}: 0:43:8
+{EndTime}: 0:43:10
+{Text}: {A proposal to the Federation.} 
+
+{Index}: 630
+{StartTime}: 0:43:10
+{EndTime}: 0:43:12
+{Text}: {Carol Marcus.} 
+
+{Index}: 631
+{StartTime}: 0:43:12
+{EndTime}: 0:43:13
+{Text}: {Yes.} 
+
+{Index}: 632
+{StartTime}: 0:43:13
+{EndTime}: 0:43:15
+{Text}: {What exactly is Genesis?} 
+
+{Index}: 633
+{StartTime}: 0:43:16
+{EndTime}: 0:43:17
+{Text}: {Well, put simply,} 
+
+{Index}: 634
+{StartTime}: 0:43:18
+{EndTime}: 0:43:21
+{Text}: {Genesis is life from lifelessness.} 
+
+{Index}: 635
+{StartTime}: 0:43:21
+{EndTime}: 0:43:25
+{Text}: {It is a process where by molecular structure} 
+
+{Index}: 636
+{StartTime}: 0:43:25
+{EndTime}: 0:43:28
+{Text}: {is reorganized at the subatomic level} 
+
+{Index}: 637
+{StartTime}: 0:43:28
+{EndTime}: 0:43:31
+{Text}: {into life-generating matter of equal mass.} 
+
+{Index}: 638
+{StartTime}: 0:43:31
+{EndTime}: 0:43:35
+{Text}: {Stage One was conducted in the laboratory.} 
+
+{Index}: 639
+{StartTime}: 0:43:35
+{EndTime}: 0:43:39
+{Text}: {Stage Two will be attempted in a lifeless underground.} 
+
+{Index}: 640
+{StartTime}: 0:43:39
+{EndTime}: 0:43:43
+{Text}: {Stage Three will be processed on a planetary scale.} 
+
+{Index}: 641
+{StartTime}: 0:43:43
+{EndTime}: 0:43:47
+{Text}: {We intend to introduce the Genesis device} 
+
+{Index}: 642
+{StartTime}: 0:43:47
+{EndTime}: 0:43:51
+{Text}: {into an area of a lifeless space body-} 
+
+{Index}: 643
+{StartTime}: 0:43:51
+{EndTime}: 0:43:54
+{Text}: {a moon or other dead form.} 
+
+{Index}: 644
+{StartTime}: 0:43:54
+{EndTime}: 0:43:57
+{Text}: {The device is delivered, instantaneously causing} 
+
+{Index}: 645
+{StartTime}: 0:43:57
+{EndTime}: 0:44:0
+{Text}: {what we call the Genesis Effect.} 
+
+{Index}: 646
+{StartTime}: 0:44:0
+{EndTime}: 0:44:3
+{Text}: {Matter is reorganized with life-generating results.} 
+
+{Index}: 647
+{StartTime}: 0:44:16
+{EndTime}: 0:44:20
+{Text}: {Instead of a dead moon, a living, breathing planet} 
+
+{Index}: 648
+{StartTime}: 0:44:20
+{EndTime}: 0:44:23
+{Text}: {capable of sustaining whatever life forms} 
+
+{Index}: 649
+{StartTime}: 0:44:23
+{EndTime}: 0:44:26
+{Text}: {we see fit to deposit on it.} 
+
+{Index}: 650
+{StartTime}: 0:44:26
+{EndTime}: 0:44:28
+{Text}: {Fascinating.} 
+
+{Index}: 651
+{StartTime}: 0:44:28
+{EndTime}: 0:44:30
+{Text}: {The reformed moon simulated here} 
+
+{Index}: 652
+{StartTime}: 0:44:30
+{EndTime}: 0:44:32
+{Text}: {represents the merest fraction} 
+
+{Index}: 653
+{StartTime}: 0:44:32
+{EndTime}: 0:44:34
+{Text}: {of the Genesis potential,} 
+
+{Index}: 654
+{StartTime}: 0:44:34
+{EndTime}: 0:44:37
+{Text}: {should the Federation fund these experiments.} 
+
+{Index}: 655
+{StartTime}: 0:44:37
+{EndTime}: 0:44:42
+{Text}: {When we consider the problems of population and food supply,} 
+
+{Index}: 656
+{StartTime}: 0:44:42
+{EndTime}: 0:44:46
+{Text}: {the usefulness of this process becomes clear.} 
+
+{Index}: 657
+{StartTime}: 0:44:46
+{EndTime}: 0:44:50
+{Text}: {This concludes our proposal.} {Thank you.} 
+
+{Index}: 658
+{StartTime}: 0:44:50
+{EndTime}: 0:44:53
+{Text}: {It literally is Genesis.} 
+
+{Index}: 659
+{StartTime}: 0:44:54
+{EndTime}: 0:44:55
+{Text}: {Power of creation.} 
+
+{Index}: 660
+{StartTime}: 0:44:57
+{EndTime}: 0:44:59
+{Text}: {Have they proceeded with their experiments?} 
+
+{Index}: 661
+{StartTime}: 0:44:59
+{EndTime}: 0:45:1
+{Text}: {The tape was made last year.} 
+
+{Index}: 662
+{StartTime}: 0:45:2
+{EndTime}: 0:45:5
+{Text}: {I assume they've reached Stage Two.} 
+
+{Index}: 663
+{StartTime}: 0:45:5
+{EndTime}: 0:45:9
+{Text}: {Dear Lord, do you think we're intelligent enough to...} 
+
+{Index}: 664
+{StartTime}: 0:45:9
+{EndTime}: 0:45:12
+{Text}: {Suppose... What if this were used} 
+
+{Index}: 665
+{StartTime}: 0:45:13
+{EndTime}: 0:45:15
+{Text}: {where life already exists?} 
+
+{Index}: 666
+{StartTime}: 0:45:15
+{EndTime}: 0:45:16
+{Text}: {It would destroy such life} 
+
+{Index}: 667
+{StartTime}: 0:45:17
+{EndTime}: 0:45:19
+{Text}: {in favor of its new matrix.} 
+
+{Index}: 668
+{StartTime}: 0:45:19
+{EndTime}: 0:45:21
+{Text}: {Its new matrix.} 
+
+{Index}: 669
+{StartTime}: 0:45:21
+{EndTime}: 0:45:24
+{Text}: {Do you know what you're saying?} 
+
+{Index}: 670
+{StartTime}: 0:45:25
+{EndTime}: 0:45:28
+{Text}: {I was not evaluating its moral implications.} 
+
+{Index}: 671
+{StartTime}: 0:45:28
+{EndTime}: 0:45:31
+{Text}: {As a matter of cosmic history,} 
+
+{Index}: 672
+{StartTime}: 0:45:31
+{EndTime}: 0:45:33
+{Text}: {it's been easier to destroy} 
+
+{Index}: 673
+{StartTime}: 0:45:33
+{EndTime}: 0:45:35
+{Text}: {than to create.} 
+
+{Index}: 674
+{StartTime}: 0:45:35
+{EndTime}: 0:45:37
+{Text}: {Not anymore.} {Now we can do both simultaneously.} 
+
+{Index}: 675
+{StartTime}: 0:45:38
+{EndTime}: 0:45:42
+{Text}: {According to myth, the earth was created in six days.} 
+
+{Index}: 676
+{StartTime}: 0:45:42
+{EndTime}: 0:45:45
+{Text}: {Now Genesis will do it in six minutes.} 
+
+{Index}: 677
+{StartTime}: 0:45:45
+{EndTime}: 0:45:49
+{Text}: {Really, Dr. McCoy, you must govern your passions.} 
+
+{Index}: 678
+{StartTime}: 0:45:49
+{EndTime}: 0:45:51
+{Text}: {They will be your undoing.} 
+
+{Index}: 679
+{StartTime}: 0:45:51
+{EndTime}: 0:45:53
+{Text}: {Logic suggests-} 
+
+{Index}: 680
+{StartTime}: 0:45:54
+{EndTime}: 0:45:57
+{Text}: {My God, the man's talking about logic.} 
+
+{Index}: 681
+{StartTime}: 0:45:57
+{EndTime}: 0:46:0
+{Text}: {We're talking about universal Armageddon.} 
+
+{Index}: 682
+{StartTime}: 0:46:0
+{EndTime}: 0:46:2
+{Text}: {You green-blooded, inhuman-} 
+
+{Index}: 683
+{StartTime}: 0:46:3
+{EndTime}: 0:46:6
+{Text}: {Admiral, sensors indicate a vessel in our area} 
+
+{Index}: 684
+{StartTime}: 0:46:6
+{EndTime}: 0:46:8
+{Text}: {closing fast.} 
+
+{Index}: 685
+{StartTime}: 0:46:8
+{EndTime}: 0:46:10
+{Text}: {What do you make of her?} 
+
+{Index}: 686
+{StartTime}: 0:46:10
+{EndTime}: 0:46:12
+{Text}: {It's one of ours.} {It's Reliant.} 
+
+{Index}: 687
+{StartTime}: 0:46:12
+{EndTime}: 0:46:14
+{Text}: {Reliant?} 
+
+{Index}: 688
+{StartTime}: 0:46:17
+{EndTime}: 0:46:19
+{Text}: {Try the emergency channels.} 
+
+{Index}: 689
+{StartTime}: 0:46:23
+{EndTime}: 0:46:25
+{Text}: {Picture, Mr. Saavik.} 
+
+{Index}: 690
+{StartTime}: 0:46:41
+{EndTime}: 0:46:44
+{Text}: {Slow to 1/2 impulse power.} 
+
+{Index}: 691
+{StartTime}: 0:46:44
+{EndTime}: 0:46:46
+{Text}: {Let's be friends.} 
+
+{Index}: 692
+{StartTime}: 0:46:47
+{EndTime}: 0:46:50
+{Text}: {Slowing to 1/2 impulse power.} 
+
+{Index}: 693
+{StartTime}: 0:46:50
+{EndTime}: 0:46:51
+{Text}: {Reliant in our section.} 
+
+{Index}: 694
+{StartTime}: 0:46:51
+{EndTime}: 0:46:54
+{Text}: {This quadrant, sir, and slowing.} 
+
+{Index}: 695
+{StartTime}: 0:46:54
+{EndTime}: 0:46:57
+{Text}: {Sir, may I quote general order 1 2?} 
+
+{Index}: 696
+{StartTime}: 0:46:57
+{EndTime}: 0:47:0
+{Text}: {"When communications have not been established-"} 
+
+{Index}: 697
+{StartTime}: 0:47:0
+{EndTime}: 0:47:2
+{Text}: {The Admiral is well aware} 
+
+{Index}: 698
+{StartTime}: 0:47:3
+{EndTime}: 0:47:4
+{Text}: {of the regulations.} 
+
+{Index}: 699
+{StartTime}: 0:47:5
+{EndTime}: 0:47:6
+{Text}: {Aye, sir.} 
+
+{Index}: 700
+{StartTime}: 0:47:10
+{EndTime}: 0:47:13
+{Text}: {Could their Comm system have failed?} 
+
+{Index}: 701
+{StartTime}: 0:47:13
+{EndTime}: 0:47:16
+{Text}: {It would explain many things.} 
+
+{Index}: 702
+{StartTime}: 0:47:16
+{EndTime}: 0:47:18
+{Text}: {They're requesting communication, sir.} 
+
+{Index}: 703
+{StartTime}: 0:47:19
+{EndTime}: 0:47:21
+{Text}: {Let them eat static.} 
+
+{Index}: 704
+{StartTime}: 0:47:21
+{EndTime}: 0:47:26
+{Text}: {They're still running with shields down.} 
+
+{Index}: 705
+{StartTime}: 0:47:26
+{EndTime}: 0:47:27
+{Text}: {Of course.} 
+
+{Index}: 706
+{StartTime}: 0:47:27
+{EndTime}: 0:47:30
+{Text}: {We are one big happy fleet.} 
+
+{Index}: 707
+{StartTime}: 0:47:30
+{EndTime}: 0:47:34
+{Text}: {Ah, Kirk, my old friend.} 
+
+{Index}: 708
+{StartTime}: 0:47:34
+{EndTime}: 0:47:37
+{Text}: {Do you know the Klingon proverb} 
+
+{Index}: 709
+{StartTime}: 0:47:37
+{EndTime}: 0:47:40
+{Text}: {that tells us revenge is a dish} 
+
+{Index}: 710
+{StartTime}: 0:47:41
+{EndTime}: 0:47:43
+{Text}: {that is best served cold?} 
+
+{Index}: 711
+{StartTime}: 0:47:44
+{EndTime}: 0:47:49
+{Text}: {It is very cold in space.} 
+
+{Index}: 712
+{StartTime}: 0:47:58
+{EndTime}: 0:48:0
+{Text}: {This is damn peculiar.} 
+
+{Index}: 713
+{StartTime}: 0:48:2
+{EndTime}: 0:48:3
+{Text}: {Yellow alert.} 
+
+{Index}: 714
+{StartTime}: 0:48:3
+{EndTime}: 0:48:5
+{Text}: {Energize defense fields.} 
+
+{Index}: 715
+{StartTime}: 0:48:11
+{EndTime}: 0:48:13
+{Text}: {I'm getting a voice message.} 
+
+{Index}: 716
+{StartTime}: 0:48:13
+{EndTime}: 0:48:17
+{Text}: {Their chambers coil is overloading their Comm system.} 
+
+{Index}: 717
+{StartTime}: 0:48:17
+{EndTime}: 0:48:18
+{Text}: {Spock?} 
+
+{Index}: 718
+{StartTime}: 0:48:18
+{EndTime}: 0:48:19
+{Text}: {Scanning.} 
+
+{Index}: 719
+{StartTime}: 0:48:19
+{EndTime}: 0:48:21
+{Text}: {Their coil emissions are normal.} 
+
+{Index}: 720
+{StartTime}: 0:48:24
+{EndTime}: 0:48:26
+{Text}: {They still haven't raised their shields.} 
+
+{Index}: 721
+{StartTime}: 0:48:26
+{EndTime}: 0:48:28
+{Text}: {Raise ours.} 
+
+{Index}: 722
+{StartTime}: 0:48:30
+{EndTime}: 0:48:31
+{Text}: {Shields going up.} 
+
+{Index}: 723
+{StartTime}: 0:48:31
+{EndTime}: 0:48:33
+{Text}: {Lock phasers on target.} 
+
+{Index}: 724
+{StartTime}: 0:48:33
+{EndTime}: 0:48:36
+{Text}: {Locking phasers on target.} 
+
+{Index}: 725
+{StartTime}: 0:48:36
+{EndTime}: 0:48:37
+{Text}: {Locking phasers.} 
+
+{Index}: 726
+{StartTime}: 0:48:37
+{EndTime}: 0:48:38
+{Text}: {Raise shields.} 
+
+{Index}: 727
+{StartTime}: 0:48:38
+{EndTime}: 0:48:39
+{Text}: {Fire!} 
+
+{Index}: 728
+{StartTime}: 0:48:49
+{EndTime}: 0:48:51
+{Text}: {Aah!} 
+
+{Index}: 729
+{StartTime}: 0:48:54
+{EndTime}: 0:48:56
+{Text}: {Get those shields up!} 
+
+{Index}: 730
+{StartTime}: 0:48:56
+{EndTime}: 0:48:57
+{Text}: {Trying, sir.} 
+
+{Index}: 731
+{StartTime}: 0:49:20
+{EndTime}: 0:49:21
+{Text}: {I can't get power.} 
+
+{Index}: 732
+{StartTime}: 0:49:23
+{EndTime}: 0:49:24
+{Text}: {Scotty!} 
+
+{Index}: 733
+{StartTime}: 0:49:26
+{EndTime}: 0:49:27
+{Text}: {Get off those channels!} 
+
+{Index}: 734
+{StartTime}: 0:49:27
+{EndTime}: 0:49:29
+{Text}: {Mr. Scott on the screen.} 
+
+{Index}: 735
+{StartTime}: 0:49:29
+{EndTime}: 0:49:32
+{Text}: {I'm just hanging on, sir.} 
+
+{Index}: 736
+{StartTime}: 0:49:32
+{EndTime}: 0:49:34
+{Text}: {The main energizer's out.} 
+
+{Index}: 737
+{StartTime}: 0:49:34
+{EndTime}: 0:49:36
+{Text}: {Try auxiliary power.} 
+
+{Index}: 738
+{StartTime}: 0:49:36
+{EndTime}: 0:49:37
+{Text}: {Aye, aye, sir.} 
+
+{Index}: 739
+{StartTime}: 0:49:37
+{EndTime}: 0:49:38
+{Text}: {Damage report.} 
+
+{Index}: 740
+{StartTime}: 0:49:45
+{EndTime}: 0:49:48
+{Text}: {They knew exactly where to hit us.} 
+
+{Index}: 741
+{StartTime}: 0:49:48
+{EndTime}: 0:49:51
+{Text}: {Who?} {Who knew where to hit us?} {And why?} 
+
+{Index}: 742
+{StartTime}: 0:49:51
+{EndTime}: 0:49:53
+{Text}: {One thing is certain.} 
+
+{Index}: 743
+{StartTime}: 0:49:53
+{EndTime}: 0:49:55
+{Text}: {We cannot escape on auxiliary power.} 
+
+{Index}: 744
+{StartTime}: 0:49:57
+{EndTime}: 0:49:58
+{Text}: {Visual.} 
+
+{Index}: 745
+{StartTime}: 0:50:1
+{EndTime}: 0:50:2
+{Text}: {Sulu, divert power to phasers.} 
+
+{Index}: 746
+{StartTime}: 0:50:2
+{EndTime}: 0:50:3
+{Text}: {Too late.} 
+
+{Index}: 747
+{StartTime}: 0:50:3
+{EndTime}: 0:50:5
+{Text}: {Hang on!} 
+
+{Index}: 748
+{StartTime}: 0:50:16
+{EndTime}: 0:50:18
+{Text}: {Scotty, what's left?} 
+
+{Index}: 749
+{StartTime}: 0:50:18
+{EndTime}: 0:50:19
+{Text}: {Just the battery, sir.} 
+
+{Index}: 750
+{StartTime}: 0:50:19
+{EndTime}: 0:50:22
+{Text}: {I can have auxiliary power in a few minutes.} 
+
+{Index}: 751
+{StartTime}: 0:50:22
+{EndTime}: 0:50:25
+{Text}: {We don't have a few minutes!} 
+
+{Index}: 752
+{StartTime}: 0:50:30
+{EndTime}: 0:50:32
+{Text}: {Can you give me phaser power?} 
+
+{Index}: 753
+{StartTime}: 0:50:32
+{EndTime}: 0:50:34
+{Text}: {A few shots, sir.} 
+
+{Index}: 754
+{StartTime}: 0:50:34
+{EndTime}: 0:50:36
+{Text}: {Not enough against their shields.} 
+
+{Index}: 755
+{StartTime}: 0:50:36
+{EndTime}: 0:50:37
+{Text}: {Who the hell are they?} 
+
+{Index}: 756
+{StartTime}: 0:50:37
+{EndTime}: 0:50:40
+{Text}: {Admiral, the Reliant's commander is signaling.} 
+
+{Index}: 757
+{StartTime}: 0:50:40
+{EndTime}: 0:50:42
+{Text}: {He wishes to discuss terms of our surrender.} 
+
+{Index}: 758
+{StartTime}: 0:50:51
+{EndTime}: 0:50:54
+{Text}: {Put it on screen.} 
+
+{Index}: 759
+{StartTime}: 0:50:54
+{EndTime}: 0:50:55
+{Text}: {Admiral.} 
+
+{Index}: 760
+{StartTime}: 0:50:55
+{EndTime}: 0:50:56
+{Text}: {Do it!} 
+
+{Index}: 761
+{StartTime}: 0:50:57
+{EndTime}: 0:50:58
+{Text}: {While we still have time.} 
+
+{Index}: 762
+{StartTime}: 0:51:4
+{EndTime}: 0:51:6
+{Text}: {On screen, sir.} 
+
+{Index}: 763
+{StartTime}: 0:51:14
+{EndTime}: 0:51:15
+{Text}: {Khan.} 
+
+{Index}: 764
+{StartTime}: 0:51:15
+{EndTime}: 0:51:18
+{Text}: {You still remember, Admiral.} 
+
+{Index}: 765
+{StartTime}: 0:51:19
+{EndTime}: 0:51:21
+{Text}: {I cannot help but be touched.} 
+
+{Index}: 766
+{StartTime}: 0:51:21
+{EndTime}: 0:51:24
+{Text}: {I, of course, remember you.} 
+
+{Index}: 767
+{StartTime}: 0:51:24
+{EndTime}: 0:51:26
+{Text}: {What's the meaning of this attack?} 
+
+{Index}: 768
+{StartTime}: 0:51:26
+{EndTime}: 0:51:28
+{Text}: {Where's the crew of the Reliant?} 
+
+{Index}: 769
+{StartTime}: 0:51:28
+{EndTime}: 0:51:32
+{Text}: {Surely, I have made my meaning plain.} 
+
+{Index}: 770
+{StartTime}: 0:51:32
+{EndTime}: 0:51:36
+{Text}: {I mean to avenge myself upon you, Admiral.} 
+
+{Index}: 771
+{StartTime}: 0:51:36
+{EndTime}: 0:51:38
+{Text}: {I deprived your ship of power,} 
+
+{Index}: 772
+{StartTime}: 0:51:38
+{EndTime}: 0:51:39
+{Text}: {and when I swing around,} 
+
+{Index}: 773
+{StartTime}: 0:51:39
+{EndTime}: 0:51:43
+{Text}: {I mean to deprive you of your life.} 
+
+{Index}: 774
+{StartTime}: 0:51:43
+{EndTime}: 0:51:45
+{Text}: {But I wanted you to know first} 
+
+{Index}: 775
+{StartTime}: 0:51:45
+{EndTime}: 0:51:48
+{Text}: {who it was who had beaten you.} 
+
+{Index}: 776
+{StartTime}: 0:51:49
+{EndTime}: 0:51:50
+{Text}: {Khan...} 
+
+{Index}: 777
+{StartTime}: 0:51:53
+{EndTime}: 0:51:55
+{Text}: {if it's me you want,} 
+
+{Index}: 778
+{StartTime}: 0:51:55
+{EndTime}: 0:51:58
+{Text}: {I'll have myself beamed aboard.} 
+
+{Index}: 779
+{StartTime}: 0:51:58
+{EndTime}: 0:51:59
+{Text}: {Spare my crew.} 
+
+{Index}: 780
+{StartTime}: 0:51:59
+{EndTime}: 0:52:2
+{Text}: {I make you a counterproposal.} 
+
+{Index}: 781
+{StartTime}: 0:52:2
+{EndTime}: 0:52:5
+{Text}: {I'll agree to your terms if...} 
+
+{Index}: 782
+{StartTime}: 0:52:5
+{EndTime}: 0:52:6
+{Text}: {if...} 
+
+{Index}: 783
+{StartTime}: 0:52:6
+{EndTime}: 0:52:8
+{Text}: {in addition to yourself,} 
+
+{Index}: 784
+{StartTime}: 0:52:8
+{EndTime}: 0:52:12
+{Text}: {you hand over to me all data and material} 
+
+{Index}: 785
+{StartTime}: 0:52:12
+{EndTime}: 0:52:15
+{Text}: {regarding the project called Genesis.} 
+
+{Index}: 786
+{StartTime}: 0:52:15
+{EndTime}: 0:52:17
+{Text}: {Genesis?} {What's that?} 
+
+{Index}: 787
+{StartTime}: 0:52:17
+{EndTime}: 0:52:20
+{Text}: {Don't insult my intelligence, Kirk.} 
+
+{Index}: 788
+{StartTime}: 0:52:20
+{EndTime}: 0:52:23
+{Text}: {Give me time to recall the data on our computers.} 
+
+{Index}: 789
+{StartTime}: 0:52:23
+{EndTime}: 0:52:27
+{Text}: {I give you 60 seconds, Admiral.} 
+
+{Index}: 790
+{StartTime}: 0:52:33
+{EndTime}: 0:52:34
+{Text}: {Clear the bridge.} 
+
+{Index}: 791
+{StartTime}: 0:52:40
+{EndTime}: 0:52:43
+{Text}: {At least we know he doesn't have Genesis.} 
+
+{Index}: 792
+{StartTime}: 0:52:43
+{EndTime}: 0:52:46
+{Text}: {Keep nodding as though I'm still giving orders.} 
+
+{Index}: 793
+{StartTime}: 0:52:46
+{EndTime}: 0:52:49
+{Text}: {Mr. Saavik, punch up the data charts} 
+
+{Index}: 794
+{StartTime}: 0:52:49
+{EndTime}: 0:52:50
+{Text}: {of Reliant's command console.} 
+
+{Index}: 795
+{StartTime}: 0:52:50
+{EndTime}: 0:52:52
+{Text}: {Reliant's Command?} 
+
+{Index}: 796
+{StartTime}: 0:52:52
+{EndTime}: 0:52:53
+{Text}: {Hurry.} 
+
+{Index}: 797
+{StartTime}: 0:52:53
+{EndTime}: 0:52:54
+{Text}: {The prefix code?} 
+
+{Index}: 798
+{StartTime}: 0:52:54
+{EndTime}: 0:52:55
+{Text}: {It's all we've got.} 
+
+{Index}: 799
+{StartTime}: 0:53:2
+{EndTime}: 0:53:3
+{Text}: {Chart's up, sir.} 
+
+{Index}: 800
+{StartTime}: 0:53:3
+{EndTime}: 0:53:4
+{Text}: {Admiral.} 
+
+{Index}: 801
+{StartTime}: 0:53:4
+{EndTime}: 0:53:5
+{Text}: {We're finding it.} 
+
+{Index}: 802
+{StartTime}: 0:53:7
+{EndTime}: 0:53:9
+{Text}: {Admiral.} 
+
+{Index}: 803
+{StartTime}: 0:53:9
+{EndTime}: 0:53:12
+{Text}: {Please.} {Please, you've got to give us time.} 
+
+{Index}: 804
+{StartTime}: 0:53:12
+{EndTime}: 0:53:13
+{Text}: {The bridge is smashed.} 
+
+{Index}: 805
+{StartTime}: 0:53:13
+{EndTime}: 0:53:15
+{Text}: {The computer's inoperative.} 
+
+{Index}: 806
+{StartTime}: 0:53:15
+{EndTime}: 0:53:17
+{Text}: {Time is a luxury you don't have, Admiral.} 
+
+{Index}: 807
+{StartTime}: 0:53:25
+{EndTime}: 0:53:26
+{Text}: {Damn!} 
+
+{Index}: 808
+{StartTime}: 0:53:27
+{EndTime}: 0:53:28
+{Text}: {Admiral?} 
+
+{Index}: 809
+{StartTime}: 0:53:28
+{EndTime}: 0:53:30
+{Text}: {It's coming through now, Khan.} 
+
+{Index}: 810
+{StartTime}: 0:53:35
+{EndTime}: 0:53:38
+{Text}: {Reliant's prefix number is 1 6309.} 
+
+{Index}: 811
+{StartTime}: 0:53:38
+{EndTime}: 0:53:39
+{Text}: {I don't understand.} 
+
+{Index}: 812
+{StartTime}: 0:53:39
+{EndTime}: 0:53:42
+{Text}: {You have to learn why things work on a starship.} 
+
+{Index}: 813
+{StartTime}: 0:53:42
+{EndTime}: 0:53:45
+{Text}: {Each ship has its own combination code...} 
+
+{Index}: 814
+{StartTime}: 0:53:45
+{EndTime}: 0:53:50
+{Text}: {to prevent an enemy from doing what we're attempting.} 
+
+{Index}: 815
+{StartTime}: 0:53:50
+{EndTime}: 0:53:52
+{Text}: {We're using our console} 
+
+{Index}: 816
+{StartTime}: 0:53:52
+{EndTime}: 0:53:55
+{Text}: {to order Reliant to lower her shields.} 
+
+{Index}: 817
+{StartTime}: 0:53:55
+{EndTime}: 0:53:57
+{Text}: {Assuming he hasn't changed the combination.} 
+
+{Index}: 818
+{StartTime}: 0:53:57
+{EndTime}: 0:53:58
+{Text}: {He's quite intelligent.} 
+
+{Index}: 819
+{StartTime}: 0:53:58
+{EndTime}: 0:54:0
+{Text}: {1 5 seconds, Admiral.} 
+
+{Index}: 820
+{StartTime}: 0:54:5
+{EndTime}: 0:54:8
+{Text}: {Khan, how do we know you'll keep your word?} 
+
+{Index}: 821
+{StartTime}: 0:54:8
+{EndTime}: 0:54:11
+{Text}: {I've given you no word to keep, Admiral.} 
+
+{Index}: 822
+{StartTime}: 0:54:11
+{EndTime}: 0:54:14
+{Text}: {In my judgment, you simply have no alternative.} 
+
+{Index}: 823
+{StartTime}: 0:54:17
+{EndTime}: 0:54:19
+{Text}: {I see your point.} 
+
+{Index}: 824
+{StartTime}: 0:54:20
+{EndTime}: 0:54:22
+{Text}: {Stand by to receive our transmission.} 
+
+{Index}: 825
+{StartTime}: 0:54:23
+{EndTime}: 0:54:26
+{Text}: {Mr. Sulu, lock phasers on target} 
+
+{Index}: 826
+{StartTime}: 0:54:26
+{EndTime}: 0:54:27
+{Text}: {and await my command.} 
+
+{Index}: 827
+{StartTime}: 0:54:27
+{EndTime}: 0:54:29
+{Text}: {Phasers locked.} 
+
+{Index}: 828
+{StartTime}: 0:54:30
+{EndTime}: 0:54:33
+{Text}: {Time's up, Admiral.} 
+
+{Index}: 829
+{StartTime}: 0:54:33
+{EndTime}: 0:54:35
+{Text}: {Here it comes.} 
+
+{Index}: 830
+{StartTime}: 0:54:35
+{EndTime}: 0:54:37
+{Text}: {Now, Mr. Spock.} 
+
+{Index}: 831
+{StartTime}: 0:54:43
+{EndTime}: 0:54:46
+{Text}: {Sir, our shields are dropping.} 
+
+{Index}: 832
+{StartTime}: 0:54:48
+{EndTime}: 0:54:49
+{Text}: {Raise them!} 
+
+{Index}: 833
+{StartTime}: 0:54:50
+{EndTime}: 0:54:51
+{Text}: {I can't!} 
+
+{Index}: 834
+{StartTime}: 0:54:54
+{EndTime}: 0:54:56
+{Text}: {Where's the override?} {The override?} 
+
+{Index}: 835
+{StartTime}: 0:54:56
+{EndTime}: 0:54:57
+{Text}: {Fire!} 
+
+{Index}: 836
+{StartTime}: 0:55:0
+{EndTime}: 0:55:1
+{Text}: {Fire!} 
+
+{Index}: 837
+{StartTime}: 0:55:6
+{EndTime}: 0:55:7
+{Text}: {Fire!} 
+
+{Index}: 838
+{StartTime}: 0:55:7
+{EndTime}: 0:55:8
+{Text}: {Fire!} 
+
+{Index}: 839
+{StartTime}: 0:55:8
+{EndTime}: 0:55:9
+{Text}: {We can't, sir!} 
+
+{Index}: 840
+{StartTime}: 0:55:9
+{EndTime}: 0:55:11
+{Text}: {Why can't you?} 
+
+{Index}: 841
+{StartTime}: 0:55:11
+{EndTime}: 0:55:14
+{Text}: {They've damaged the photon control and the warp drive.} 
+
+{Index}: 842
+{StartTime}: 0:55:14
+{EndTime}: 0:55:15
+{Text}: {We must withdraw!} 
+
+{Index}: 843
+{StartTime}: 0:55:15
+{EndTime}: 0:55:16
+{Text}: {No!} {No!} 
+
+{Index}: 844
+{StartTime}: 0:55:16
+{EndTime}: 0:55:17
+{Text}: {We must!} 
+
+{Index}: 845
+{StartTime}: 0:55:24
+{EndTime}: 0:55:26
+{Text}: {Enterprise will wait.} 
+
+{Index}: 846
+{StartTime}: 0:55:26
+{EndTime}: 0:55:29
+{Text}: {She's not going anywhere.} 
+
+{Index}: 847
+{StartTime}: 0:55:37
+{EndTime}: 0:55:38
+{Text}: {Sir, you did it.} 
+
+{Index}: 848
+{StartTime}: 0:55:38
+{EndTime}: 0:55:41
+{Text}: {I did nothing...} 
+
+{Index}: 849
+{StartTime}: 0:55:41
+{EndTime}: 0:55:44
+{Text}: {except get caught with my britches down.} 
+
+{Index}: 850
+{StartTime}: 0:55:44
+{EndTime}: 0:55:46
+{Text}: {I must be getting senile.} 
+
+{Index}: 851
+{StartTime}: 0:55:46
+{EndTime}: 0:55:51
+{Text}: {Mr. Saavik, you go right on quoting regulations.} 
+
+{Index}: 852
+{StartTime}: 0:55:51
+{EndTime}: 0:55:52
+{Text}: {Meantime, let's find out} 
+
+{Index}: 853
+{StartTime}: 0:55:52
+{EndTime}: 0:55:54
+{Text}: {how badly we've been hurt.} 
+
+{Index}: 854
+{StartTime}: 0:56:42
+{EndTime}: 0:56:44
+{Text}: {Is the word given, Admiral?} 
+
+{Index}: 855
+{StartTime}: 0:56:44
+{EndTime}: 0:56:45
+{Text}: {The word is given.} 
+
+{Index}: 856
+{StartTime}: 0:56:47
+{EndTime}: 0:56:49
+{Text}: {Warp speed.} 
+
+{Index}: 857
+{StartTime}: 0:56:51
+{EndTime}: 0:56:52
+{Text}: {Aye.} 
+
+{Index}: 858
+{StartTime}: 0:57:7
+{EndTime}: 0:57:11
+{Text}: {He stayed at his post when the trainees ran.} 
+
+{Index}: 859
+{StartTime}: 0:57:11
+{EndTime}: 0:57:13
+{Text}: {Admiral, this is Spock.} 
+
+{Index}: 860
+{StartTime}: 0:57:14
+{EndTime}: 0:57:15
+{Text}: {Yes, Spock.} 
+
+{Index}: 861
+{StartTime}: 0:57:15
+{EndTime}: 0:57:18
+{Text}: {Engine room reports auxiliary power restored.} 
+
+{Index}: 862
+{StartTime}: 0:57:18
+{EndTime}: 0:57:20
+{Text}: {We can proceed at impulse power.} 
+
+{Index}: 863
+{StartTime}: 0:57:21
+{EndTime}: 0:57:24
+{Text}: {Best speed to Regula-1 .} {Kirk out.} 
+
+{Index}: 864
+{StartTime}: 0:57:24
+{EndTime}: 0:57:25
+{Text}: {I'm sorry, Scotty.} 
+
+{Index}: 865
+{StartTime}: 0:57:27
+{EndTime}: 0:57:31
+{Text}: {Approaching Regula at Space Lab Regula-1.} 
+
+{Index}: 866
+{StartTime}: 0:57:31
+{EndTime}: 0:57:32
+{Text}: {Space Station Regula-1,} 
+
+{Index}: 867
+{StartTime}: 0:57:32
+{EndTime}: 0:57:34
+{Text}: {this is the starship Enterprise.} 
+
+{Index}: 868
+{StartTime}: 0:57:34
+{EndTime}: 0:57:36
+{Text}: {Please come in.} 
+
+{Index}: 869
+{StartTime}: 0:57:39
+{EndTime}: 0:57:42
+{Text}: {Space Station Regula-1, do you read?} 
+
+{Index}: 870
+{StartTime}: 0:57:44
+{EndTime}: 0:57:47
+{Text}: {Space Station Regula-1, this is Enterprise.} 
+
+{Index}: 871
+{StartTime}: 0:57:47
+{EndTime}: 0:57:49
+{Text}: {Please acknowledge.} 
+
+{Index}: 872
+{StartTime}: 0:57:51
+{EndTime}: 0:57:54
+{Text}: {This is Enterprise.} {Do you read me?} 
+
+{Index}: 873
+{StartTime}: 0:57:56
+{EndTime}: 0:57:59
+{Text}: {Space Station Regula-1 , do you read?} 
+
+{Index}: 874
+{StartTime}: 0:57:59
+{EndTime}: 0:58:1
+{Text}: {Please come in.} 
+
+{Index}: 875
+{StartTime}: 0:58:1
+{EndTime}: 0:58:2
+{Text}: {There's no response, sir.} 
+
+{Index}: 876
+{StartTime}: 0:58:6
+{EndTime}: 0:58:7
+{Text}: {Sensors, Captain.} 
+
+{Index}: 877
+{StartTime}: 0:58:7
+{EndTime}: 0:58:9
+{Text}: {Scanners and sensors are still inoperative.} 
+
+{Index}: 878
+{StartTime}: 0:58:9
+{EndTime}: 0:58:12
+{Text}: {There's no way to ascertain what's inside the station.} 
+
+{Index}: 879
+{StartTime}: 0:58:12
+{EndTime}: 0:58:16
+{Text}: {No way of telling if Reliant is still in the area.} 
+
+{Index}: 880
+{StartTime}: 0:58:16
+{EndTime}: 0:58:17
+{Text}: {Precisely.} 
+
+{Index}: 881
+{StartTime}: 0:58:17
+{EndTime}: 0:58:20
+{Text}: {What do you make of that planetoid beyond?} 
+
+{Index}: 882
+{StartTime}: 0:58:20
+{EndTime}: 0:58:22
+{Text}: {Regula is Class D.} 
+
+{Index}: 883
+{StartTime}: 0:58:22
+{EndTime}: 0:58:25
+{Text}: {It consists of various unremarkable ores,} 
+
+{Index}: 884
+{StartTime}: 0:58:25
+{EndTime}: 0:58:27
+{Text}: {essentially a great rock in space.} 
+
+{Index}: 885
+{StartTime}: 0:58:27
+{EndTime}: 0:58:30
+{Text}: {And Reliant could be hiding behind that rock.} 
+
+{Index}: 886
+{StartTime}: 0:58:30
+{EndTime}: 0:58:31
+{Text}: {A distinct possibility.} 
+
+{Index}: 887
+{StartTime}: 0:58:34
+{EndTime}: 0:58:35
+{Text}: {Engineering.} 
+
+{Index}: 888
+{StartTime}: 0:58:35
+{EndTime}: 0:58:36
+{Text}: {Aye, sir.} 
+
+{Index}: 889
+{StartTime}: 0:58:36
+{EndTime}: 0:58:40
+{Text}: {Mr. Scott, do you have enough power for transporters?} 
+
+{Index}: 890
+{StartTime}: 0:58:40
+{EndTime}: 0:58:41
+{Text}: {Barely, sir.} 
+
+{Index}: 891
+{StartTime}: 0:58:43
+{EndTime}: 0:58:45
+{Text}: {I'm going down there.} 
+
+{Index}: 892
+{StartTime}: 0:58:45
+{EndTime}: 0:58:46
+{Text}: {Khan could be down there.} 
+
+{Index}: 893
+{StartTime}: 0:58:46
+{EndTime}: 0:58:49
+{Text}: {He's been there.} {Can you spare someone?} 
+
+{Index}: 894
+{StartTime}: 0:58:49
+{EndTime}: 0:58:50
+{Text}: {There may be people hurt.} 
+
+{Index}: 895
+{StartTime}: 0:58:50
+{EndTime}: 0:58:52
+{Text}: {Yeah.} {I can spare me.} 
+
+{Index}: 896
+{StartTime}: 0:58:52
+{EndTime}: 0:58:53
+{Text}: {Begging the Admiral's pardon.} 
+
+{Index}: 897
+{StartTime}: 0:58:53
+{EndTime}: 0:58:55
+{Text}: {General order 1 5.} 
+
+{Index}: 898
+{StartTime}: 0:58:55
+{EndTime}: 0:58:57
+{Text}: {"No flag officer shall beam into a hazardous area} 
+
+{Index}: 899
+{StartTime}: 0:58:57
+{EndTime}: 0:58:59
+{Text}: {without armed escort."} 
+
+{Index}: 900
+{StartTime}: 0:58:59
+{EndTime}: 0:59:0
+{Text}: {There's no such regulation.} 
+
+{Index}: 901
+{StartTime}: 0:59:5
+{EndTime}: 0:59:6
+{Text}: {All right.} {Join the party.} 
+
+{Index}: 902
+{StartTime}: 0:59:6
+{EndTime}: 0:59:8
+{Text}: {Mr. Spock, the ship is yours.} 
+
+{Index}: 903
+{StartTime}: 0:59:8
+{EndTime}: 0:59:10
+{Text}: {Jim, be careful.} 
+
+{Index}: 904
+{StartTime}: 0:59:11
+{EndTime}: 0:59:12
+{Text}: {We will.} 
+
+{Index}: 905
+{StartTime}: 0:59:36
+{EndTime}: 0:59:38
+{Text}: {Indeterminate life signs.} 
+
+{Index}: 906
+{StartTime}: 0:59:42
+{EndTime}: 0:59:43
+{Text}: {Phasers on stun.} 
+
+{Index}: 907
+{StartTime}: 0:59:47
+{EndTime}: 0:59:48
+{Text}: {Move out.} 
+
+{Index}: 908
+{StartTime}: 1:0:51
+{EndTime}: 1:0:51
+{Text}: {Aah.} 
+
+{Index}: 909
+{StartTime}: 1:0:54
+{EndTime}: 1:0:54
+{Text}: {Jim!} 
+
+{Index}: 910
+{StartTime}: 1:1:5
+{EndTime}: 1:1:7
+{Text}: {Well, rigor hasn't set in.} 
+
+{Index}: 911
+{StartTime}: 1:1:7
+{EndTime}: 1:1:10
+{Text}: {This couldn't have happened too long ago, Jim.} 
+
+{Index}: 912
+{StartTime}: 1:1:10
+{EndTime}: 1:1:11
+{Text}: {Carol.} 
+
+{Index}: 913
+{StartTime}: 1:1:12
+{EndTime}: 1:1:14
+{Text}: {This is Enterprise calling Space Lab Regula-1 .} 
+
+{Index}: 914
+{StartTime}: 1:1:15
+{EndTime}: 1:1:16
+{Text}: {Respond, please.} 
+
+{Index}: 915
+{StartTime}: 1:1:16
+{EndTime}: 1:1:19
+{Text}: {Admiral.} {Over here.} 
+
+{Index}: 916
+{StartTime}: 1:1:19
+{EndTime}: 1:1:21
+{Text}: {Dr. Marcus, come in, please.} 
+
+{Index}: 917
+{StartTime}: 1:1:46
+{EndTime}: 1:1:47
+{Text}: {Oh, my God.} 
+
+{Index}: 918
+{StartTime}: 1:1:47
+{EndTime}: 1:1:49
+{Text}: {Please acknowledge signal.} {Please-} 
+
+{Index}: 919
+{StartTime}: 1:1:49
+{EndTime}: 1:1:52
+{Text}: {Commander Uhura, this is Lieutenant Saavik.} 
+
+{Index}: 920
+{StartTime}: 1:1:52
+{EndTime}: 1:1:56
+{Text}: {We're all right.} {Please standby.} {Out.} 
+
+{Index}: 921
+{StartTime}: 1:1:57
+{EndTime}: 1:2:0
+{Text}: {Oh, sir, it was Khan.} 
+
+{Index}: 922
+{StartTime}: 1:2:0
+{EndTime}: 1:2:3
+{Text}: {We found him on Ceti Alpha V.} 
+
+{Index}: 923
+{StartTime}: 1:2:3
+{EndTime}: 1:2:4
+{Text}: {Easy.} {Easy.} 
+
+{Index}: 924
+{StartTime}: 1:2:4
+{EndTime}: 1:2:5
+{Text}: {He...} 
+
+{Index}: 925
+{StartTime}: 1:2:5
+{EndTime}: 1:2:10
+{Text}: {he put creatures in our bodies} 
+
+{Index}: 926
+{StartTime}: 1:2:10
+{EndTime}: 1:2:13
+{Text}: {to control our minds.} 
+
+{Index}: 927
+{StartTime}: 1:2:13
+{EndTime}: 1:2:16
+{Text}: {It's all right.} {You're safe now.} 
+
+{Index}: 928
+{StartTime}: 1:2:16
+{EndTime}: 1:2:18
+{Text}: {Made us say lies...} 
+
+{Index}: 929
+{StartTime}: 1:2:18
+{EndTime}: 1:2:19
+{Text}: {do things...} 
+
+{Index}: 930
+{StartTime}: 1:2:19
+{EndTime}: 1:2:21
+{Text}: {but we beat him.} 
+
+{Index}: 931
+{StartTime}: 1:2:21
+{EndTime}: 1:2:26
+{Text}: {He thought he controlled us, but he did not.} 
+
+{Index}: 932
+{StartTime}: 1:2:26
+{EndTime}: 1:2:27
+{Text}: {The Captain was strong.} 
+
+{Index}: 933
+{StartTime}: 1:2:27
+{EndTime}: 1:2:28
+{Text}: {Captain...} 
+
+{Index}: 934
+{StartTime}: 1:2:30
+{EndTime}: 1:2:31
+{Text}: {where's Dr. Marcus?} 
+
+{Index}: 935
+{StartTime}: 1:2:33
+{EndTime}: 1:2:34
+{Text}: {Where are the Genesis materials?} 
+
+{Index}: 936
+{StartTime}: 1:2:35
+{EndTime}: 1:2:36
+{Text}: {He couldn't find them.} 
+
+{Index}: 937
+{StartTime}: 1:2:36
+{EndTime}: 1:2:38
+{Text}: {Even the data banks were empty.} 
+
+{Index}: 938
+{StartTime}: 1:2:39
+{EndTime}: 1:2:40
+{Text}: {Erased?} 
+
+{Index}: 939
+{StartTime}: 1:2:40
+{EndTime}: 1:2:42
+{Text}: {He tortured those people.} 
+
+{Index}: 940
+{StartTime}: 1:2:42
+{EndTime}: 1:2:45
+{Text}: {But none of them would tell him anything.} 
+
+{Index}: 941
+{StartTime}: 1:2:45
+{EndTime}: 1:2:47
+{Text}: {He went wild.} 
+
+{Index}: 942
+{StartTime}: 1:2:47
+{EndTime}: 1:2:49
+{Text}: {He slit their throats.} 
+
+{Index}: 943
+{StartTime}: 1:2:49
+{EndTime}: 1:2:53
+{Text}: {He wanted to tear the place apart, but he was late.} 
+
+{Index}: 944
+{StartTime}: 1:2:53
+{EndTime}: 1:2:56
+{Text}: {He had to get back to the Reliant} 
+
+{Index}: 945
+{StartTime}: 1:2:56
+{EndTime}: 1:2:58
+{Text}: {in time to blow you to bits.} 
+
+{Index}: 946
+{StartTime}: 1:2:58
+{EndTime}: 1:3:1
+{Text}: {Where's Reliant's crew?} {Dead?} 
+
+{Index}: 947
+{StartTime}: 1:3:3
+{EndTime}: 1:3:5
+{Text}: {Marooned on Ceti Alpha V.} 
+
+{Index}: 948
+{StartTime}: 1:3:5
+{EndTime}: 1:3:7
+{Text}: {He's completely mad, Admiral.} 
+
+{Index}: 949
+{StartTime}: 1:3:7
+{EndTime}: 1:3:10
+{Text}: {He blames you for the death of his wife.} 
+
+{Index}: 950
+{StartTime}: 1:3:10
+{EndTime}: 1:3:13
+{Text}: {I know what he blames me for.} 
+
+{Index}: 951
+{StartTime}: 1:3:16
+{EndTime}: 1:3:19
+{Text}: {The escape pods are all in place.} 
+
+{Index}: 952
+{StartTime}: 1:3:21
+{EndTime}: 1:3:23
+{Text}: {Where's the transporter room?} 
+
+{Index}: 953
+{StartTime}: 1:3:23
+{EndTime}: 1:3:25
+{Text}: {Did he make it down here?} 
+
+{Index}: 954
+{StartTime}: 1:3:25
+{EndTime}: 1:3:27
+{Text}: {It was not my impression.} 
+
+{Index}: 955
+{StartTime}: 1:3:27
+{EndTime}: 1:3:29
+{Text}: {He spent most of his time} 
+
+{Index}: 956
+{StartTime}: 1:3:29
+{EndTime}: 1:3:32
+{Text}: {trying to wring the information out of the people.} 
+
+{Index}: 957
+{StartTime}: 1:3:32
+{EndTime}: 1:3:33
+{Text}: {Anything?} 
+
+{Index}: 958
+{StartTime}: 1:3:33
+{EndTime}: 1:3:35
+{Text}: {The unit's been left on,} 
+
+{Index}: 959
+{StartTime}: 1:3:35
+{EndTime}: 1:3:38
+{Text}: {which means nobody remained to turn it off.} 
+
+{Index}: 960
+{StartTime}: 1:3:38
+{EndTime}: 1:3:39
+{Text}: {Those people back there} 
+
+{Index}: 961
+{StartTime}: 1:3:39
+{EndTime}: 1:3:42
+{Text}: {bought escape time for Genesis with their lives.} 
+
+{Index}: 962
+{StartTime}: 1:3:42
+{EndTime}: 1:3:44
+{Text}: {This is not logical.} 
+
+{Index}: 963
+{StartTime}: 1:3:44
+{EndTime}: 1:3:47
+{Text}: {These coordinates are deep inside Regula,} 
+
+{Index}: 964
+{StartTime}: 1:3:47
+{EndTime}: 1:3:49
+{Text}: {a planetoid we know to be lifeless.} 
+
+{Index}: 965
+{StartTime}: 1:3:51
+{EndTime}: 1:3:53
+{Text}: {If Stage Two is completed,} 
+
+{Index}: 966
+{StartTime}: 1:3:53
+{EndTime}: 1:3:55
+{Text}: {it was going to be underground.} 
+
+{Index}: 967
+{StartTime}: 1:3:55
+{EndTime}: 1:3:58
+{Text}: {It was going to be underground, she said.} 
+
+{Index}: 968
+{StartTime}: 1:3:59
+{EndTime}: 1:4:0
+{Text}: {Stage Two of what?} 
+
+{Index}: 969
+{StartTime}: 1:4:2
+{EndTime}: 1:4:3
+{Text}: {Kirk to Enterprise.} 
+
+{Index}: 970
+{StartTime}: 1:4:3
+{EndTime}: 1:4:4
+{Text}: {Spock here.} 
+
+{Index}: 971
+{StartTime}: 1:4:4
+{EndTime}: 1:4:6
+{Text}: {Captain Spock, damage report.} 
+
+{Index}: 972
+{StartTime}: 1:4:6
+{EndTime}: 1:4:9
+{Text}: {Admiral, if we go by the book,} 
+
+{Index}: 973
+{StartTime}: 1:4:9
+{EndTime}: 1:4:11
+{Text}: {like Lieutenant Saavik,} 
+
+{Index}: 974
+{StartTime}: 1:4:11
+{EndTime}: 1:4:13
+{Text}: {hours could seem like days.} 
+
+{Index}: 975
+{StartTime}: 1:4:13
+{EndTime}: 1:4:16
+{Text}: {I read you, Captain.} {Let's have it.} 
+
+{Index}: 976
+{StartTime}: 1:4:16
+{EndTime}: 1:4:18
+{Text}: {The situation is grave, Admiral.} 
+
+{Index}: 977
+{StartTime}: 1:4:18
+{EndTime}: 1:4:21
+{Text}: {We won't have main power for six days.} 
+
+{Index}: 978
+{StartTime}: 1:4:21
+{EndTime}: 1:4:23
+{Text}: {Auxiliary power has temporarily failed.} 
+
+{Index}: 979
+{StartTime}: 1:4:23
+{EndTime}: 1:4:26
+{Text}: {Restoration maybe possible in two days.} 
+
+{Index}: 980
+{StartTime}: 1:4:27
+{EndTime}: 1:4:28
+{Text}: {By the book, Admiral.} 
+
+{Index}: 981
+{StartTime}: 1:4:28
+{EndTime}: 1:4:31
+{Text}: {Meaning you can't even beam us back?} 
+
+{Index}: 982
+{StartTime}: 1:4:31
+{EndTime}: 1:4:33
+{Text}: {Not at present.} 
+
+{Index}: 983
+{StartTime}: 1:4:35
+{EndTime}: 1:4:36
+{Text}: {Captain Spock...} 
+
+{Index}: 984
+{StartTime}: 1:4:36
+{EndTime}: 1:4:39
+{Text}: {if you don't hear from us within one hour,} 
+
+{Index}: 985
+{StartTime}: 1:4:39
+{EndTime}: 1:4:42
+{Text}: {your orders are to restore what power you can,} 
+
+{Index}: 986
+{StartTime}: 1:4:42
+{EndTime}: 1:4:45
+{Text}: {take the Enterprise to the nearest star base,} 
+
+{Index}: 987
+{StartTime}: 1:4:45
+{EndTime}: 1:4:48
+{Text}: {and alert Starfleet command.} 
+
+{Index}: 988
+{StartTime}: 1:4:48
+{EndTime}: 1:4:50
+{Text}: {Sir, we won't leave you behind.} 
+
+{Index}: 989
+{StartTime}: 1:4:50
+{EndTime}: 1:4:52
+{Text}: {Uhura, if you don't hear from us,} 
+
+{Index}: 990
+{StartTime}: 1:4:52
+{EndTime}: 1:4:56
+{Text}: {there won't be anybody behind.} {Kirk out.} 
+
+{Index}: 991
+{StartTime}: 1:4:56
+{EndTime}: 1:4:59
+{Text}: {Well, gentlemen, you can stay here, or...} 
+
+{Index}: 992
+{StartTime}: 1:4:59
+{EndTime}: 1:5:1
+{Text}: {If it's all the same, Admiral,} 
+
+{Index}: 993
+{StartTime}: 1:5:1
+{EndTime}: 1:5:3
+{Text}: {we'd like to share the risk.} 
+
+{Index}: 994
+{StartTime}: 1:5:3
+{EndTime}: 1:5:5
+{Text}: {Right.} {Let's go.} 
+
+{Index}: 995
+{StartTime}: 1:5:5
+{EndTime}: 1:5:6
+{Text}: {Saavik?} 
+
+{Index}: 996
+{StartTime}: 1:5:8
+{EndTime}: 1:5:10
+{Text}: {Go?} {Where are we going?} 
+
+{Index}: 997
+{StartTime}: 1:5:10
+{EndTime}: 1:5:11
+{Text}: {Where they went.} 
+
+{Index}: 998
+{StartTime}: 1:5:13
+{EndTime}: 1:5:15
+{Text}: {Suppose they went nowhere?} 
+
+{Index}: 999
+{StartTime}: 1:5:15
+{EndTime}: 1:5:18
+{Text}: {Then this will be your big chance} 
+
+{Index}: 1000
+{StartTime}: 1:5:18
+{EndTime}: 1:5:21
+{Text}: {to get away from it all.} 
+
+{Index}: 1001
+{StartTime}: 1:5:49
+{EndTime}: 1:5:50
+{Text}: {Admiral.} 
+
+{Index}: 1002
+{StartTime}: 1:6:4
+{EndTime}: 1:6:6
+{Text}: {Genesis, I presume.} 
+
+{Index}: 1003
+{StartTime}: 1:6:14
+{EndTime}: 1:6:16
+{Text}: {Phasers down!} 
+
+{Index}: 1004
+{StartTime}: 1:6:17
+{EndTime}: 1:6:18
+{Text}: {You!} 
+
+{Index}: 1005
+{StartTime}: 1:6:26
+{EndTime}: 1:6:28
+{Text}: {Where's Dr. Marcus?} 
+
+{Index}: 1006
+{StartTime}: 1:6:28
+{EndTime}: 1:6:29
+{Text}: {I'm Dr. Marcus.} 
+
+{Index}: 1007
+{StartTime}: 1:6:29
+{EndTime}: 1:6:30
+{Text}: {Jim!} 
+
+{Index}: 1008
+{StartTime}: 1:6:43
+{EndTime}: 1:6:45
+{Text}: {Is that David?} 
+
+{Index}: 1009
+{StartTime}: 1:6:45
+{EndTime}: 1:6:49
+{Text}: {Mother, he killed everybody we left behind.} 
+
+{Index}: 1010
+{StartTime}: 1:6:50
+{EndTime}: 1:6:53
+{Text}: {Oh, of course he didn't.} 
+
+{Index}: 1011
+{StartTime}: 1:6:53
+{EndTime}: 1:6:55
+{Text}: {David, you're just making this harder.} 
+
+{Index}: 1012
+{StartTime}: 1:6:55
+{EndTime}: 1:6:57
+{Text}: {I'm afraid it's even harder} 
+
+{Index}: 1013
+{StartTime}: 1:6:57
+{EndTime}: 1:6:59
+{Text}: {than you think, Doctor.} 
+
+{Index}: 1014
+{StartTime}: 1:6:59
+{EndTime}: 1:7:1
+{Text}: {Please...} 
+
+{Index}: 1015
+{StartTime}: 1:7:1
+{EndTime}: 1:7:2
+{Text}: {don't move.} 
+
+{Index}: 1016
+{StartTime}: 1:7:2
+{EndTime}: 1:7:3
+{Text}: {Chekov?} 
+
+{Index}: 1017
+{StartTime}: 1:7:3
+{EndTime}: 1:7:6
+{Text}: {I'm...} 
+
+{Index}: 1018
+{StartTime}: 1:7:6
+{EndTime}: 1:7:7
+{Text}: {sorry, Admiral.} 
+
+{Index}: 1019
+{StartTime}: 1:7:9
+{EndTime}: 1:7:11
+{Text}: {Your Excellency, have you been listening?} 
+
+{Index}: 1020
+{StartTime}: 1:7:15
+{EndTime}: 1:7:18
+{Text}: {I have indeed, Captain.} 
+
+{Index}: 1021
+{StartTime}: 1:7:18
+{EndTime}: 1:7:19
+{Text}: {You have done well.} 
+
+{Index}: 1022
+{StartTime}: 1:7:19
+{EndTime}: 1:7:22
+{Text}: {I knew it.} {You son of a bitch!} 
+
+{Index}: 1023
+{StartTime}: 1:7:24
+{EndTime}: 1:7:25
+{Text}: {Don't move, anybody!} 
+
+{Index}: 1024
+{StartTime}: 1:7:25
+{EndTime}: 1:7:27
+{Text}: {Captain?} 
+
+{Index}: 1025
+{StartTime}: 1:7:27
+{EndTime}: 1:7:28
+{Text}: {We are waiting.} 
+
+{Index}: 1026
+{StartTime}: 1:7:29
+{EndTime}: 1:7:30
+{Text}: {What's the delay?} 
+
+{Index}: 1027
+{StartTime}: 1:7:31
+{EndTime}: 1:7:32
+{Text}: {All is well, sir.} 
+
+{Index}: 1028
+{StartTime}: 1:7:32
+{EndTime}: 1:7:35
+{Text}: {You have the coordinates to beam up Genesis.} 
+
+{Index}: 1029
+{StartTime}: 1:7:37
+{EndTime}: 1:7:40
+{Text}: {First things first, Captain.} 
+
+{Index}: 1030
+{StartTime}: 1:7:42
+{EndTime}: 1:7:45
+{Text}: {Kill Admiral Kirk.} 
+
+{Index}: 1031
+{StartTime}: 1:7:55
+{EndTime}: 1:7:58
+{Text}: {Sir, it is difficult.} {I..} {.} 
+
+{Index}: 1032
+{StartTime}: 1:7:58
+{EndTime}: 1:8:0
+{Text}: {I try to obey, but...} 
+
+{Index}: 1033
+{StartTime}: 1:8:0
+{EndTime}: 1:8:2
+{Text}: {Kill him.} 
+
+{Index}: 1034
+{StartTime}: 1:8:2
+{EndTime}: 1:8:3
+{Text}: {I..} {.} 
+
+{Index}: 1035
+{StartTime}: 1:8:5
+{EndTime}: 1:8:6
+{Text}: {Aah!} 
+
+{Index}: 1036
+{StartTime}: 1:8:11
+{EndTime}: 1:8:13
+{Text}: {Kill him, Terrell, now!} 
+
+{Index}: 1037
+{StartTime}: 1:8:18
+{EndTime}: 1:8:20
+{Text}: {Aah!} 
+
+{Index}: 1038
+{StartTime}: 1:8:25
+{EndTime}: 1:8:27
+{Text}: {Aah!} 
+
+{Index}: 1039
+{StartTime}: 1:8:37
+{EndTime}: 1:8:38
+{Text}: {God sakes!} 
+
+{Index}: 1040
+{StartTime}: 1:8:40
+{EndTime}: 1:8:42
+{Text}: {What is it?} 
+
+{Index}: 1041
+{StartTime}: 1:9:2
+{EndTime}: 1:9:4
+{Text}: {Khan, you bloodsucker!} 
+
+{Index}: 1042
+{StartTime}: 1:9:4
+{EndTime}: 1:9:7
+{Text}: {You'll have to do your own dirty work now.} 
+
+{Index}: 1043
+{StartTime}: 1:9:7
+{EndTime}: 1:9:9
+{Text}: {Do you hear me?} {Do you?} 
+
+{Index}: 1044
+{StartTime}: 1:9:11
+{EndTime}: 1:9:12
+{Text}: {Kirk.} 
+
+{Index}: 1045
+{StartTime}: 1:9:15
+{EndTime}: 1:9:19
+{Text}: {Kirk, you're still alive, my old friend.} 
+
+{Index}: 1046
+{StartTime}: 1:9:19
+{EndTime}: 1:9:23
+{Text}: {Still, "old friend."} 
+
+{Index}: 1047
+{StartTime}: 1:9:23
+{EndTime}: 1:9:26
+{Text}: {You've managed to kill just about everyone else.} 
+
+{Index}: 1048
+{StartTime}: 1:9:26
+{EndTime}: 1:9:28
+{Text}: {But like a poor marksman,} 
+
+{Index}: 1049
+{StartTime}: 1:9:28
+{EndTime}: 1:9:30
+{Text}: {you keep missing the target!} 
+
+{Index}: 1050
+{StartTime}: 1:9:39
+{EndTime}: 1:9:42
+{Text}: {Perhaps I no longer need to try, Admiral.} 
+
+{Index}: 1051
+{StartTime}: 1:9:48
+{EndTime}: 1:9:49
+{Text}: {Oh, no!} 
+
+{Index}: 1052
+{StartTime}: 1:9:49
+{EndTime}: 1:9:51
+{Text}: {They can't take it.} 
+
+{Index}: 1053
+{StartTime}: 1:9:54
+{EndTime}: 1:9:55
+{Text}: {Khan?} 
+
+{Index}: 1054
+{StartTime}: 1:10:0
+{EndTime}: 1:10:2
+{Text}: {Khan, you've got Genesis,} 
+
+{Index}: 1055
+{StartTime}: 1:10:2
+{EndTime}: 1:10:3
+{Text}: {but you don't have me.} 
+
+{Index}: 1056
+{StartTime}: 1:10:3
+{EndTime}: 1:10:6
+{Text}: {If you're going to kill me, Khan,} 
+
+{Index}: 1057
+{StartTime}: 1:10:6
+{EndTime}: 1:10:9
+{Text}: {you're going to have to come down here!} 
+
+{Index}: 1058
+{StartTime}: 1:10:9
+{EndTime}: 1:10:12
+{Text}: {I've done far worse than kill you.} 
+
+{Index}: 1059
+{StartTime}: 1:10:15
+{EndTime}: 1:10:18
+{Text}: {I've hurt you,} 
+
+{Index}: 1060
+{StartTime}: 1:10:18
+{EndTime}: 1:10:22
+{Text}: {and I wish to go on hurting you.} 
+
+{Index}: 1061
+{StartTime}: 1:10:24
+{EndTime}: 1:10:27
+{Text}: {I shall leave you as you left me-} 
+
+{Index}: 1062
+{StartTime}: 1:10:27
+{EndTime}: 1:10:30
+{Text}: {as you left her-} 
+
+{Index}: 1063
+{StartTime}: 1:10:30
+{EndTime}: 1:10:32
+{Text}: {marooned for all eternity} 
+
+{Index}: 1064
+{StartTime}: 1:10:32
+{EndTime}: 1:10:35
+{Text}: {in the center of a dead planet.} 
+
+{Index}: 1065
+{StartTime}: 1:10:37
+{EndTime}: 1:10:39
+{Text}: {Buried alive.} 
+
+{Index}: 1066
+{StartTime}: 1:10:39
+{EndTime}: 1:10:42
+{Text}: {Buried alive.} 
+
+{Index}: 1067
+{StartTime}: 1:10:42
+{EndTime}: 1:10:44
+{Text}: {Khan!} 
+
+{Index}: 1068
+{StartTime}: 1:10:45
+{EndTime}: 1:10:47
+{Text}: {Khan!} 
+
+{Index}: 1069
+{StartTime}: 1:10:53
+{EndTime}: 1:10:55
+{Text}: {This is Lieutenant Saavik calling Enterprise.} 
+
+{Index}: 1070
+{StartTime}: 1:10:55
+{EndTime}: 1:10:57
+{Text}: {Can you read us?} 
+
+{Index}: 1071
+{StartTime}: 1:10:57
+{EndTime}: 1:10:59
+{Text}: {This is Lieutenant Saavik.} {Calling Enterprise.} 
+
+{Index}: 1072
+{StartTime}: 1:10:59
+{EndTime}: 1:11:1
+{Text}: {Can you read us?} 
+
+{Index}: 1073
+{StartTime}: 1:11:1
+{EndTime}: 1:11:2
+{Text}: {He's coming around.} 
+
+{Index}: 1074
+{StartTime}: 1:11:2
+{EndTime}: 1:11:4
+{Text}: {Can you read us?} 
+
+{Index}: 1075
+{StartTime}: 1:11:6
+{EndTime}: 1:11:8
+{Text}: {It's no use, Admiral.} 
+
+{Index}: 1076
+{StartTime}: 1:11:8
+{EndTime}: 1:11:11
+{Text}: {They're still jamming all channels.} 
+
+{Index}: 1077
+{StartTime}: 1:11:11
+{EndTime}: 1:11:14
+{Text}: {If the Enterprise followed orders, she's long since gone.} 
+
+{Index}: 1078
+{StartTime}: 1:11:14
+{EndTime}: 1:11:17
+{Text}: {If she couldn't obey, she's finished.} 
+
+{Index}: 1079
+{StartTime}: 1:11:17
+{EndTime}: 1:11:19
+{Text}: {So are we, it looks like.} 
+
+{Index}: 1080
+{StartTime}: 1:11:21
+{EndTime}: 1:11:24
+{Text}: {I don't understand.} {Who's responsible for all this?} 
+
+{Index}: 1081
+{StartTime}: 1:11:25
+{EndTime}: 1:11:27
+{Text}: {Who is Khan?} 
+
+{Index}: 1082
+{StartTime}: 1:11:27
+{EndTime}: 1:11:29
+{Text}: {Well, it's a long story.} 
+
+{Index}: 1083
+{StartTime}: 1:11:29
+{EndTime}: 1:11:31
+{Text}: {We appear to have plenty of time.} 
+
+{Index}: 1084
+{StartTime}: 1:11:34
+{EndTime}: 1:11:36
+{Text}: {Is there anything to eat?} 
+
+{Index}: 1085
+{StartTime}: 1:11:36
+{EndTime}: 1:11:39
+{Text}: {I don't know about anybody else, but I'm starved.} 
+
+{Index}: 1086
+{StartTime}: 1:11:39
+{EndTime}: 1:11:43
+{Text}: {How can you think of food at a time like this?} 
+
+{Index}: 1087
+{StartTime}: 1:11:43
+{EndTime}: 1:11:45
+{Text}: {First order of business-survival.} 
+
+{Index}: 1088
+{StartTime}: 1:11:45
+{EndTime}: 1:11:48
+{Text}: {There is food in the Genesis cave,} 
+
+{Index}: 1089
+{StartTime}: 1:11:48
+{EndTime}: 1:11:51
+{Text}: {enough to last a lifetime...} 
+
+{Index}: 1090
+{StartTime}: 1:11:52
+{EndTime}: 1:11:54
+{Text}: {if necessary.} 
+
+{Index}: 1091
+{StartTime}: 1:11:54
+{EndTime}: 1:11:55
+{Text}: {We thought this was Genesis.} 
+
+{Index}: 1092
+{StartTime}: 1:11:56
+{EndTime}: 1:11:57
+{Text}: {This?} 
+
+{Index}: 1093
+{StartTime}: 1:11:59
+{EndTime}: 1:12:2
+{Text}: {It took the Starfleet corps of engineers} 
+
+{Index}: 1094
+{StartTime}: 1:12:2
+{EndTime}: 1:12:6
+{Text}: {1 0 months in space suits to tunnel out all this.} 
+
+{Index}: 1095
+{StartTime}: 1:12:6
+{EndTime}: 1:12:10
+{Text}: {What we did in there, we did in a day.} 
+
+{Index}: 1096
+{StartTime}: 1:12:10
+{EndTime}: 1:12:13
+{Text}: {David, why don't you show} 
+
+{Index}: 1097
+{StartTime}: 1:12:13
+{EndTime}: 1:12:14
+{Text}: {Dr. McCoy and the lieutenant} 
+
+{Index}: 1098
+{StartTime}: 1:12:14
+{EndTime}: 1:12:16
+{Text}: {our idea of food?} 
+
+{Index}: 1099
+{StartTime}: 1:12:16
+{EndTime}: 1:12:18
+{Text}: {We can't just sit here.} 
+
+{Index}: 1100
+{StartTime}: 1:12:20
+{EndTime}: 1:12:21
+{Text}: {Oh, yes, we can.} 
+
+{Index}: 1101
+{StartTime}: 1:12:21
+{EndTime}: 1:12:25
+{Text}: {This is just to give us something to do, isn't it?} 
+
+{Index}: 1102
+{StartTime}: 1:12:27
+{EndTime}: 1:12:28
+{Text}: {Come on.} 
+
+{Index}: 1103
+{StartTime}: 1:12:36
+{EndTime}: 1:12:37
+{Text}: {Admiral?} 
+
+{Index}: 1104
+{StartTime}: 1:12:38
+{EndTime}: 1:12:42
+{Text}: {As your teacher Mr. Spock is fond to say,} 
+
+{Index}: 1105
+{StartTime}: 1:12:42
+{EndTime}: 1:12:45
+{Text}: {I like to think that there always are possibilities.} 
+
+{Index}: 1106
+{StartTime}: 1:12:57
+{EndTime}: 1:12:59
+{Text}: {I did what you wanted.} 
+
+{Index}: 1107
+{StartTime}: 1:12:59
+{EndTime}: 1:13:1
+{Text}: {I stayed away.} 
+
+{Index}: 1108
+{StartTime}: 1:13:2
+{EndTime}: 1:13:4
+{Text}: {Why didn't you tell him?} 
+
+{Index}: 1109
+{StartTime}: 1:13:6
+{EndTime}: 1:13:9
+{Text}: {How can you ask me that?} 
+
+{Index}: 1110
+{StartTime}: 1:13:9
+{EndTime}: 1:13:12
+{Text}: {Were we together?} 
+
+{Index}: 1111
+{StartTime}: 1:13:12
+{EndTime}: 1:13:14
+{Text}: {Were we going to be?} 
+
+{Index}: 1112
+{StartTime}: 1:13:14
+{EndTime}: 1:13:17
+{Text}: {You had your world, and I had mine.} 
+
+{Index}: 1113
+{StartTime}: 1:13:19
+{EndTime}: 1:13:21
+{Text}: {And I wanted him in mine,} 
+
+{Index}: 1114
+{StartTime}: 1:13:21
+{EndTime}: 1:13:24
+{Text}: {not chasing through the universe with his father.} 
+
+{Index}: 1115
+{StartTime}: 1:13:35
+{EndTime}: 1:13:36
+{Text}: {Actually...} 
+
+{Index}: 1116
+{StartTime}: 1:13:38
+{EndTime}: 1:13:40
+{Text}: {he's a lot like you...} 
+
+{Index}: 1117
+{StartTime}: 1:13:40
+{EndTime}: 1:13:41
+{Text}: {in many ways.} 
+
+{Index}: 1118
+{StartTime}: 1:13:44
+{EndTime}: 1:13:47
+{Text}: {Please tell me what you're feeling.} 
+
+{Index}: 1119
+{StartTime}: 1:13:51
+{EndTime}: 1:13:56
+{Text}: {There's a man out there I haven't seen in 1 5 years} 
+
+{Index}: 1120
+{StartTime}: 1:13:56
+{EndTime}: 1:13:57
+{Text}: {who's trying to kill me.} 
+
+{Index}: 1121
+{StartTime}: 1:13:59
+{EndTime}: 1:14:3
+{Text}: {You show me a son that would be happy to help.} 
+
+{Index}: 1122
+{StartTime}: 1:14:5
+{EndTime}: 1:14:6
+{Text}: {My son.} 
+
+{Index}: 1123
+{StartTime}: 1:14:11
+{EndTime}: 1:14:14
+{Text}: {My life that could have been...} 
+
+{Index}: 1124
+{StartTime}: 1:14:14
+{EndTime}: 1:14:15
+{Text}: {and wasn't.} 
+
+{Index}: 1125
+{StartTime}: 1:14:18
+{EndTime}: 1:14:20
+{Text}: {What am I feeling?} 
+
+{Index}: 1126
+{StartTime}: 1:14:24
+{EndTime}: 1:14:25
+{Text}: {Old.} 
+
+{Index}: 1127
+{StartTime}: 1:14:29
+{EndTime}: 1:14:30
+{Text}: {Worn-out.} 
+
+{Index}: 1128
+{StartTime}: 1:14:37
+{EndTime}: 1:14:41
+{Text}: {Let me show you something} 
+
+{Index}: 1129
+{StartTime}: 1:14:41
+{EndTime}: 1:14:44
+{Text}: {that will make you feel young} 
+
+{Index}: 1130
+{StartTime}: 1:14:44
+{EndTime}: 1:14:46
+{Text}: {as when the world was new.} 
+
+{Index}: 1131
+{StartTime}: 1:14:59
+{EndTime}: 1:15:1
+{Text}: {Impulse power restored.} 
+
+{Index}: 1132
+{StartTime}: 1:15:2
+{EndTime}: 1:15:4
+{Text}: {Excellent.} 
+
+{Index}: 1133
+{StartTime}: 1:15:4
+{EndTime}: 1:15:7
+{Text}: {More than a match for poor Enterprise.} 
+
+{Index}: 1134
+{StartTime}: 1:15:28
+{EndTime}: 1:15:31
+{Text}: {You did all this in a day?} 
+
+{Index}: 1135
+{StartTime}: 1:15:31
+{EndTime}: 1:15:34
+{Text}: {The matrix formed in a day.} 
+
+{Index}: 1136
+{StartTime}: 1:15:34
+{EndTime}: 1:15:36
+{Text}: {The life forms grew later} 
+
+{Index}: 1137
+{StartTime}: 1:15:36
+{EndTime}: 1:15:39
+{Text}: {at a substantially accelerated rate.} 
+
+{Index}: 1138
+{StartTime}: 1:15:43
+{EndTime}: 1:15:45
+{Text}: {Jim!} {This is incredible!} 
+
+{Index}: 1139
+{StartTime}: 1:15:46
+{EndTime}: 1:15:48
+{Text}: {Have you ever seen the like?} 
+
+{Index}: 1140
+{StartTime}: 1:15:50
+{EndTime}: 1:15:52
+{Text}: {Can I cook or can't l?} 
+
+{Index}: 1141
+{StartTime}: 1:16:11
+{EndTime}: 1:16:13
+{Text}: {Where is she?} 
+
+{Index}: 1142
+{StartTime}: 1:16:18
+{EndTime}: 1:16:21
+{Text}: {Sir, may I ask you a question?} 
+
+{Index}: 1143
+{StartTime}: 1:16:21
+{EndTime}: 1:16:23
+{Text}: {What's on your mind?} 
+
+{Index}: 1144
+{StartTime}: 1:16:23
+{EndTime}: 1:16:25
+{Text}: {The Kobayashi Maru, sir.} 
+
+{Index}: 1145
+{StartTime}: 1:16:25
+{EndTime}: 1:16:27
+{Text}: {You're asking if we're playing out that scenario?} 
+
+{Index}: 1146
+{StartTime}: 1:16:27
+{EndTime}: 1:16:29
+{Text}: {On the test, sir.} 
+
+{Index}: 1147
+{StartTime}: 1:16:29
+{EndTime}: 1:16:32
+{Text}: {Will you tell me what you did?} 
+
+{Index}: 1148
+{StartTime}: 1:16:32
+{EndTime}: 1:16:34
+{Text}: {I would really like to know.} 
+
+{Index}: 1149
+{StartTime}: 1:16:34
+{EndTime}: 1:16:38
+{Text}: {Lieutenant, you're looking at the only Starfleet cadet} 
+
+{Index}: 1150
+{StartTime}: 1:16:38
+{EndTime}: 1:16:41
+{Text}: {who ever beat the no-win scenario.} 
+
+{Index}: 1151
+{StartTime}: 1:16:41
+{EndTime}: 1:16:42
+{Text}: {How?} 
+
+{Index}: 1152
+{StartTime}: 1:16:42
+{EndTime}: 1:16:44
+{Text}: {I reprogrammed the simulation} 
+
+{Index}: 1153
+{StartTime}: 1:16:44
+{EndTime}: 1:16:46
+{Text}: {so it was possible to rescue the ship.} 
+
+{Index}: 1154
+{StartTime}: 1:16:47
+{EndTime}: 1:16:48
+{Text}: {What?} 
+
+{Index}: 1155
+{StartTime}: 1:16:48
+{EndTime}: 1:16:50
+{Text}: {He cheated.} 
+
+{Index}: 1156
+{StartTime}: 1:16:50
+{EndTime}: 1:16:53
+{Text}: {Changed the conditions of the test.} 
+
+{Index}: 1157
+{StartTime}: 1:16:53
+{EndTime}: 1:16:56
+{Text}: {Got a commendation for original thinking.} 
+
+{Index}: 1158
+{StartTime}: 1:16:56
+{EndTime}: 1:16:58
+{Text}: {I don't like to lose.} 
+
+{Index}: 1159
+{StartTime}: 1:16:58
+{EndTime}: 1:17:1
+{Text}: {Then you never faced that situation...} 
+
+{Index}: 1160
+{StartTime}: 1:17:1
+{EndTime}: 1:17:2
+{Text}: {faced death.} 
+
+{Index}: 1161
+{StartTime}: 1:17:2
+{EndTime}: 1:17:5
+{Text}: {I don't believe in the no-win scenario.} 
+
+{Index}: 1162
+{StartTime}: 1:17:7
+{EndTime}: 1:17:8
+{Text}: {Kirk to Spock.} 
+
+{Index}: 1163
+{StartTime}: 1:17:8
+{EndTime}: 1:17:10
+{Text}: {It's two hours.} {Are you ready?} 
+
+{Index}: 1164
+{StartTime}: 1:17:10
+{EndTime}: 1:17:13
+{Text}: {Right on schedule.} {Just give us your coordinates,} 
+
+{Index}: 1165
+{StartTime}: 1:17:13
+{EndTime}: 1:17:15
+{Text}: {and we'll beam you aboard.} 
+
+{Index}: 1166
+{StartTime}: 1:17:15
+{EndTime}: 1:17:16
+{Text}: {All right.} 
+
+{Index}: 1167
+{StartTime}: 1:17:19
+{EndTime}: 1:17:21
+{Text}: {I don't like to lose.} 
+
+{Index}: 1168
+{StartTime}: 1:17:21
+{EndTime}: 1:17:23
+{Text}: {We were immobilized.} 
+
+{Index}: 1169
+{StartTime}: 1:17:23
+{EndTime}: 1:17:26
+{Text}: {Captain Spock said it would be two days.} 
+
+{Index}: 1170
+{StartTime}: 1:17:26
+{EndTime}: 1:17:27
+{Text}: {You go by the book.} 
+
+{Index}: 1171
+{StartTime}: 1:17:27
+{EndTime}: 1:17:29
+{Text}: {Spock, you know Dr. Marcus.} 
+
+{Index}: 1172
+{StartTime}: 1:17:29
+{EndTime}: 1:17:30
+{Text}: {Of course.} 
+
+{Index}: 1173
+{StartTime}: 1:17:30
+{EndTime}: 1:17:31
+{Text}: {Hello, Mr. Spock.} 
+
+{Index}: 1174
+{StartTime}: 1:17:31
+{EndTime}: 1:17:32
+{Text}: {I'm taking them to sickbay.} 
+
+{Index}: 1175
+{StartTime}: 1:17:33
+{EndTime}: 1:17:34
+{Text}: {By the book?} 
+
+{Index}: 1176
+{StartTime}: 1:17:34
+{EndTime}: 1:17:37
+{Text}: {By the book.} {Regulation 46a-} 
+
+{Index}: 1177
+{StartTime}: 1:17:37
+{EndTime}: 1:17:40
+{Text}: {"If transmissions are being monitored during battle...} 
+
+{Index}: 1178
+{StartTime}: 1:17:40
+{EndTime}: 1:17:42
+{Text}: {no uncoded messages on an open channel."} 
+
+{Index}: 1179
+{StartTime}: 1:17:46
+{EndTime}: 1:17:46
+{Text}: {You lied.} 
+
+{Index}: 1180
+{StartTime}: 1:17:48
+{EndTime}: 1:17:49
+{Text}: {I exaggerated.} 
+
+{Index}: 1181
+{StartTime}: 1:17:49
+{EndTime}: 1:17:50
+{Text}: {Hours instead of days.} 
+
+{Index}: 1182
+{StartTime}: 1:17:51
+{EndTime}: 1:17:53
+{Text}: {Now we have minutes instead of hours.} 
+
+{Index}: 1183
+{StartTime}: 1:17:57
+{EndTime}: 1:17:58
+{Text}: {They're inoperative below C-Deck.} 
+
+{Index}: 1184
+{StartTime}: 1:17:58
+{EndTime}: 1:18:0
+{Text}: {What is working around here?} 
+
+{Index}: 1185
+{StartTime}: 1:18:0
+{EndTime}: 1:18:2
+{Text}: {Not much, Admiral.} {We have partial main power.} 
+
+{Index}: 1186
+{StartTime}: 1:18:2
+{EndTime}: 1:18:3
+{Text}: {That's it?} 
+
+{Index}: 1187
+{StartTime}: 1:18:3
+{EndTime}: 1:18:5
+{Text}: {Best we can do in two hours.} 
+
+{Index}: 1188
+{StartTime}: 1:18:24
+{EndTime}: 1:18:25
+{Text}: {Admiral on the bridge.} 
+
+{Index}: 1189
+{StartTime}: 1:18:26
+{EndTime}: 1:18:26
+{Text}: {Battle stations.} 
+
+{Index}: 1190
+{StartTime}: 1:18:29
+{EndTime}: 1:18:30
+{Text}: {Tactical.} 
+
+{Index}: 1191
+{StartTime}: 1:18:33
+{EndTime}: 1:18:34
+{Text}: {Uh-oh.} 
+
+{Index}: 1192
+{StartTime}: 1:18:37
+{EndTime}: 1:18:40
+{Text}: {She can still outrun us and outgun us,} 
+
+{Index}: 1193
+{StartTime}: 1:18:40
+{EndTime}: 1:18:43
+{Text}: {But there is the Mutara Nebula at 153 mark 4.} 
+
+{Index}: 1194
+{StartTime}: 1:18:43
+{EndTime}: 1:18:45
+{Text}: {Scotty, can we make it inside?} 
+
+{Index}: 1195
+{StartTime}: 1:18:45
+{EndTime}: 1:18:48
+{Text}: {The energizer's bypassed like a Christmas tree,} 
+
+{Index}: 1196
+{StartTime}: 1:18:48
+{EndTime}: 1:18:50
+{Text}: {so don't give me too many bumps.} 
+
+{Index}: 1197
+{StartTime}: 1:18:50
+{EndTime}: 1:18:52
+{Text}: {No promises.} {On your way.} 
+
+{Index}: 1198
+{StartTime}: 1:18:52
+{EndTime}: 1:18:53
+{Text}: {Trouble with the nebula, sir,} 
+
+{Index}: 1199
+{StartTime}: 1:18:53
+{EndTime}: 1:18:55
+{Text}: {is all that static discharging gas} 
+
+{Index}: 1200
+{StartTime}: 1:18:55
+{EndTime}: 1:18:57
+{Text}: {clouds our tactical display.} 
+
+{Index}: 1201
+{StartTime}: 1:18:57
+{EndTime}: 1:19:0
+{Text}: {Visual won't function, and shields will be useless.} 
+
+{Index}: 1202
+{StartTime}: 1:19:1
+{EndTime}: 1:19:4
+{Text}: {Sauce for the goose, Mr. Saavik.} 
+
+{Index}: 1203
+{StartTime}: 1:19:5
+{EndTime}: 1:19:7
+{Text}: {The odds will be even.} 
+
+{Index}: 1204
+{StartTime}: 1:19:41
+{EndTime}: 1:19:42
+{Text}: {Alley clear, sir.} 
+
+{Index}: 1205
+{StartTime}: 1:19:43
+{EndTime}: 1:19:45
+{Text}: {Repairing second.} 
+
+{Index}: 1206
+{StartTime}: 1:19:45
+{EndTime}: 1:19:47
+{Text}: {Ready to fire away 1 .} 
+
+{Index}: 1207
+{StartTime}: 1:19:53
+{EndTime}: 1:19:55
+{Text}: {There she is!} 
+
+{Index}: 1208
+{StartTime}: 1:19:55
+{EndTime}: 1:19:58
+{Text}: {There she is.} 
+
+{Index}: 1209
+{StartTime}: 1:19:58
+{EndTime}: 1:20:0
+{Text}: {Ahh.} 
+
+{Index}: 1210
+{StartTime}: 1:20:0
+{EndTime}: 1:20:4
+{Text}: {Not so wounded as we were led to believe.} 
+
+{Index}: 1211
+{StartTime}: 1:20:4
+{EndTime}: 1:20:6
+{Text}: {So much the better.} 
+
+{Index}: 1212
+{StartTime}: 1:20:31
+{EndTime}: 1:20:35
+{Text}: {Estimating nebula penetration in 2.2 minutes.} 
+
+{Index}: 1213
+{StartTime}: 1:20:37
+{EndTime}: 1:20:39
+{Text}: {Reliant is closing.} 
+
+{Index}: 1214
+{StartTime}: 1:20:48
+{EndTime}: 1:20:52
+{Text}: {If they go in there, we'll lose them.} 
+
+{Index}: 1215
+{StartTime}: 1:20:52
+{EndTime}: 1:20:53
+{Text}: {Explain it to them.} 
+
+{Index}: 1216
+{StartTime}: 1:21:4
+{EndTime}: 1:21:5
+{Text}: {That was close.} 
+
+{Index}: 1217
+{StartTime}: 1:21:5
+{EndTime}: 1:21:8
+{Text}: {They just don't want us going in there.} 
+
+{Index}: 1218
+{StartTime}: 1:21:15
+{EndTime}: 1:21:17
+{Text}: {One minute to nebula perimeter.} 
+
+{Index}: 1219
+{StartTime}: 1:21:17
+{EndTime}: 1:21:19
+{Text}: {Why are we slowing?} 
+
+{Index}: 1220
+{StartTime}: 1:21:20
+{EndTime}: 1:21:23
+{Text}: {We daren't follow them into the nebula, sir.} 
+
+{Index}: 1221
+{StartTime}: 1:21:23
+{EndTime}: 1:21:25
+{Text}: {Our shields would be useless.} 
+
+{Index}: 1222
+{StartTime}: 1:21:28
+{EndTime}: 1:21:30
+{Text}: {They are reducing speed.} 
+
+{Index}: 1223
+{StartTime}: 1:21:31
+{EndTime}: 1:21:32
+{Text}: {Uhura, patch me in.} 
+
+{Index}: 1224
+{StartTime}: 1:21:32
+{EndTime}: 1:21:34
+{Text}: {Aye, sir.} 
+
+{Index}: 1225
+{StartTime}: 1:21:34
+{EndTime}: 1:21:36
+{Text}: {You're on, Admiral.} 
+
+{Index}: 1226
+{StartTime}: 1:21:37
+{EndTime}: 1:21:38
+{Text}: {This is Admiral Kirk.} 
+
+{Index}: 1227
+{StartTime}: 1:21:38
+{EndTime}: 1:21:41
+{Text}: {We tried it once your way, Khan.} 
+
+{Index}: 1228
+{StartTime}: 1:21:41
+{EndTime}: 1:21:43
+{Text}: {Are you game for a rematch?} 
+
+{Index}: 1229
+{StartTime}: 1:21:43
+{EndTime}: 1:21:45
+{Text}: {Khan.} 
+
+{Index}: 1230
+{StartTime}: 1:21:46
+{EndTime}: 1:21:49
+{Text}: {I'm laughing at the superior intellect.} 
+
+{Index}: 1231
+{StartTime}: 1:21:51
+{EndTime}: 1:21:53
+{Text}: {Full impulse power.} 
+
+{Index}: 1232
+{StartTime}: 1:21:53
+{EndTime}: 1:21:55
+{Text}: {No, sir!} 
+
+{Index}: 1233
+{StartTime}: 1:21:55
+{EndTime}: 1:21:58
+{Text}: {You have Genesis.} {You can have whatever you-} 
+
+{Index}: 1234
+{StartTime}: 1:21:58
+{EndTime}: 1:22:0
+{Text}: {Full power!} 
+
+{Index}: 1235
+{StartTime}: 1:22:0
+{EndTime}: 1:22:1
+{Text}: {Damn you!} 
+
+{Index}: 1236
+{StartTime}: 1:22:6
+{EndTime}: 1:22:9
+{Text}: {I'll say this for him- he's consistent.} 
+
+{Index}: 1237
+{StartTime}: 1:22:11
+{EndTime}: 1:22:14
+{Text}: {We are now entering the Mutara Nebula.} 
+
+{Index}: 1238
+{StartTime}: 1:22:23
+{EndTime}: 1:22:24
+{Text}: {Emergency lights.} 
+
+{Index}: 1239
+{StartTime}: 1:22:46
+{EndTime}: 1:22:47
+{Text}: {Oh!} 
+
+{Index}: 1240
+{StartTime}: 1:22:54
+{EndTime}: 1:22:55
+{Text}: {Tactical.} 
+
+{Index}: 1241
+{StartTime}: 1:22:57
+{EndTime}: 1:22:59
+{Text}: {Inoperative.} 
+
+{Index}: 1242
+{StartTime}: 1:23:2
+{EndTime}: 1:23:4
+{Text}: {Raise the shields.} 
+
+{Index}: 1243
+{StartTime}: 1:23:5
+{EndTime}: 1:23:8
+{Text}: {As I feared, sir- not functional.} 
+
+{Index}: 1244
+{StartTime}: 1:23:8
+{EndTime}: 1:23:9
+{Text}: {I'm reducing speed.} 
+
+{Index}: 1245
+{StartTime}: 1:23:51
+{EndTime}: 1:23:52
+{Text}: {Target, sir.} 
+
+{Index}: 1246
+{StartTime}: 1:23:53
+{EndTime}: 1:23:54
+{Text}: {Phaser lock inoperative, sir.} 
+
+{Index}: 1247
+{StartTime}: 1:23:54
+{EndTime}: 1:23:57
+{Text}: {Best guess, Mr. Sulu.} {Fire when ready.} 
+
+{Index}: 1248
+{StartTime}: 1:24:5
+{EndTime}: 1:24:6
+{Text}: {Oh!} 
+
+{Index}: 1249
+{StartTime}: 1:24:6
+{EndTime}: 1:24:8
+{Text}: {Aft torpedoes, fire!} 
+
+{Index}: 1250
+{StartTime}: 1:24:17
+{EndTime}: 1:24:18
+{Text}: {Hold your course.} 
+
+{Index}: 1251
+{StartTime}: 1:24:41
+{EndTime}: 1:24:42
+{Text}: {Phasers starboard!} 
+
+{Index}: 1252
+{StartTime}: 1:24:51
+{EndTime}: 1:24:53
+{Text}: {Aah!} 
+
+{Index}: 1253
+{StartTime}: 1:24:53
+{EndTime}: 1:24:54
+{Text}: {Fire!} 
+
+{Index}: 1254
+{StartTime}: 1:25:16
+{EndTime}: 1:25:18
+{Text}: {Damage, Mr. Scott.} 
+
+{Index}: 1255
+{StartTime}: 1:25:20
+{EndTime}: 1:25:24
+{Text}: {Admiral, I've got to take the mains off the line.} 
+
+{Index}: 1256
+{StartTime}: 1:25:24
+{EndTime}: 1:25:26
+{Text}: {It's radiation...} 
+
+{Index}: 1257
+{StartTime}: 1:25:26
+{EndTime}: 1:25:27
+{Text}: {Scotty.} 
+
+{Index}: 1258
+{StartTime}: 1:25:27
+{EndTime}: 1:25:29
+{Text}: {Joachim.} 
+
+{Index}: 1259
+{StartTime}: 1:25:31
+{EndTime}: 1:25:32
+{Text}: {Yours...} 
+
+{Index}: 1260
+{StartTime}: 1:25:33
+{EndTime}: 1:25:36
+{Text}: {is a superior...} 
+
+{Index}: 1261
+{StartTime}: 1:25:44
+{EndTime}: 1:25:45
+{Text}: {I shall avenge you.} 
+
+{Index}: 1262
+{StartTime}: 1:25:56
+{EndTime}: 1:25:59
+{Text}: {Could you use another hand, Admiral?} 
+
+{Index}: 1263
+{StartTime}: 1:25:59
+{EndTime}: 1:26:1
+{Text}: {Man the weapons console, Mr. Chekov.} 
+
+{Index}: 1264
+{StartTime}: 1:26:6
+{EndTime}: 1:26:7
+{Text}: {Spock.} 
+
+{Index}: 1265
+{StartTime}: 1:26:7
+{EndTime}: 1:26:10
+{Text}: {Sporadic energy readings, port side aft.} 
+
+{Index}: 1266
+{StartTime}: 1:26:10
+{EndTime}: 1:26:12
+{Text}: {Could be an impulse turn.} 
+
+{Index}: 1267
+{StartTime}: 1:26:14
+{EndTime}: 1:26:17
+{Text}: {He won't break off now.} 
+
+{Index}: 1268
+{StartTime}: 1:26:17
+{EndTime}: 1:26:20
+{Text}: {He followed me this far.} {He'll be back.} 
+
+{Index}: 1269
+{StartTime}: 1:26:22
+{EndTime}: 1:26:24
+{Text}: {But from where?} 
+
+{Index}: 1270
+{StartTime}: 1:26:24
+{EndTime}: 1:26:28
+{Text}: {He's intelligent, but not experienced.} 
+
+{Index}: 1271
+{StartTime}: 1:26:28
+{EndTime}: 1:26:31
+{Text}: {His pattern indicates two-dimensional thinking.} 
+
+{Index}: 1272
+{StartTime}: 1:26:38
+{EndTime}: 1:26:39
+{Text}: {Full stop.} 
+
+{Index}: 1273
+{StartTime}: 1:26:39
+{EndTime}: 1:26:40
+{Text}: {Full stop, sir.} 
+
+{Index}: 1274
+{StartTime}: 1:26:42
+{EndTime}: 1:26:43
+{Text}: {Z minus 10,000 meters.} 
+
+{Index}: 1275
+{StartTime}: 1:26:43
+{EndTime}: 1:26:45
+{Text}: {Stand by photon torpedoes.} 
+
+{Index}: 1276
+{StartTime}: 1:27:39
+{EndTime}: 1:27:40
+{Text}: {Torpedoes ready, sir.} 
+
+{Index}: 1277
+{StartTime}: 1:27:52
+{EndTime}: 1:27:53
+{Text}: {Look sharp.} 
+
+{Index}: 1278
+{StartTime}: 1:27:57
+{EndTime}: 1:27:58
+{Text}: {Fire.} 
+
+{Index}: 1279
+{StartTime}: 1:28:4
+{EndTime}: 1:28:5
+{Text}: {Aah!} 
+
+{Index}: 1280
+{StartTime}: 1:28:5
+{EndTime}: 1:28:6
+{Text}: {Fire.} 
+
+{Index}: 1281
+{StartTime}: 1:28:9
+{EndTime}: 1:28:11
+{Text}: {- Aah!} {- Aah!} 
+
+{Index}: 1282
+{StartTime}: 1:28:16
+{EndTime}: 1:28:17
+{Text}: {Aah!} 
+
+{Index}: 1283
+{StartTime}: 1:28:38
+{EndTime}: 1:28:39
+{Text}: {Uhura...} 
+
+{Index}: 1284
+{StartTime}: 1:28:39
+{EndTime}: 1:28:40
+{Text}: {Uhura...} 
+
+{Index}: 1285
+{StartTime}: 1:28:40
+{EndTime}: 1:28:43
+{Text}: {send to Commander, Reliant.} 
+
+{Index}: 1286
+{StartTime}: 1:28:43
+{EndTime}: 1:28:45
+{Text}: {Prepare to be boarded.} 
+
+{Index}: 1287
+{StartTime}: 1:28:45
+{EndTime}: 1:28:46
+{Text}: {Aye, sir.} 
+
+{Index}: 1288
+{StartTime}: 1:28:47
+{EndTime}: 1:28:50
+{Text}: {Commander, Reliant.} {This is Enterprise.} 
+
+{Index}: 1289
+{StartTime}: 1:28:50
+{EndTime}: 1:28:54
+{Text}: {Surrender and prepare to be boarded.} 
+
+{Index}: 1290
+{StartTime}: 1:28:54
+{EndTime}: 1:28:55
+{Text}: {Enterprise to Reliant.} 
+
+{Index}: 1291
+{StartTime}: 1:28:55
+{EndTime}: 1:28:58
+{Text}: {You are ordered to surrender your vessel.} 
+
+{Index}: 1292
+{StartTime}: 1:28:58
+{EndTime}: 1:28:59
+{Text}: {Respond.} 
+
+{Index}: 1293
+{StartTime}: 1:29:10
+{EndTime}: 1:29:12
+{Text}: {Reliant.} {Come in, Reliant.} 
+
+{Index}: 1294
+{StartTime}: 1:29:13
+{EndTime}: 1:29:16
+{Text}: {You are ordered to surrender your vessel.} 
+
+{Index}: 1295
+{StartTime}: 1:29:16
+{EndTime}: 1:29:17
+{Text}: {Enterprise to Reliant.} 
+
+{Index}: 1296
+{StartTime}: 1:29:17
+{EndTime}: 1:29:20
+{Text}: {You are ordered to surrender your vessel.} {Respond.} 
+
+{Index}: 1297
+{StartTime}: 1:29:35
+{EndTime}: 1:29:37
+{Text}: {No, Kirk.} 
+
+{Index}: 1298
+{StartTime}: 1:29:38
+{EndTime}: 1:29:40
+{Text}: {The game's not over.} 
+
+{Index}: 1299
+{StartTime}: 1:30:17
+{EndTime}: 1:30:21
+{Text}: {To the last I will grapple with thee.} 
+
+{Index}: 1300
+{StartTime}: 1:30:35
+{EndTime}: 1:30:37
+{Text}: {Admiral.} 
+
+{Index}: 1301
+{StartTime}: 1:30:37
+{EndTime}: 1:30:40
+{Text}: {Scanning an energy source on Reliant.} 
+
+{Index}: 1302
+{StartTime}: 1:30:40
+{EndTime}: 1:30:43
+{Text}: {A pattern I've never seen before.} 
+
+{Index}: 1303
+{StartTime}: 1:30:48
+{EndTime}: 1:30:50
+{Text}: {It's the Genesis wave.} 
+
+{Index}: 1304
+{StartTime}: 1:30:50
+{EndTime}: 1:30:51
+{Text}: {What?} 
+
+{Index}: 1305
+{StartTime}: 1:30:51
+{EndTime}: 1:30:54
+{Text}: {They're on a build-up to detonation.} 
+
+{Index}: 1306
+{StartTime}: 1:30:54
+{EndTime}: 1:30:55
+{Text}: {How soon?} 
+
+{Index}: 1307
+{StartTime}: 1:30:55
+{EndTime}: 1:30:57
+{Text}: {We encoded four minutes.} 
+
+{Index}: 1308
+{StartTime}: 1:30:57
+{EndTime}: 1:30:59
+{Text}: {We'll beam aboard and stop it.} 
+
+{Index}: 1309
+{StartTime}: 1:31:0
+{EndTime}: 1:31:0
+{Text}: {You can't.} 
+
+{Index}: 1310
+{StartTime}: 1:31:3
+{EndTime}: 1:31:6
+{Text}: {Scotty, I need warp speed in three minutes} 
+
+{Index}: 1311
+{StartTime}: 1:31:6
+{EndTime}: 1:31:8
+{Text}: {or we're all dead.} 
+
+{Index}: 1312
+{StartTime}: 1:31:9
+{EndTime}: 1:31:10
+{Text}: {No response, Admiral.} 
+
+{Index}: 1313
+{StartTime}: 1:31:11
+{EndTime}: 1:31:12
+{Text}: {Scotty.} 
+
+{Index}: 1314
+{StartTime}: 1:31:12
+{EndTime}: 1:31:15
+{Text}: {Mr. Sulu, get us out of here.} {Best possible speed.} 
+
+{Index}: 1315
+{StartTime}: 1:31:15
+{EndTime}: 1:31:16
+{Text}: {Aye, sir.} 
+
+{Index}: 1316
+{StartTime}: 1:31:53
+{EndTime}: 1:31:56
+{Text}: {Are you out of your Vulcan mind?} 
+
+{Index}: 1317
+{StartTime}: 1:31:56
+{EndTime}: 1:31:59
+{Text}: {No human can tolerate the radiation in there!} 
+
+{Index}: 1318
+{StartTime}: 1:31:59
+{EndTime}: 1:32:1
+{Text}: {As you are so fond of observing, Doctor,} 
+
+{Index}: 1319
+{StartTime}: 1:32:1
+{EndTime}: 1:32:3
+{Text}: {I am not human.} 
+
+{Index}: 1320
+{StartTime}: 1:32:3
+{EndTime}: 1:32:5
+{Text}: {You're not going in there.} 
+
+{Index}: 1321
+{StartTime}: 1:32:7
+{EndTime}: 1:32:9
+{Text}: {Perhaps you're right.} 
+
+{Index}: 1322
+{StartTime}: 1:32:9
+{EndTime}: 1:32:12
+{Text}: {What is Mr. Scott's condition?} 
+
+{Index}: 1323
+{StartTime}: 1:32:12
+{EndTime}: 1:32:14
+{Text}: {Well, I don't think that he-} 
+
+{Index}: 1324
+{StartTime}: 1:32:14
+{EndTime}: 1:32:15
+{Text}: {I'm sorry, Doctor.} 
+
+{Index}: 1325
+{StartTime}: 1:32:15
+{EndTime}: 1:32:18
+{Text}: {I have no time to discuss this logically.} 
+
+{Index}: 1326
+{StartTime}: 1:32:22
+{EndTime}: 1:32:23
+{Text}: {Remember.} 
+
+{Index}: 1327
+{StartTime}: 1:32:34
+{EndTime}: 1:32:36
+{Text}: {Spock!} {Get out of there!} 
+
+{Index}: 1328
+{StartTime}: 1:32:36
+{EndTime}: 1:32:38
+{Text}: {Spock!} 
+
+{Index}: 1329
+{StartTime}: 1:32:38
+{EndTime}: 1:32:40
+{Text}: {Spock, get out of there!} 
+
+{Index}: 1330
+{StartTime}: 1:32:50
+{EndTime}: 1:32:52
+{Text}: {Time, from my mark.} 
+
+{Index}: 1331
+{StartTime}: 1:32:52
+{EndTime}: 1:32:54
+{Text}: {2 minutes, 10 seconds.} 
+
+{Index}: 1332
+{StartTime}: 1:32:54
+{EndTime}: 1:32:56
+{Text}: {Engine room...} 
+
+{Index}: 1333
+{StartTime}: 1:32:56
+{EndTime}: 1:32:57
+{Text}: {what's happening?} 
+
+{Index}: 1334
+{StartTime}: 1:32:57
+{EndTime}: 1:33:0
+{Text}: {Spock!} {Scotty...} 
+
+{Index}: 1335
+{StartTime}: 1:33:0
+{EndTime}: 1:33:2
+{Text}: {Good God, man!} {Get out of there!} 
+
+{Index}: 1336
+{StartTime}: 1:33:2
+{EndTime}: 1:33:3
+{Text}: {No!} {Don't!} 
+
+{Index}: 1337
+{StartTime}: 1:33:4
+{EndTime}: 1:33:5
+{Text}: {Spock!} {Spock!} 
+
+{Index}: 1338
+{StartTime}: 1:33:5
+{EndTime}: 1:33:6
+{Text}: {Don't!} 
+
+{Index}: 1339
+{StartTime}: 1:33:36
+{EndTime}: 1:33:37
+{Text}: {Time.} 
+
+{Index}: 1340
+{StartTime}: 1:33:39
+{EndTime}: 1:33:41
+{Text}: {3 minutes, 30 seconds.} 
+
+{Index}: 1341
+{StartTime}: 1:33:47
+{EndTime}: 1:33:49
+{Text}: {Distance from Reliant.} 
+
+{Index}: 1342
+{StartTime}: 1:33:49
+{EndTime}: 1:33:51
+{Text}: {4,000 kilometers.} 
+
+{Index}: 1343
+{StartTime}: 1:33:51
+{EndTime}: 1:33:54
+{Text}: {We're not going to make it, are we?} 
+
+{Index}: 1344
+{StartTime}: 1:34:5
+{EndTime}: 1:34:7
+{Text}: {No.} 
+
+{Index}: 1345
+{StartTime}: 1:34:8
+{EndTime}: 1:34:11
+{Text}: {No, you can't get away.} 
+
+{Index}: 1346
+{StartTime}: 1:34:13
+{EndTime}: 1:34:18
+{Text}: {From hell's heart, I stab at thee.} 
+
+{Index}: 1347
+{StartTime}: 1:34:19
+{EndTime}: 1:34:22
+{Text}: {For hate's sake,} 
+
+{Index}: 1348
+{StartTime}: 1:34:22
+{EndTime}: 1:34:27
+{Text}: {I spit my last breath at thee.} 
+
+{Index}: 1349
+{StartTime}: 1:34:38
+{EndTime}: 1:34:41
+{Text}: {Sir, the mains are back on line.} 
+
+{Index}: 1350
+{StartTime}: 1:34:41
+{EndTime}: 1:34:43
+{Text}: {Bless you, Scotty.} {Go, Sulu!} 
+
+{Index}: 1351
+{StartTime}: 1:35:27
+{EndTime}: 1:35:29
+{Text}: {My God, Carol, look at it.} 
+
+{Index}: 1352
+{StartTime}: 1:35:41
+{EndTime}: 1:35:42
+{Text}: {Engine room.} 
+
+{Index}: 1353
+{StartTime}: 1:35:44
+{EndTime}: 1:35:46
+{Text}: {Well done, Scotty.} 
+
+{Index}: 1354
+{StartTime}: 1:35:46
+{EndTime}: 1:35:48
+{Text}: {Jim...} 
+
+{Index}: 1355
+{StartTime}: 1:35:48
+{EndTime}: 1:35:51
+{Text}: {I think you'd better get down here.} 
+
+{Index}: 1356
+{StartTime}: 1:35:51
+{EndTime}: 1:35:52
+{Text}: {Bones?} 
+
+{Index}: 1357
+{StartTime}: 1:35:53
+{EndTime}: 1:35:55
+{Text}: {Better hurry.} 
+
+{Index}: 1358
+{StartTime}: 1:35:58
+{EndTime}: 1:36:0
+{Text}: {Saavik, take the con.} 
+
+{Index}: 1359
+{StartTime}: 1:36:28
+{EndTime}: 1:36:31
+{Text}: {No!} {You'll flood the whole compartment.} 
+
+{Index}: 1360
+{StartTime}: 1:36:31
+{EndTime}: 1:36:32
+{Text}: {He'll die.} 
+
+{Index}: 1361
+{StartTime}: 1:36:32
+{EndTime}: 1:36:34
+{Text}: {Sir, he's dead already.} 
+
+{Index}: 1362
+{StartTime}: 1:36:39
+{EndTime}: 1:36:40
+{Text}: {It's too late.} 
+
+{Index}: 1363
+{StartTime}: 1:37:3
+{EndTime}: 1:37:4
+{Text}: {Spock!} 
+
+{Index}: 1364
+{StartTime}: 1:37:35
+{EndTime}: 1:37:36
+{Text}: {Ship...} 
+
+{Index}: 1365
+{StartTime}: 1:37:37
+{EndTime}: 1:37:39
+{Text}: {out of danger?} 
+
+{Index}: 1366
+{StartTime}: 1:37:41
+{EndTime}: 1:37:42
+{Text}: {Yes.} 
+
+{Index}: 1367
+{StartTime}: 1:37:45
+{EndTime}: 1:37:48
+{Text}: {Don't grieve, Admiral.} 
+
+{Index}: 1368
+{StartTime}: 1:37:50
+{EndTime}: 1:37:52
+{Text}: {It is logical.} 
+
+{Index}: 1369
+{StartTime}: 1:37:55
+{EndTime}: 1:37:59
+{Text}: {The needs of the many outweigh...} 
+
+{Index}: 1370
+{StartTime}: 1:38:1
+{EndTime}: 1:38:3
+{Text}: {The needs of the few...} 
+
+{Index}: 1371
+{StartTime}: 1:38:4
+{EndTime}: 1:38:5
+{Text}: {Or the one.} 
+
+{Index}: 1372
+{StartTime}: 1:38:14
+{EndTime}: 1:38:19
+{Text}: {I never took the Kobayashi Maru test...} 
+
+{Index}: 1373
+{StartTime}: 1:38:20
+{EndTime}: 1:38:21
+{Text}: {until now.} 
+
+{Index}: 1374
+{StartTime}: 1:38:24
+{EndTime}: 1:38:27
+{Text}: {What do you think of my solution?} 
+
+{Index}: 1375
+{StartTime}: 1:38:29
+{EndTime}: 1:38:30
+{Text}: {Spock...} 
+
+{Index}: 1376
+{StartTime}: 1:38:40
+{EndTime}: 1:38:41
+{Text}: {I..} {.} 
+
+{Index}: 1377
+{StartTime}: 1:38:42
+{EndTime}: 1:38:44
+{Text}: {I have been...} 
+
+{Index}: 1378
+{StartTime}: 1:38:44
+{EndTime}: 1:38:47
+{Text}: {and always shall be...} 
+
+{Index}: 1379
+{StartTime}: 1:38:47
+{EndTime}: 1:38:48
+{Text}: {your friend.} 
+
+{Index}: 1380
+{StartTime}: 1:38:54
+{EndTime}: 1:38:55
+{Text}: {Live long...} 
+
+{Index}: 1381
+{StartTime}: 1:38:57
+{EndTime}: 1:38:58
+{Text}: {and prosper.} 
+
+{Index}: 1382
+{StartTime}: 1:39:20
+{EndTime}: 1:39:21
+{Text}: {No.} 
+
+{Index}: 1383
+{StartTime}: 1:39:41
+{EndTime}: 1:39:44
+{Text}: {We are assembled here today} 
+
+{Index}: 1384
+{StartTime}: 1:39:44
+{EndTime}: 1:39:47
+{Text}: {To pay final respects to our honored dead.} 
+
+{Index}: 1385
+{StartTime}: 1:39:53
+{EndTime}: 1:39:55
+{Text}: {And yet it should be noted} 
+
+{Index}: 1386
+{StartTime}: 1:39:55
+{EndTime}: 1:39:57
+{Text}: {that in the midst of our sorrow,} 
+
+{Index}: 1387
+{StartTime}: 1:39:57
+{EndTime}: 1:40:1
+{Text}: {this death takes place in the shadow of new life,} 
+
+{Index}: 1388
+{StartTime}: 1:40:1
+{EndTime}: 1:40:4
+{Text}: {the sunrise of a new world,} 
+
+{Index}: 1389
+{StartTime}: 1:40:4
+{EndTime}: 1:40:6
+{Text}: {a world that our beloved comrade} 
+
+{Index}: 1390
+{StartTime}: 1:40:6
+{EndTime}: 1:40:8
+{Text}: {gave his life to protect.} 
+
+{Index}: 1391
+{StartTime}: 1:40:8
+{EndTime}: 1:40:10
+{Text}: {He did not feel} 
+
+{Index}: 1392
+{StartTime}: 1:40:10
+{EndTime}: 1:40:13
+{Text}: {this sacrifice a vain or empty one,} 
+
+{Index}: 1393
+{StartTime}: 1:40:13
+{EndTime}: 1:40:15
+{Text}: {and we will not debate his profound wisdom} 
+
+{Index}: 1394
+{StartTime}: 1:40:15
+{EndTime}: 1:40:17
+{Text}: {at these proceedings.} 
+
+{Index}: 1395
+{StartTime}: 1:40:20
+{EndTime}: 1:40:23
+{Text}: {Of my friend, I can only say this-} 
+
+{Index}: 1396
+{StartTime}: 1:40:28
+{EndTime}: 1:40:32
+{Text}: {of all the souls I have encountered in my travels,} 
+
+{Index}: 1397
+{StartTime}: 1:40:32
+{EndTime}: 1:40:33
+{Text}: {his was the most...} 
+
+{Index}: 1398
+{StartTime}: 1:40:37
+{EndTime}: 1:40:38
+{Text}: {human.} 
+
+{Index}: 1399
+{StartTime}: 1:40:40
+{EndTime}: 1:40:42
+{Text}: {Honors...} 
+
+{Index}: 1400
+{StartTime}: 1:40:42
+{EndTime}: 1:40:43
+{Text}: {Hup.} 
+
+{Index}: 1401
+{StartTime}: 1:42:7
+{EndTime}: 1:42:8
+{Text}: {Come.} 
+
+{Index}: 1402
+{StartTime}: 1:42:12
+{EndTime}: 1:42:14
+{Text}: {I don't mean to intrude.} 
+
+{Index}: 1403
+{StartTime}: 1:42:15
+{EndTime}: 1:42:17
+{Text}: {No, not at all.} 
+
+{Index}: 1404
+{StartTime}: 1:42:17
+{EndTime}: 1:42:19
+{Text}: {I should be on the bridge.} 
+
+{Index}: 1405
+{StartTime}: 1:42:20
+{EndTime}: 1:42:22
+{Text}: {Can I talk to you for a minute?} 
+
+{Index}: 1406
+{StartTime}: 1:42:23
+{EndTime}: 1:42:26
+{Text}: {I poured myself a drink.} {Would you like it?} 
+
+{Index}: 1407
+{StartTime}: 1:42:26
+{EndTime}: 1:42:27
+{Text}: {Lieutenant Saavik was right.} 
+
+{Index}: 1408
+{StartTime}: 1:42:29
+{EndTime}: 1:42:31
+{Text}: {You never have faced death.} 
+
+{Index}: 1409
+{StartTime}: 1:42:40
+{EndTime}: 1:42:42
+{Text}: {No, not like this.} 
+
+{Index}: 1410
+{StartTime}: 1:42:45
+{EndTime}: 1:42:47
+{Text}: {I haven't faced death.} 
+
+{Index}: 1411
+{StartTime}: 1:42:47
+{EndTime}: 1:42:49
+{Text}: {I've cheated death.} 
+
+{Index}: 1412
+{StartTime}: 1:42:52
+{EndTime}: 1:42:55
+{Text}: {I've tricked my way out of death} 
+
+{Index}: 1413
+{StartTime}: 1:42:55
+{EndTime}: 1:42:58
+{Text}: {and patted myself on the back for my ingenuity.} 
+
+{Index}: 1414
+{StartTime}: 1:43:2
+{EndTime}: 1:43:3
+{Text}: {I know nothing.} 
+
+{Index}: 1415
+{StartTime}: 1:43:3
+{EndTime}: 1:43:5
+{Text}: {You knew enough to tell Saavik} 
+
+{Index}: 1416
+{StartTime}: 1:43:5
+{EndTime}: 1:43:6
+{Text}: {that how we faced death} 
+
+{Index}: 1417
+{StartTime}: 1:43:6
+{EndTime}: 1:43:11
+{Text}: {is at least as important as how we face life.} 
+
+{Index}: 1418
+{StartTime}: 1:43:11
+{EndTime}: 1:43:12
+{Text}: {Just words.} 
+
+{Index}: 1419
+{StartTime}: 1:43:12
+{EndTime}: 1:43:14
+{Text}: {But good words.} 
+
+{Index}: 1420
+{StartTime}: 1:43:15
+{EndTime}: 1:43:18
+{Text}: {That's where ideas begin.} 
+
+{Index}: 1421
+{StartTime}: 1:43:18
+{EndTime}: 1:43:20
+{Text}: {Maybe you should listen to them.} 
+
+{Index}: 1422
+{StartTime}: 1:43:23
+{EndTime}: 1:43:24
+{Text}: {I was wrong about you...} 
+
+{Index}: 1423
+{StartTime}: 1:43:26
+{EndTime}: 1:43:27
+{Text}: {and I'm sorry.} 
+
+{Index}: 1424
+{StartTime}: 1:43:30
+{EndTime}: 1:43:32
+{Text}: {Is that what you came here to say?} 
+
+{Index}: 1425
+{StartTime}: 1:43:34
+{EndTime}: 1:43:35
+{Text}: {Mainly.} 
+
+{Index}: 1426
+{StartTime}: 1:43:42
+{EndTime}: 1:43:44
+{Text}: {And also that I'm...} 
+
+{Index}: 1427
+{StartTime}: 1:43:46
+{EndTime}: 1:43:47
+{Text}: {proud.} 
+
+{Index}: 1428
+{StartTime}: 1:43:49
+{EndTime}: 1:43:51
+{Text}: {Very proud...} 
+
+{Index}: 1429
+{StartTime}: 1:43:51
+{EndTime}: 1:43:52
+{Text}: {to be your son.} 
+
+{Index}: 1430
+{StartTime}: 1:44:22
+{EndTime}: 1:44:25
+{Text}: {Captain 's Log.} {Stardate 8141.6.} 
+
+{Index}: 1431
+{StartTime}: 1:44:26
+{EndTime}: 1:44:28
+{Text}: {Starship Enterprise departing for Ceti Alpha V} 
+
+{Index}: 1432
+{StartTime}: 1:44:29
+{EndTime}: 1:44:31
+{Text}: {to pick up the crew of U.S.S. Reliant.} 
+
+{Index}: 1433
+{StartTime}: 1:44:32
+{EndTime}: 1:44:33
+{Text}: {All is well.} 
+
+{Index}: 1434
+{StartTime}: 1:44:33
+{EndTime}: 1:44:35
+{Text}: {And yet I can't help wondering} 
+
+{Index}: 1435
+{StartTime}: 1:44:36
+{EndTime}: 1:44:38
+{Text}: {about the friend I leave behind.} 
+
+{Index}: 1436
+{StartTime}: 1:44:40
+{EndTime}: 1:44:43
+{Text}: {,'There are always possibilities, ,'Spock said.} 
+
+{Index}: 1437
+{StartTime}: 1:44:43
+{EndTime}: 1:44:46
+{Text}: {And if Genesis is indeed} 
+
+{Index}: 1438
+{StartTime}: 1:44:46
+{EndTime}: 1:44:48
+{Text}: {life from death...} 
+
+{Index}: 1439
+{StartTime}: 1:44:49
+{EndTime}: 1:44:52
+{Text}: {I must return to this place again.} 
+
+{Index}: 1440
+{StartTime}: 1:44:56
+{EndTime}: 1:44:58
+{Text}: {He's really not dead...} 
+
+{Index}: 1441
+{StartTime}: 1:44:59
+{EndTime}: 1:45:1
+{Text}: {as long as we remember him.} 
+
+{Index}: 1442
+{StartTime}: 1:45:8
+{EndTime}: 1:45:10
+{Text}: {It's a far, far better thing I do} 
+
+{Index}: 1443
+{StartTime}: 1:45:11
+{EndTime}: 1:45:13
+{Text}: {than I have ever done before.} 
+
+{Index}: 1444
+{StartTime}: 1:45:15
+{EndTime}: 1:45:20
+{Text}: {A far better resting place I go to} 
+
+{Index}: 1445
+{StartTime}: 1:45:20
+{EndTime}: 1:45:22
+{Text}: {than I have ever known.} 
+
+{Index}: 1446
+{StartTime}: 1:45:22
+{EndTime}: 1:45:23
+{Text}: {Is that a poem?} 
+
+{Index}: 1447
+{StartTime}: 1:45:23
+{EndTime}: 1:45:24
+{Text}: {No.} 
+
+{Index}: 1448
+{StartTime}: 1:45:26
+{EndTime}: 1:45:28
+{Text}: {Something Spock was trying to tell me} 
+
+{Index}: 1449
+{StartTime}: 1:45:28
+{EndTime}: 1:45:30
+{Text}: {on my birthday.} 
+
+{Index}: 1450
+{StartTime}: 1:45:30
+{EndTime}: 1:45:31
+{Text}: {You OK, Jim?} 
+
+{Index}: 1451
+{StartTime}: 1:45:33
+{EndTime}: 1:45:35
+{Text}: {How do you feel?} 
+
+{Index}: 1452
+{StartTime}: 1:45:38
+{EndTime}: 1:45:38
+{Text}: {Young.} 
+
+{Index}: 1453
+{StartTime}: 1:45:43
+{EndTime}: 1:45:45
+{Text}: {I feel young.} 
+
+{Index}: 1454
+{StartTime}: 1:46:57
+{EndTime}: 1:47:1
+{Text}: {Space, the final frontier.} 
+
+{Index}: 1455
+{StartTime}: 1:47:2
+{EndTime}: 1:47:4
+{Text}: {These are the continuing voyages} 
+
+{Index}: 1456
+{StartTime}: 1:47:4
+{EndTime}: 1:47:8
+{Text}: {of the starship Enterprise.} 
+
+{Index}: 1457
+{StartTime}: 1:47:9
+{EndTime}: 1:47:11
+{Text}: {Her ongoing mission,} 
+
+{Index}: 1458
+{StartTime}: 1:47:11
+{EndTime}: 1:47:15
+{Text}: {to explore strange, new worlds,} 
+
+{Index}: 1459
+{StartTime}: 1:47:15
+{EndTime}: 1:47:21
+{Text}: {to seek out new life forms and new civilizations,} 
+
+{Index}: 1460
+{StartTime}: 1:47:21
+{EndTime}: 1:47:25
+{Text}: {to boldly go where no man has gone...} 
+
+{Index}: 1461
+{StartTime}: 1:47:25
+{EndTime}: 1:47:27
+{Text}: {before.} 
+

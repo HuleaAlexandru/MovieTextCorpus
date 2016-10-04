@@ -1,0 +1,5555 @@
+{Index}: 1
+{StartTime}: 0:2:50
+{EndTime}: 0:2:52
+{Text}: {Tactical!} 
+
+{Index}: 2
+{StartTime}: 0:3:12
+{EndTime}: 0:3:13
+{Text}: {Visual!} 
+
+{Index}: 3
+{StartTime}: 0:3:20
+{EndTime}: 0:3:21
+{Text}: {Prepare torpedos!} 
+
+{Index}: 4
+{StartTime}: 0:3:30
+{EndTime}: 0:3:31
+{Text}: {Attention!} 
+
+{Index}: 5
+{StartTime}: 0:3:34
+{EndTime}: 0:3:35
+{Text}: {Fire!} 
+
+{Index}: 6
+{StartTime}: 0:4:0
+{EndTime}: 0:4:1
+{Text}: {Evade} 
+
+{Index}: 7
+{StartTime}: 0:4:9
+{EndTime}: 0:4:13
+{Text}: {This is com station Epsilon 9 calling USS Columbia.} 
+
+{Index}: 8
+{StartTime}: 0:4:14
+{EndTime}: 0:4:16
+{Text}: {Come in, Columbia.} {Respond, please.} 
+
+{Index}: 9
+{StartTime}: 0:4:16
+{EndTime}: 0:4:19
+{Text}: {This is Scout Columbia, Epsilon 9.} {Could you boost your transmission?} 
+
+{Index}: 10
+{StartTime}: 0:4:22
+{EndTime}: 0:4:24
+{Text}: {This is Epsilon 9, Columbia.} 
+
+{Index}: 11
+{StartTime}: 0:4:24
+{EndTime}: 0:4:27
+{Text}: {Am boosting output.} {How read you this?} 
+
+{Index}: 12
+{StartTime}: 0:4:27
+{EndTime}: 0:4:30
+{Text}: {Fine, fine.} {Thank you, Epsilon 9.} {Receiving your transmission.} 
+
+{Index}: 13
+{StartTime}: 0:4:30
+{EndTime}: 0:4:34
+{Text}: {Scout Columbia, NCC-621...} 
+
+{Index}: 14
+{StartTime}: 0:4:34
+{EndTime}: 0:4:38
+{Text}: {to rendezvous with Scout Revere, NCC-595...} 
+
+{Index}: 15
+{StartTime}: 0:4:38
+{EndTime}: 0:4:41
+{Text}: {on stardate 7411.4.} 
+
+{Index}: 16
+{StartTime}: 0:4:42
+{EndTime}: 0:4:44
+{Text}: {Further orders will be relayed at that time.} 
+
+{Index}: 17
+{StartTime}: 0:4:44
+{EndTime}: 0:4:47
+{Text}: {Signed Commodore Prober to Starfleet.} 
+
+{Index}: 18
+{StartTime}: 0:4:47
+{EndTime}: 0:4:51
+{Text}: {- End of transmission.} {- Received.} {Thank you.} 
+
+{Index}: 19
+{StartTime}: 0:5:10
+{EndTime}: 0:5:13
+{Text}: {Our sensor drone is intercepting this on Quad L-1 4.} 
+
+{Index}: 20
+{StartTime}: 0:5:14
+{EndTime}: 0:5:16
+{Text}: {That's within Klingon boundaries.} {Who are they fighting?} 
+
+{Index}: 21
+{StartTime}: 0:5:16
+{EndTime}: 0:5:18
+{Text}: {Unknown, Sir.} 
+
+{Index}: 22
+{StartTime}: 0:5:19
+{EndTime}: 0:5:21
+{Text}: {I have an exterior visual.} 
+
+{Index}: 23
+{StartTime}: 0:5:57
+{EndTime}: 0:5:58
+{Text}: {Attention!} 
+
+{Index}: 24
+{StartTime}: 0:6:5
+{EndTime}: 0:6:6
+{Text}: {Fire!} 
+
+{Index}: 25
+{StartTime}: 0:6:32
+{EndTime}: 0:6:35
+{Text}: {We've plotted a course on that cloud, Commander.} 
+
+{Index}: 26
+{StartTime}: 0:6:35
+{EndTime}: 0:6:39
+{Text}: {It will pass into Federation space fairly close to us.} 
+
+{Index}: 27
+{StartTime}: 0:6:39
+{EndTime}: 0:6:40
+{Text}: {Heading?} 
+
+{Index}: 28
+{StartTime}: 0:6:41
+{EndTime}: 0:6:44
+{Text}: {Sir, it's on a precise heading for Earth.} 
+
+{Index}: 29
+{StartTime}: 0:10:15
+{EndTime}: 0:10:17
+{Text}: {Commander Sonak.} 
+
+{Index}: 30
+{StartTime}: 0:10:17
+{EndTime}: 0:10:20
+{Text}: {You received your appointment as Enterprise science officer?} 
+
+{Index}: 31
+{StartTime}: 0:10:20
+{EndTime}: 0:10:22
+{Text}: {Based, I am told, on your recommendation, Admiral.} {Thank you.} 
+
+{Index}: 32
+{StartTime}: 0:10:22
+{EndTime}: 0:10:23
+{Text}: {Then why aren't you aboard?} 
+
+{Index}: 33
+{StartTime}: 0:10:23
+{EndTime}: 0:10:25
+{Text}: {Captain Decker requested I complete final science briefing here before...} 
+
+{Index}: 34
+{StartTime}: 0:10:26
+{EndTime}: 0:10:27
+{Text}: {- Here?} {- we leave on our mission.} 
+
+{Index}: 35
+{StartTime}: 0:10:27
+{EndTime}: 0:10:29
+{Text}: {At Starfleet?} 
+
+{Index}: 36
+{StartTime}: 0:10:30
+{EndTime}: 0:10:32
+{Text}: {The Enterprise is in final preparation to leave dock.} 
+
+{Index}: 37
+{StartTime}: 0:10:32
+{EndTime}: 0:10:34
+{Text}: {Which will require 20 more hours at minimum...} 
+
+{Index}: 38
+{StartTime}: 0:10:34
+{EndTime}: 0:10:36
+{Text}: {Twelve.} 
+
+{Index}: 39
+{StartTime}: 0:10:36
+{EndTime}: 0:10:38
+{Text}: {I'm on my way to a meeting with Admiral Nogura...} 
+
+{Index}: 40
+{StartTime}: 0:10:38
+{EndTime}: 0:10:40
+{Text}: {which will not last more than three minutes.} 
+
+{Index}: 41
+{StartTime}: 0:10:40
+{EndTime}: 0:10:42
+{Text}: {Report to me on the Enterprise in one hour.} 
+
+{Index}: 42
+{StartTime}: 0:10:42
+{EndTime}: 0:10:43
+{Text}: {Report to you, Sir?} 
+
+{Index}: 43
+{StartTime}: 0:10:43
+{EndTime}: 0:10:48
+{Text}: {It is my intention to be on that ship following that meeting.} 
+
+{Index}: 44
+{StartTime}: 0:10:48
+{EndTime}: 0:10:50
+{Text}: {Report to me in one hour.} 
+
+{Index}: 45
+{StartTime}: 0:11:59
+{EndTime}: 0:12:0
+{Text}: {- Admiral!} {- Mr. Scott.} 
+
+{Index}: 46
+{StartTime}: 0:12:0
+{EndTime}: 0:12:3
+{Text}: {Those departure orders... 12 hours.} {Starfleet cannot be serious.} 
+
+{Index}: 47
+{StartTime}: 0:12:3
+{EndTime}: 0:12:5
+{Text}: {Why aren't the Enterprise transporters operating, Mr. Scott?} 
+
+{Index}: 48
+{StartTime}: 0:12:5
+{EndTime}: 0:12:7
+{Text}: {A wee problem, Sir.} {Just temporary.} 
+
+{Index}: 49
+{StartTime}: 0:12:7
+{EndTime}: 0:12:10
+{Text}: {Admiral, we have just finished 18 months...} 
+
+{Index}: 50
+{StartTime}: 0:12:10
+{EndTime}: 0:12:11
+{Text}: {redesigning and refitting the Enterprise.} 
+
+{Index}: 51
+{StartTime}: 0:12:12
+{EndTime}: 0:12:14
+{Text}: {How in hell do they expect me to have her ready in 12 hours?} 
+
+{Index}: 52
+{StartTime}: 0:12:14
+{EndTime}: 0:12:16
+{Text}: {Take me over, please.} 
+
+{Index}: 53
+{StartTime}: 0:12:19
+{EndTime}: 0:12:22
+{Text}: {She needs more work, Sir.} {A shakedown!} 
+
+{Index}: 54
+{StartTime}: 0:12:22
+{EndTime}: 0:12:26
+{Text}: {Mr. Scott, an alien object of unbelievable destructive power...} 
+
+{Index}: 55
+{StartTime}: 0:12:26
+{EndTime}: 0:12:29
+{Text}: {is less than three days away from this planet.} 
+
+{Index}: 56
+{StartTime}: 0:12:29
+{EndTime}: 0:12:33
+{Text}: {The only starship in interception range is the Enterprise.} 
+
+{Index}: 57
+{StartTime}: 0:12:33
+{EndTime}: 0:12:36
+{Text}: {Ready or not, she launches in 12 hours.} 
+
+{Index}: 58
+{StartTime}: 0:12:56
+{EndTime}: 0:12:58
+{Text}: {The crew haven't had near enough transition time...} 
+
+{Index}: 59
+{StartTime}: 0:12:58
+{EndTime}: 0:13:0
+{Text}: {with all the new equipment.} 
+
+{Index}: 60
+{StartTime}: 0:13:1
+{EndTime}: 0:13:6
+{Text}: {And the engines... They're not even tested at warp power.} 
+
+{Index}: 61
+{StartTime}: 0:13:6
+{EndTime}: 0:13:8
+{Text}: {And an untried Captain.} 
+
+{Index}: 62
+{StartTime}: 0:13:8
+{EndTime}: 0:13:10
+{Text}: {Two-and-a-half years as chief of Starfleet Operations...} 
+
+{Index}: 63
+{StartTime}: 0:13:10
+{EndTime}: 0:13:12
+{Text}: {may have made me a little stale, but I..} {.} 
+
+{Index}: 64
+{StartTime}: 0:13:12
+{EndTime}: 0:13:15
+{Text}: {wouldn't exactly consider myself untried.} 
+
+{Index}: 65
+{StartTime}: 0:13:19
+{EndTime}: 0:13:22
+{Text}: {- They gave her back to me, Scotty.} {- Gave her back, Sir?} 
+
+{Index}: 66
+{StartTime}: 0:13:22
+{EndTime}: 0:13:24
+{Text}: {I doubt it was that easy with Nogura.} 
+
+{Index}: 67
+{StartTime}: 0:13:25
+{EndTime}: 0:13:27
+{Text}: {You're right.} 
+
+{Index}: 68
+{StartTime}: 0:13:29
+{EndTime}: 0:13:33
+{Text}: {Well, any man who could manage such a feat...} 
+
+{Index}: 69
+{StartTime}: 0:13:33
+{EndTime}: 0:13:36
+{Text}: {I would not dare disappoint.} 
+
+{Index}: 70
+{StartTime}: 0:13:36
+{EndTime}: 0:13:40
+{Text}: {She'll launch on time, Sir, and she'll be ready.} 
+
+{Index}: 71
+{StartTime}: 0:18:18
+{EndTime}: 0:18:21
+{Text}: {- Thank you, Mr. Scott.} {- Aye, Sir.} 
+
+{Index}: 72
+{StartTime}: 0:18:22
+{EndTime}: 0:18:23
+{Text}: {Cargo bay to launch crew.} 
+
+{Index}: 73
+{StartTime}: 0:18:23
+{EndTime}: 0:18:27
+{Text}: {A travel pod is now available at dock 6.} 
+
+{Index}: 74
+{StartTime}: 0:18:29
+{EndTime}: 0:18:31
+{Text}: {- Permission to come aboard, Sir.} {- Granted, Sir.} 
+
+{Index}: 75
+{StartTime}: 0:18:31
+{EndTime}: 0:18:33
+{Text}: {Welcome aboard, Admiral.} 
+
+{Index}: 76
+{StartTime}: 0:18:33
+{EndTime}: 0:18:35
+{Text}: {Commander Scott, you're needed in Engineering immediately.} 
+
+{Index}: 77
+{StartTime}: 0:18:35
+{EndTime}: 0:18:37
+{Text}: {Sir, you'll excuse me.} 
+
+{Index}: 78
+{StartTime}: 0:18:38
+{EndTime}: 0:18:42
+{Text}: {Flight deck, prepare for an incoming shuttlecraft.} 
+
+{Index}: 79
+{StartTime}: 0:18:44
+{EndTime}: 0:18:46
+{Text}: {If you'll follow me, I'll show you...} 
+
+{Index}: 80
+{StartTime}: 0:18:46
+{EndTime}: 0:18:47
+{Text}: {I think I can find my way, Ensign.} 
+
+{Index}: 81
+{StartTime}: 0:18:48
+{EndTime}: 0:18:50
+{Text}: {Aye, Sir.} 
+
+{Index}: 82
+{StartTime}: 0:18:54
+{EndTime}: 0:18:56
+{Text}: {Bridge.} 
+
+{Index}: 83
+{StartTime}: 0:19:1
+{EndTime}: 0:19:1
+{Text}: {What's the problem?} 
+
+{Index}: 84
+{StartTime}: 0:19:2
+{EndTime}: 0:19:4
+{Text}: {I thought you people had that circuit patched in an hour ago.} 
+
+{Index}: 85
+{StartTime}: 0:19:4
+{EndTime}: 0:19:6
+{Text}: {We did.} {We had to disconnect it.} 
+
+{Index}: 86
+{StartTime}: 0:19:6
+{EndTime}: 0:19:7
+{Text}: {All right.} {Take out...} 
+
+{Index}: 87
+{StartTime}: 0:19:8
+{EndTime}: 0:19:10
+{Text}: {It's going to take us longer that way.} {We're trying to save time.} 
+
+{Index}: 88
+{StartTime}: 0:19:11
+{EndTime}: 0:19:14
+{Text}: {I'm still waiting for a check on the line.} {What's holding it up?} 
+
+{Index}: 89
+{StartTime}: 0:19:14
+{EndTime}: 0:19:17
+{Text}: {As soon as somebody can get to it.} 
+
+{Index}: 90
+{StartTime}: 0:19:17
+{EndTime}: 0:19:19
+{Text}: {What's the next program?} 
+
+{Index}: 91
+{StartTime}: 0:19:19
+{EndTime}: 0:19:21
+{Text}: {I'll get somebody down there as soon as I can, Cleary.} 
+
+{Index}: 92
+{StartTime}: 0:19:22
+{EndTime}: 0:19:23
+{Text}: {My people are all tied up now.} 
+
+{Index}: 93
+{StartTime}: 0:19:27
+{EndTime}: 0:19:31
+{Text}: {Captain!} {Starfleet just signaled your transfer of command orders.} 
+
+{Index}: 94
+{StartTime}: 0:19:33
+{EndTime}: 0:19:35
+{Text}: {- Captain.} {- I appreciate the welcome.} 
+
+{Index}: 95
+{StartTime}: 0:19:36
+{EndTime}: 0:19:38
+{Text}: {I wish the circumstances were less critical.} 
+
+{Index}: 96
+{StartTime}: 0:19:38
+{EndTime}: 0:19:41
+{Text}: {Epsilon 9 is monitoring the intruder.} {Keep a channel open to them.} 
+
+{Index}: 97
+{StartTime}: 0:19:41
+{EndTime}: 0:19:43
+{Text}: {Aye, Sir.} 
+
+{Index}: 98
+{StartTime}: 0:19:43
+{EndTime}: 0:19:47
+{Text}: {- Where's Captain Decker?} {- He's in Engineering, Sir.} 
+
+{Index}: 99
+{StartTime}: 0:19:47
+{EndTime}: 0:19:49
+{Text}: {He... He doesn't know.} 
+
+{Index}: 100
+{StartTime}: 0:19:52
+{EndTime}: 0:19:54
+{Text}: {- Mr. Chekov.} {- Aye, Sir.} 
+
+{Index}: 101
+{StartTime}: 0:19:54
+{EndTime}: 0:19:56
+{Text}: {Assemble the crew on the recreation deck at 0400 hours.} 
+
+{Index}: 102
+{StartTime}: 0:19:57
+{EndTime}: 0:20:0
+{Text}: {I want to show them what we're facing.} 
+
+{Index}: 103
+{StartTime}: 0:20:14
+{EndTime}: 0:20:16
+{Text}: {Check Cleary on number six.} 
+
+{Index}: 104
+{StartTime}: 0:20:31
+{EndTime}: 0:20:33
+{Text}: {- Need your cooler status.} {- Stand by.} 
+
+{Index}: 105
+{StartTime}: 0:20:33
+{EndTime}: 0:20:38
+{Text}: {Space matrix restoration coils.} {Dilithium crystals.} 
+
+{Index}: 106
+{StartTime}: 0:20:38
+{EndTime}: 0:20:41
+{Text}: {I knew it.} {The transporter sensor was not activated.} 
+
+{Index}: 107
+{StartTime}: 0:20:41
+{EndTime}: 0:20:43
+{Text}: {Air equalization.} {Automatic off.} 
+
+{Index}: 108
+{StartTime}: 0:20:43
+{EndTime}: 0:20:44
+{Text}: {Faulty module.} 
+
+{Index}: 109
+{StartTime}: 0:20:44
+{EndTime}: 0:20:47
+{Text}: {Cleary, put a new backup sensor into the unit.} 
+
+{Index}: 110
+{StartTime}: 0:20:47
+{EndTime}: 0:20:48
+{Text}: {Aye, Sir.} 
+
+{Index}: 111
+{StartTime}: 0:20:51
+{EndTime}: 0:20:53
+{Text}: {Admiral Kirk!} {Well, we're getting a top brass send-off.} 
+
+{Index}: 112
+{StartTime}: 0:20:54
+{EndTime}: 0:20:56
+{Text}: {Don't worry, she'll launch on schedule...} 
+
+{Index}: 113
+{StartTime}: 0:20:56
+{EndTime}: 0:20:58
+{Text}: {if we have to tow her out with our bare hands, right, Scotty?} 
+
+{Index}: 114
+{StartTime}: 0:20:58
+{EndTime}: 0:21:1
+{Text}: {Aye.} {That we will, Sir.} 
+
+{Index}: 115
+{StartTime}: 0:21:2
+{EndTime}: 0:21:4
+{Text}: {- Let's talk.} {- Sure.} 
+
+{Index}: 116
+{StartTime}: 0:21:4
+{EndTime}: 0:21:7
+{Text}: {Let me know when that backup's ready.} 
+
+{Index}: 117
+{StartTime}: 0:21:7
+{EndTime}: 0:21:10
+{Text}: {All due respect, I hope this isn't some kind of Starfleet pep talk.} 
+
+{Index}: 118
+{StartTime}: 0:21:10
+{EndTime}: 0:21:13
+{Text}: {- I'm really too busy.} {- I'm taking over the center seat.} 
+
+{Index}: 119
+{StartTime}: 0:21:13
+{EndTime}: 0:21:14
+{Text}: {You're what?} 
+
+{Index}: 120
+{StartTime}: 0:21:15
+{EndTime}: 0:21:17
+{Text}: {I'm replacing you as Captain of the Enterprise.} 
+
+{Index}: 121
+{StartTime}: 0:21:17
+{EndTime}: 0:21:20
+{Text}: {You'll stay on as executive officer.} 
+
+{Index}: 122
+{StartTime}: 0:21:20
+{EndTime}: 0:21:23
+{Text}: {Temporary grade reduction to Commander.} 
+
+{Index}: 123
+{StartTime}: 0:21:25
+{EndTime}: 0:21:27
+{Text}: {You personally are assuming command?} 
+
+{Index}: 124
+{StartTime}: 0:21:27
+{EndTime}: 0:21:29
+{Text}: {Yeah.} 
+
+{Index}: 125
+{StartTime}: 0:21:29
+{EndTime}: 0:21:33
+{Text}: {- May I ask why?} {- My experience.} 
+
+{Index}: 126
+{StartTime}: 0:21:33
+{EndTime}: 0:21:37
+{Text}: {Five years out there dealing with unknowns like this.} 
+
+{Index}: 127
+{StartTime}: 0:21:37
+{EndTime}: 0:21:39
+{Text}: {My familiarity with the Enterprise and its crew.} 
+
+{Index}: 128
+{StartTime}: 0:21:39
+{EndTime}: 0:21:42
+{Text}: {Admiral, this is an almost totally new Enterprise.} 
+
+{Index}: 129
+{StartTime}: 0:21:42
+{EndTime}: 0:21:44
+{Text}: {You don't know her a tenth as well as I do.} 
+
+{Index}: 130
+{StartTime}: 0:21:44
+{EndTime}: 0:21:47
+{Text}: {That's why you're staying aboard.} 
+
+{Index}: 131
+{StartTime}: 0:21:52
+{EndTime}: 0:21:53
+{Text}: {I'm sorry, Will.} 
+
+{Index}: 132
+{StartTime}: 0:21:54
+{EndTime}: 0:21:57
+{Text}: {No, Admiral, I don't think you're sorry.} 
+
+{Index}: 133
+{StartTime}: 0:21:57
+{EndTime}: 0:21:59
+{Text}: {Not one damn bit.} 
+
+{Index}: 134
+{StartTime}: 0:22:1
+{EndTime}: 0:22:3
+{Text}: {I remember when you recommended me for this command.} 
+
+{Index}: 135
+{StartTime}: 0:22:3
+{EndTime}: 0:22:5
+{Text}: {You told me how envious you were and how much you hoped...} 
+
+{Index}: 136
+{StartTime}: 0:22:5
+{EndTime}: 0:22:7
+{Text}: {you'd find a way to get a starship command again.} 
+
+{Index}: 137
+{StartTime}: 0:22:10
+{EndTime}: 0:22:14
+{Text}: {Well, Sir, it looks like you found a way.} 
+
+{Index}: 138
+{StartTime}: 0:22:17
+{EndTime}: 0:22:21
+{Text}: {Report to the bridge, Commander, immediately.} 
+
+{Index}: 139
+{StartTime}: 0:22:23
+{EndTime}: 0:22:25
+{Text}: {Aye, Sir.} 
+
+{Index}: 140
+{StartTime}: 0:22:36
+{EndTime}: 0:22:38
+{Text}: {Transporter room!} {Come in!} {Urgent!} 
+
+{Index}: 141
+{StartTime}: 0:22:38
+{EndTime}: 0:22:40
+{Text}: {Redline on the transporter, Mr. Scott!} 
+
+{Index}: 142
+{StartTime}: 0:22:40
+{EndTime}: 0:22:42
+{Text}: {Transporter, do not engage!} 
+
+{Index}: 143
+{StartTime}: 0:22:42
+{EndTime}: 0:22:44
+{Text}: {-It's too late.} {They're beaming now.} {- Do not...} 
+
+{Index}: 144
+{StartTime}: 0:22:46
+{EndTime}: 0:22:50
+{Text}: {Do you read me, Starfleet?} {Override it!} {Pull them back!} 
+
+{Index}: 145
+{StartTime}: 0:22:50
+{EndTime}: 0:22:53
+{Text}: {Unable to retrieve their pattern, Enterprise.} 
+
+{Index}: 146
+{StartTime}: 0:23:1
+{EndTime}: 0:23:2
+{Text}: {Give it to me.} 
+
+{Index}: 147
+{StartTime}: 0:23:5
+{EndTime}: 0:23:10
+{Text}: {Starfleet, boost your matter gain.} {We need more signal.} 
+
+{Index}: 148
+{StartTime}: 0:23:14
+{EndTime}: 0:23:15
+{Text}: {More signal!} 
+
+{Index}: 149
+{StartTime}: 0:23:15
+{EndTime}: 0:23:19
+{Text}: {- We're losing their pattern!} {- Oh, no, they're forming.} 
+
+{Index}: 150
+{StartTime}: 0:23:35
+{EndTime}: 0:23:37
+{Text}: {Oh my God.} 
+
+{Index}: 151
+{StartTime}: 0:23:44
+{EndTime}: 0:23:46
+{Text}: {Starfleet, do you have them?} 
+
+{Index}: 152
+{StartTime}: 0:23:47
+{EndTime}: 0:23:52
+{Text}: {Enterprise, what we got back didn 't live long, fortunately.} 
+
+{Index}: 153
+{StartTime}: 0:23:57
+{EndTime}: 0:23:59
+{Text}: {Starfleet, Kirk.} 
+
+{Index}: 154
+{StartTime}: 0:24:1
+{EndTime}: 0:24:4
+{Text}: {Please express my condolences to their families.} 
+
+{Index}: 155
+{StartTime}: 0:24:5
+{EndTime}: 0:24:8
+{Text}: {Commander Sonak's can be reached through the Vulcan embassy.} 
+
+{Index}: 156
+{StartTime}: 0:24:14
+{EndTime}: 0:24:17
+{Text}: {There was nothing you could have done, Rand.} 
+
+{Index}: 157
+{StartTime}: 0:24:17
+{EndTime}: 0:24:20
+{Text}: {It wasn't your fault.} 
+
+{Index}: 158
+{StartTime}: 0:24:42
+{EndTime}: 0:24:44
+{Text}: {Yeoman, turboshaft 8?} 
+
+{Index}: 159
+{StartTime}: 0:24:44
+{EndTime}: 0:24:46
+{Text}: {Back that way, Sir.} 
+
+{Index}: 160
+{StartTime}: 0:24:53
+{EndTime}: 0:24:56
+{Text}: {We have to replace Commander Sonak.} 
+
+{Index}: 161
+{StartTime}: 0:24:57
+{EndTime}: 0:24:59
+{Text}: {I'd still like a Vulcan there, if possible.} 
+
+{Index}: 162
+{StartTime}: 0:24:59
+{EndTime}: 0:25:1
+{Text}: {None available, Captain.} 
+
+{Index}: 163
+{StartTime}: 0:25:1
+{EndTime}: 0:25:4
+{Text}: {In fact, there's no one who's fully rated on this design.} 
+
+{Index}: 164
+{StartTime}: 0:25:4
+{EndTime}: 0:25:6
+{Text}: {You are, Mr. Decker.} 
+
+{Index}: 165
+{StartTime}: 0:25:6
+{EndTime}: 0:25:8
+{Text}: {I'm afraid you're going to have to double as science officer.} 
+
+{Index}: 166
+{StartTime}: 0:25:40
+{EndTime}: 0:25:42
+{Text}: {That's all we know about it...} 
+
+{Index}: 167
+{StartTime}: 0:25:43
+{EndTime}: 0:25:47
+{Text}: {except that it is now 53.4 hours away from Earth.} 
+
+{Index}: 168
+{StartTime}: 0:25:51
+{EndTime}: 0:25:54
+{Text}: {Enterprise is the only Federation starship that stands in its way.} 
+
+{Index}: 169
+{StartTime}: 0:26:0
+{EndTime}: 0:26:4
+{Text}: {Our orders are to intercept...} 
+
+{Index}: 170
+{StartTime}: 0:26:4
+{EndTime}: 0:26:7
+{Text}: {investigate and take whatever action is necessary...} 
+
+{Index}: 171
+{StartTime}: 0:26:8
+{EndTime}: 0:26:9
+{Text}: {and possible.} 
+
+{Index}: 172
+{StartTime}: 0:26:24
+{EndTime}: 0:26:27
+{Text}: {Bridge to Captain.} {Priority signal from Epsilon 9.} 
+
+{Index}: 173
+{StartTime}: 0:26:28
+{EndTime}: 0:26:29
+{Text}: {- Put it on viewer.} {- On viewer, Sir.} 
+
+{Index}: 174
+{StartTime}: 0:26:29
+{EndTime}: 0:26:34
+{Text}: {Enterprise, the cloud is definitely a power field of some kind.} 
+
+{Index}: 175
+{StartTime}: 0:26:34
+{EndTime}: 0:26:39
+{Text}: {Measures... My God... over eight two AU's in diameter.} 
+
+{Index}: 176
+{StartTime}: 0:26:39
+{EndTime}: 0:26:44
+{Text}: {Must be something incredible inside there generating it.} 
+
+{Index}: 177
+{StartTime}: 0:26:45
+{EndTime}: 0:26:47
+{Text}: {We're transmitting lingua code friendship messages...} 
+
+{Index}: 178
+{StartTime}: 0:26:47
+{EndTime}: 0:26:49
+{Text}: {on all frequencies.} 
+
+{Index}: 179
+{StartTime}: 0:26:49
+{EndTime}: 0:26:49
+{Text}: {No response.} 
+
+{Index}: 180
+{StartTime}: 0:26:50
+{EndTime}: 0:26:51
+{Text}: {have a null reading at the center of the cloud.} 
+
+{Index}: 181
+{StartTime}: 0:26:52
+{EndTime}: 0:26:55
+{Text}: {Definitely something inside there, but scans are being reflected back.} 
+
+{Index}: 182
+{StartTime}: 0:26:55
+{EndTime}: 0:26:58
+{Text}: {- Some kind of power surge.} {- Receiving an odd pattern now.} 
+
+{Index}: 183
+{StartTime}: 0:26:59
+{EndTime}: 0:27:2
+{Text}: {Enterprise, they could be mistaking our scans as a hostile act.} 
+
+{Index}: 184
+{StartTime}: 0:27:2
+{EndTime}: 0:27:4
+{Text}: {They seem to be reactingto our scans, Sir.} 
+
+{Index}: 185
+{StartTime}: 0:27:4
+{EndTime}: 0:27:6
+{Text}: {Deflectors, emergency full!} 
+
+{Index}: 186
+{StartTime}: 0:27:8
+{EndTime}: 0:27:10
+{Text}: {- We are under attack.} {- External view.} 
+
+{Index}: 187
+{StartTime}: 0:28:7
+{EndTime}: 0:28:8
+{Text}: {Viewer off.} 
+
+{Index}: 188
+{StartTime}: 0:28:10
+{EndTime}: 0:28:11
+{Text}: {Viewer off.} 
+
+{Index}: 189
+{StartTime}: 0:28:22
+{EndTime}: 0:28:25
+{Text}: {Prelaunch countdown will commence in 40 minutes.} 
+
+{Index}: 190
+{StartTime}: 0:28:45
+{EndTime}: 0:28:48
+{Text}: {Transporter system fully repaired and functioning normally, Sir.} 
+
+{Index}: 191
+{StartTime}: 0:28:48
+{EndTime}: 0:28:50
+{Text}: {Dock signals clear, Captain.} 
+
+{Index}: 192
+{StartTime}: 0:28:50
+{EndTime}: 0:28:53
+{Text}: {Reply we are holding position, awaiting final crew replacements.} 
+
+{Index}: 193
+{StartTime}: 0:28:53
+{EndTime}: 0:28:55
+{Text}: {Aye, Sir.} 
+
+{Index}: 194
+{StartTime}: 0:28:55
+{EndTime}: 0:28:57
+{Text}: {Transporter personnel reports...} 
+
+{Index}: 195
+{StartTime}: 0:28:57
+{EndTime}: 0:28:59
+{Text}: {the navigator, Lieutenant Ilia...} 
+
+{Index}: 196
+{StartTime}: 0:28:59
+{EndTime}: 0:29:2
+{Text}: {She's already aboard and en route to the bridge, Sir.} 
+
+{Index}: 197
+{StartTime}: 0:29:4
+{EndTime}: 0:29:7
+{Text}: {She's Deltan, Captain.} 
+
+{Index}: 198
+{StartTime}: 0:29:12
+{EndTime}: 0:29:14
+{Text}: {Lieutenant Ilia reporting for duty, Sir.} 
+
+{Index}: 199
+{StartTime}: 0:29:14
+{EndTime}: 0:29:16
+{Text}: {Welcome aboard, Lieutenant.} 
+
+{Index}: 200
+{StartTime}: 0:29:17
+{EndTime}: 0:29:19
+{Text}: {- Hello, Ilia.} {- Decker.} 
+
+{Index}: 201
+{StartTime}: 0:29:20
+{EndTime}: 0:29:23
+{Text}: {I was stationed on the lieutenant's home planet some years ago.} 
+
+{Index}: 202
+{StartTime}: 0:29:23
+{EndTime}: 0:29:25
+{Text}: {Commander Decker?} 
+
+{Index}: 203
+{StartTime}: 0:29:26
+{EndTime}: 0:29:28
+{Text}: {Yes, our exec and science officer.} 
+
+{Index}: 204
+{StartTime}: 0:29:28
+{EndTime}: 0:29:30
+{Text}: {Captain Kirk has the utmost confidence in me.} 
+
+{Index}: 205
+{StartTime}: 0:29:32
+{EndTime}: 0:29:34
+{Text}: {And in you, too, Lieutenant.} 
+
+{Index}: 206
+{StartTime}: 0:29:34
+{EndTime}: 0:29:37
+{Text}: {My oath of celibacy is on record, Captain.} 
+
+{Index}: 207
+{StartTime}: 0:29:37
+{EndTime}: 0:29:40
+{Text}: {- May I assume my duties?} {- By all means.} 
+
+{Index}: 208
+{StartTime}: 0:29:41
+{EndTime}: 0:29:45
+{Text}: {Starfleet reports our last six crew members are ready to beam up...} 
+
+{Index}: 209
+{StartTime}: 0:29:45
+{EndTime}: 0:29:49
+{Text}: {but one of them is refusing to step into the transporter.} 
+
+{Index}: 210
+{StartTime}: 0:29:49
+{EndTime}: 0:29:53
+{Text}: {Oh?} {I'll see to it that he beams up.} 
+
+{Index}: 211
+{StartTime}: 0:29:51
+{EndTime}: 0:29:53
+{Text}: {Transporter room.} 
+
+{Index}: 212
+{StartTime}: 0:30:14
+{EndTime}: 0:30:17
+{Text}: {Well, for a man who swore he'd never return to Starfleet...} 
+
+{Index}: 213
+{StartTime}: 0:30:17
+{EndTime}: 0:30:21
+{Text}: {Just a moment, Captain, Sir.} {I'll explain what happened.} 
+
+{Index}: 214
+{StartTime}: 0:30:22
+{EndTime}: 0:30:25
+{Text}: {Your revered Admiral Nogura invoked a little-known...} 
+
+{Index}: 215
+{StartTime}: 0:30:25
+{EndTime}: 0:30:28
+{Text}: {seldom-used reserve activation clause.} 
+
+{Index}: 216
+{StartTime}: 0:30:28
+{EndTime}: 0:30:31
+{Text}: {In simpler language, Captain, they drafted me!} 
+
+{Index}: 217
+{StartTime}: 0:30:31
+{EndTime}: 0:30:33
+{Text}: {They didn't.} 
+
+{Index}: 218
+{StartTime}: 0:30:35
+{EndTime}: 0:30:38
+{Text}: {This was your idea.} {This was your idea, wasn't it?} 
+
+{Index}: 219
+{StartTime}: 0:30:38
+{EndTime}: 0:30:39
+{Text}: {Bones, there's a thing out there.} 
+
+{Index}: 220
+{StartTime}: 0:30:39
+{EndTime}: 0:30:42
+{Text}: {Why is any object we don't understand always called a thing?} 
+
+{Index}: 221
+{StartTime}: 0:30:42
+{EndTime}: 0:30:45
+{Text}: {Headed this way.} {I need you.} 
+
+{Index}: 222
+{StartTime}: 0:30:48
+{EndTime}: 0:30:51
+{Text}: {Damn it, Bones, I need you.} 
+
+{Index}: 223
+{StartTime}: 0:30:52
+{EndTime}: 0:30:54
+{Text}: {Badly!} 
+
+{Index}: 224
+{StartTime}: 0:31:5
+{EndTime}: 0:31:7
+{Text}: {Permission to come aboard.} 
+
+{Index}: 225
+{StartTime}: 0:31:8
+{EndTime}: 0:31:10
+{Text}: {Permission granted, Sir.} 
+
+{Index}: 226
+{StartTime}: 0:31:14
+{EndTime}: 0:31:19
+{Text}: {Well, Jim, I hear Chapel's an MD now.} 
+
+{Index}: 227
+{StartTime}: 0:31:19
+{EndTime}: 0:31:21
+{Text}: {Well, I'm going to need a top nurse...} 
+
+{Index}: 228
+{StartTime}: 0:31:21
+{EndTime}: 0:31:24
+{Text}: {not a doctor who will argue every little diagnosis with me.} 
+
+{Index}: 229
+{StartTime}: 0:31:25
+{EndTime}: 0:31:28
+{Text}: {And they probably redesigned the whole sick bay too!} 
+
+{Index}: 230
+{StartTime}: 0:31:28
+{EndTime}: 0:31:31
+{Text}: {I know engineers.} {They love to change things.} 
+
+{Index}: 231
+{StartTime}: 0:31:51
+{EndTime}: 0:31:54
+{Text}: {Dock control reports ready, Sir.} 
+
+{Index}: 232
+{StartTime}: 0:31:55
+{EndTime}: 0:31:58
+{Text}: {- Helm ready, Sir.} {- Orbital departure on plot, Sir.} 
+
+{Index}: 233
+{StartTime}: 0:31:58
+{EndTime}: 0:32:0
+{Text}: {Yard command signaling clear, Sir.} 
+
+{Index}: 234
+{StartTime}: 0:32:0
+{EndTime}: 0:32:4
+{Text}: {- Maneuvering thrusters, Mr. Sulu.} {- Maneuvering thrusters, Sir.} 
+
+{Index}: 235
+{StartTime}: 0:32:4
+{EndTime}: 0:32:6
+{Text}: {Hold station.} 
+
+{Index}: 236
+{StartTime}: 0:32:6
+{EndTime}: 0:32:8
+{Text}: {Thrusters at station-keeping, Sir.} 
+
+{Index}: 237
+{StartTime}: 0:32:28
+{EndTime}: 0:32:30
+{Text}: {Thrusters ahead, Mr. Sulu.} 
+
+{Index}: 238
+{StartTime}: 0:32:34
+{EndTime}: 0:32:35
+{Text}: {Take us out.} 
+
+{Index}: 239
+{StartTime}: 0:33:55
+{EndTime}: 0:33:59
+{Text}: {Intermix set, Bridge.} {Impulse power at your discretion.} 
+
+{Index}: 240
+{StartTime}: 0:33:59
+{EndTime}: 0:34:1
+{Text}: {Impulse power, Mr. Sulu.} 
+
+{Index}: 241
+{StartTime}: 0:34:3
+{EndTime}: 0:34:6
+{Text}: {Ahead warp .5.} 
+
+{Index}: 242
+{StartTime}: 0:34:18
+{EndTime}: 0:34:20
+{Text}: {Departure angle on viewer.} 
+
+{Index}: 243
+{StartTime}: 0:34:20
+{EndTime}: 0:34:22
+{Text}: {Departure angle.} 
+
+{Index}: 244
+{StartTime}: 0:34:26
+{EndTime}: 0:34:29
+{Text}: {- Viewer ahead.} {- Viewer ahead.} 
+
+{Index}: 245
+{StartTime}: 0:34:51
+{EndTime}: 0:34:55
+{Text}: {Captain 's Log.: Stardate 7412.6...} 
+
+{Index}: 246
+{StartTime}: 0:34:55
+{EndTime}: 0:34:57
+{Text}: {1.8 hours from launch.} 
+
+{Index}: 247
+{StartTime}: 0:34:57
+{EndTime}: 0:35:1
+{Text}: {In order to intercept the intruder at the earliest possible time...} 
+
+{Index}: 248
+{StartTime}: 0:35:1
+{EndTime}: 0:35:5
+{Text}: {we must now risk engaging warp drive while still within the solar system.} 
+
+{Index}: 249
+{StartTime}: 0:35:5
+{EndTime}: 0:35:10
+{Text}: {Captain, assuming we have full warp capability...} 
+
+{Index}: 250
+{StartTime}: 0:35:10
+{EndTime}: 0:35:12
+{Text}: {accelerating to warp 7 on leaving the solar system...} 
+
+{Index}: 251
+{StartTime}: 0:35:12
+{EndTime}: 0:35:17
+{Text}: {will bring us to IP with the intruder in 20.1 hours.} 
+
+{Index}: 252
+{StartTime}: 0:35:17
+{EndTime}: 0:35:20
+{Text}: {Science Officer competition.} {Confirm, Sir} 
+
+{Index}: 253
+{StartTime}: 0:35:29
+{EndTime}: 0:35:33
+{Text}: {Well, Bones, do the new medical facilities meet with your approval?} 
+
+{Index}: 254
+{StartTime}: 0:35:33
+{EndTime}: 0:35:36
+{Text}: {They do not.} {It's like working in a damn computer center.} 
+
+{Index}: 255
+{StartTime}: 0:35:36
+{EndTime}: 0:35:39
+{Text}: {- Programming ready?} {- Set for standard warp entry.} 
+
+{Index}: 256
+{StartTime}: 0:35:40
+{EndTime}: 0:35:43
+{Text}: {But I still recommend further simulation study.} 
+
+{Index}: 257
+{StartTime}: 0:35:43
+{EndTime}: 0:35:48
+{Text}: {Mr. Decker, every minute brings that object closer to Earth.} 
+
+{Index}: 258
+{StartTime}: 0:35:49
+{EndTime}: 0:35:51
+{Text}: {Engineering, stand by for warp drive.} 
+
+{Index}: 259
+{StartTime}: 0:35:51
+{EndTime}: 0:35:53
+{Text}: {Captain, we need further warp simulation on the flow sensors.} 
+
+{Index}: 260
+{StartTime}: 0:35:54
+{EndTime}: 0:35:56
+{Text}: {Engineer, we need warp speed now!} 
+
+{Index}: 261
+{StartTime}: 0:35:56
+{EndTime}: 0:36:0
+{Text}: {Jim, you're pushing.} 
+
+{Index}: 262
+{StartTime}: 0:36:2
+{EndTime}: 0:36:5
+{Text}: {Your people know their jobs.} 
+
+{Index}: 263
+{StartTime}: 0:36:5
+{EndTime}: 0:36:8
+{Text}: {That's it, Sir.} {I can't do any better.} 
+
+{Index}: 264
+{StartTime}: 0:36:9
+{EndTime}: 0:36:11
+{Text}: {Aye, lad.} 
+
+{Index}: 265
+{StartTime}: 0:36:13
+{EndTime}: 0:36:16
+{Text}: {It's borderline on the simulator.} {I cannot guarantee she'll hold up.} 
+
+{Index}: 266
+{StartTime}: 0:36:16
+{EndTime}: 0:36:18
+{Text}: {Warp drive, Mr. Scott.} 
+
+{Index}: 267
+{StartTime}: 0:36:18
+{EndTime}: 0:36:22
+{Text}: {- Ahead warp 1 , Mr. Sulu.} {- Accelerating to warp 1, Sir.} 
+
+{Index}: 268
+{StartTime}: 0:36:24
+{EndTime}: 0:36:29
+{Text}: {Warp .7, .8.} 
+
+{Index}: 269
+{StartTime}: 0:36:40
+{EndTime}: 0:36:42
+{Text}: {Warp 1 , Sir.} 
+
+{Index}: 270
+{StartTime}: 0:36:43
+{EndTime}: 0:36:45
+{Text}: {Mr. Decker...} 
+
+{Index}: 271
+{StartTime}: 0:36:47
+{EndTime}: 0:36:51
+{Text}: {Wormhole.} {Get us back on impulse power.} {Full reverse.} 
+
+{Index}: 272
+{StartTime}: 0:37:4
+{EndTime}: 0:37:7
+{Text}: {Negative helm control, Captain.} {Going reverse on impulse power.} 
+
+{Index}: 273
+{StartTime}: 0:37:7
+{EndTime}: 0:37:9
+{Text}: {Subspace frequencies jammed, Sir!} 
+
+{Index}: 274
+{StartTime}: 0:37:9
+{EndTime}: 0:37:11
+{Text}: {Wormhole effect!} 
+
+{Index}: 275
+{StartTime}: 0:37:22
+{EndTime}: 0:37:24
+{Text}: {Negative control from inertial lag will continue 22.5 seconds...} 
+
+{Index}: 276
+{StartTime}: 0:37:25
+{EndTime}: 0:37:27
+{Text}: {before forward velocity slows to sublight speed.} 
+
+{Index}: 277
+{StartTime}: 0:37:27
+{EndTime}: 0:37:30
+{Text}: {Unidentified small object has been pulled into the wormhole with us.} 
+
+{Index}: 278
+{StartTime}: 0:37:30
+{EndTime}: 0:37:33
+{Text}: {- Directly ahead.} {- Force fields up full.} 
+
+{Index}: 279
+{StartTime}: 0:37:33
+{EndTime}: 0:37:35
+{Text}: {Put object on viewer.} 
+
+{Index}: 280
+{StartTime}: 0:37:39
+{EndTime}: 0:37:43
+{Text}: {- Go manual override on helm.} {- No manual response, Sir.} 
+
+{Index}: 281
+{StartTime}: 0:37:43
+{EndTime}: 0:37:45
+{Text}: {Navigational deflectors coming up, Sir.} 
+
+{Index}: 282
+{StartTime}: 0:37:45
+{EndTime}: 0:37:48
+{Text}: {Wormhole distortion has overloaded the main power systems.} 
+
+{Index}: 283
+{StartTime}: 0:37:48
+{EndTime}: 0:37:50
+{Text}: {Navigational deflectors inoperative, Captain.} 
+
+{Index}: 284
+{StartTime}: 0:37:51
+{EndTime}: 0:37:53
+{Text}: {Directional control also inoperative.} 
+
+{Index}: 285
+{StartTime}: 0:38:0
+{EndTime}: 0:38:2
+{Text}: {Time to impact?} 
+
+{Index}: 286
+{StartTime}: 0:38:2
+{EndTime}: 0:38:5
+{Text}: {Twenty seconds.} 
+
+{Index}: 287
+{StartTime}: 0:38:5
+{EndTime}: 0:38:8
+{Text}: {Mr. Chekov, stand by on phasers.} 
+
+{Index}: 288
+{StartTime}: 0:38:9
+{EndTime}: 0:38:10
+{Text}: {No!} 
+
+{Index}: 289
+{StartTime}: 0:38:13
+{EndTime}: 0:38:17
+{Text}: {Belay that phaser order!} 
+
+{Index}: 290
+{StartTime}: 0:38:27
+{EndTime}: 0:38:28
+{Text}: {Arm photon torpedoes!} 
+
+{Index}: 291
+{StartTime}: 0:38:30
+{EndTime}: 0:38:34
+{Text}: {Photon torpedoes...} 
+
+{Index}: 292
+{StartTime}: 0:38:44
+{EndTime}: 0:38:46
+{Text}: {armed!} 
+
+{Index}: 293
+{StartTime}: 0:38:52
+{EndTime}: 0:38:55
+{Text}: {Object is an asteroid.} 
+
+{Index}: 294
+{StartTime}: 0:38:55
+{EndTime}: 0:38:58
+{Text}: {Reading mass .7.} 
+
+{Index}: 295
+{StartTime}: 0:39:0
+{EndTime}: 0:39:2
+{Text}: {Targeting...} 
+
+{Index}: 296
+{StartTime}: 0:39:3
+{EndTime}: 0:39:6
+{Text}: {asteroid!} 
+
+{Index}: 297
+{StartTime}: 0:39:7
+{EndTime}: 0:39:10
+{Text}: {Impact in ten seconds.} 
+
+{Index}: 298
+{StartTime}: 0:39:16
+{EndTime}: 0:39:19
+{Text}: {Impact in eight seconds.} 
+
+{Index}: 299
+{StartTime}: 0:39:19
+{EndTime}: 0:39:22
+{Text}: {- Fire torpedoes!} {- Six!} 
+
+{Index}: 300
+{StartTime}: 0:39:22
+{EndTime}: 0:39:25
+{Text}: {Torpedoes away!} 
+
+{Index}: 301
+{StartTime}: 0:39:25
+{EndTime}: 0:39:27
+{Text}: {Five!} 
+
+{Index}: 302
+{StartTime}: 0:40:1
+{EndTime}: 0:40:3
+{Text}: {Helm control restored, Sir.} 
+
+{Index}: 303
+{StartTime}: 0:40:6
+{EndTime}: 0:40:10
+{Text}: {- Position report, Navigator.} {- Computing new intersection course.} 
+
+{Index}: 304
+{StartTime}: 0:40:10
+{EndTime}: 0:40:12
+{Text}: {Communications are normal, Sir.} 
+
+{Index}: 305
+{StartTime}: 0:40:12
+{EndTime}: 0:40:14
+{Text}: {Negative damage reported, Captain.} 
+
+{Index}: 306
+{StartTime}: 0:40:14
+{EndTime}: 0:40:16
+{Text}: {No casualties reported, Doctor.} 
+
+{Index}: 307
+{StartTime}: 0:40:16
+{EndTime}: 0:40:19
+{Text}: {Wrong, Mr. Chekov.There are casualties.} 
+
+{Index}: 308
+{StartTime}: 0:40:19
+{EndTime}: 0:40:24
+{Text}: {My wits, as in "frightened out of," Captain, Sir.} 
+
+{Index}: 309
+{StartTime}: 0:40:25
+{EndTime}: 0:40:28
+{Text}: {We were at warp .8.} {Engineer, report your status there.} 
+
+{Index}: 310
+{StartTime}: 0:40:29
+{EndTime}: 0:40:33
+{Text}: {In just a second, Exec.} {We're picking up the pieces down here.} 
+
+{Index}: 311
+{StartTime}: 0:40:35
+{EndTime}: 0:40:37
+{Text}: {Mr. Scott, we need warp drive as soon as possible.} 
+
+{Index}: 312
+{StartTime}: 0:40:37
+{EndTime}: 0:40:41
+{Text}: {The engine imbalance created the wormhole in the first place.} 
+
+{Index}: 313
+{StartTime}: 0:40:41
+{EndTime}: 0:40:43
+{Text}: {It'll happen again if we don't correct it.} 
+
+{Index}: 314
+{StartTime}: 0:40:44
+{EndTime}: 0:40:46
+{Text}: {That object is less than two days away from Earth.} 
+
+{Index}: 315
+{StartTime}: 0:40:46
+{EndTime}: 0:40:48
+{Text}: {We need to intercept while it still is out there.} 
+
+{Index}: 316
+{StartTime}: 0:40:49
+{EndTime}: 0:40:54
+{Text}: {Lay in a heading to conform with our initial IP with the intruder.} 
+
+{Index}: 317
+{StartTime}: 0:40:54
+{EndTime}: 0:40:56
+{Text}: {Mr. Sulu, you have the com.} {Mr. Decker.} 
+
+{Index}: 318
+{StartTime}: 0:40:57
+{EndTime}: 0:41:1
+{Text}: {-I'd like to see you in my quarters.} {-Mind if I tag along, Captain?} 
+
+{Index}: 319
+{StartTime}: 0:41:5
+{EndTime}: 0:41:7
+{Text}: {Level 5.} 
+
+{Index}: 320
+{StartTime}: 0:41:14
+{EndTime}: 0:41:17
+{Text}: {All right, explanation.} {Why was my phaser order countermanded?} 
+
+{Index}: 321
+{StartTime}: 0:41:17
+{EndTime}: 0:41:19
+{Text}: {The Enterprise redesign increases phaser power...} 
+
+{Index}: 322
+{StartTime}: 0:41:19
+{EndTime}: 0:41:21
+{Text}: {by channeling it through the main engines.} 
+
+{Index}: 323
+{StartTime}: 0:41:22
+{EndTime}: 0:41:24
+{Text}: {When they went into antimatter imbalance...} 
+
+{Index}: 324
+{StartTime}: 0:41:24
+{EndTime}: 0:41:26
+{Text}: {the phasers were automatically cut off.} 
+
+{Index}: 325
+{StartTime}: 0:41:30
+{EndTime}: 0:41:32
+{Text}: {Then you acted properly, of course.} 
+
+{Index}: 326
+{StartTime}: 0:41:33
+{EndTime}: 0:41:35
+{Text}: {Thank you, Sir.} 
+
+{Index}: 327
+{StartTime}: 0:41:36
+{EndTime}: 0:41:39
+{Text}: {I'm sorry if I embarrassed you.} 
+
+{Index}: 328
+{StartTime}: 0:41:39
+{EndTime}: 0:41:42
+{Text}: {- You saved the ship.} {- I'm aware of that, Sir.} 
+
+{Index}: 329
+{StartTime}: 0:41:43
+{EndTime}: 0:41:45
+{Text}: {Stop competing with me, Decker.} 
+
+{Index}: 330
+{StartTime}: 0:41:48
+{EndTime}: 0:41:50
+{Text}: {- Permission to speak freely, Sir?} {- Granted.} 
+
+{Index}: 331
+{StartTime}: 0:41:50
+{EndTime}: 0:41:55
+{Text}: {Sir, you haven't logged a single star hour in two-and-a-half years.} 
+
+{Index}: 332
+{StartTime}: 0:41:55
+{EndTime}: 0:41:57
+{Text}: {That, plus your unfamiliarity with the ship's redesign...} 
+
+{Index}: 333
+{StartTime}: 0:41:57
+{EndTime}: 0:42:0
+{Text}: {in my opinion, Sir, seriously jeopardizes this mission.} 
+
+{Index}: 334
+{StartTime}: 0:42:6
+{EndTime}: 0:42:8
+{Text}: {I trust you will...} 
+
+{Index}: 335
+{StartTime}: 0:42:9
+{EndTime}: 0:42:12
+{Text}: {nursemaid me through these difficulties?} 
+
+{Index}: 336
+{StartTime}: 0:42:12
+{EndTime}: 0:42:14
+{Text}: {Yes, Sir, I'll do that.} 
+
+{Index}: 337
+{StartTime}: 0:42:14
+{EndTime}: 0:42:17
+{Text}: {Then I won't keep you from your duties any longer, Commander.} 
+
+{Index}: 338
+{StartTime}: 0:42:17
+{EndTime}: 0:42:19
+{Text}: {- Yes, Doctor?} {- Aye, Sir.} 
+
+{Index}: 339
+{StartTime}: 0:42:25
+{EndTime}: 0:42:27
+{Text}: {He may be right, Jim.} 
+
+{Index}: 340
+{StartTime}: 0:42:36
+{EndTime}: 0:42:39
+{Text}: {- Was it difficult?} {- No more than I expected.} 
+
+{Index}: 341
+{StartTime}: 0:42:40
+{EndTime}: 0:42:44
+{Text}: {About as difficult as seeing you again.} 
+
+{Index}: 342
+{StartTime}: 0:42:44
+{EndTime}: 0:42:48
+{Text}: {- I'm sorry.} {- That you left Delta IV?} 
+
+{Index}: 343
+{StartTime}: 0:42:48
+{EndTime}: 0:42:50
+{Text}: {Or that you didn't even say good-bye?} 
+
+{Index}: 344
+{StartTime}: 0:42:52
+{EndTime}: 0:42:56
+{Text}: {If I had seen you again...} 
+
+{Index}: 345
+{StartTime}: 0:42:56
+{EndTime}: 0:42:57
+{Text}: {would you have been able to say it?} 
+
+{Index}: 346
+{StartTime}: 0:43:0
+{EndTime}: 0:43:2
+{Text}: {No.} 
+
+{Index}: 347
+{StartTime}: 0:43:14
+{EndTime}: 0:43:16
+{Text}: {Make your point, Doctor.} 
+
+{Index}: 348
+{StartTime}: 0:43:16
+{EndTime}: 0:43:19
+{Text}: {The point, Captain, is that it's you who is competing.} 
+
+{Index}: 349
+{StartTime}: 0:43:19
+{EndTime}: 0:43:21
+{Text}: {You rammed getting this command down Starfleet's throat.} 
+
+{Index}: 350
+{StartTime}: 0:43:22
+{EndTime}: 0:43:25
+{Text}: {You've used this emergency to get the Enterprise back.} 
+
+{Index}: 351
+{StartTime}: 0:43:28
+{EndTime}: 0:43:30
+{Text}: {And I intend to keep her, is that what you're saying?} 
+
+{Index}: 352
+{StartTime}: 0:43:30
+{EndTime}: 0:43:31
+{Text}: {Yes.} 
+
+{Index}: 353
+{StartTime}: 0:43:32
+{EndTime}: 0:43:33
+{Text}: {It's an obsession.} 
+
+{Index}: 354
+{StartTime}: 0:43:33
+{EndTime}: 0:43:35
+{Text}: {An obsession that can blind you...} 
+
+{Index}: 355
+{StartTime}: 0:43:35
+{EndTime}: 0:43:39
+{Text}: {to far more immediate and critical responsibilities.} 
+
+{Index}: 356
+{StartTime}: 0:43:39
+{EndTime}: 0:43:43
+{Text}: {Your reaction to Decker is an example, Jim.} 
+
+{Index}: 357
+{StartTime}: 0:43:43
+{EndTime}: 0:43:47
+{Text}: {- Bridge to Captain.} {- Viewer on.} 
+
+{Index}: 358
+{StartTime}: 0:43:47
+{EndTime}: 0:43:50
+{Text}: {Signal from a Federation registered long-range shuttle, Sir.} 
+
+{Index}: 359
+{StartTime}: 0:43:50
+{EndTime}: 0:43:53
+{Text}: {She wishes to come alongside and lock on.} 
+
+{Index}: 360
+{StartTime}: 0:43:53
+{EndTime}: 0:43:55
+{Text}: {For what purpose?} 
+
+{Index}: 361
+{StartTime}: 0:43:55
+{EndTime}: 0:43:58
+{Text}: {My security scan shows it has a grade-one priority, Captain.} 
+
+{Index}: 362
+{StartTime}: 0:43:58
+{EndTime}: 0:44:0
+{Text}: {Non belligerency confirmed.} 
+
+{Index}: 363
+{StartTime}: 0:44:0
+{EndTime}: 0:44:3
+{Text}: {I suspect it is a courier of some kind.} 
+
+{Index}: 364
+{StartTime}: 0:44:3
+{EndTime}: 0:44:6
+{Text}: {Very well, Mr. Chekov.} {See to it.} 
+
+{Index}: 365
+{StartTime}: 0:44:6
+{EndTime}: 0:44:9
+{Text}: {Viewer off.} 
+
+{Index}: 366
+{StartTime}: 0:44:9
+{EndTime}: 0:44:12
+{Text}: {Your opinion has been noted.} {Anything further?} 
+
+{Index}: 367
+{StartTime}: 0:44:14
+{EndTime}: 0:44:15
+{Text}: {That depends on you.} 
+
+{Index}: 368
+{StartTime}: 0:45:27
+{EndTime}: 0:45:32
+{Text}: {Security scan.: one boarder.} {Identity: Starfleet, inactive.} 
+
+{Index}: 369
+{StartTime}: 0:45:38
+{EndTime}: 0:45:41
+{Text}: {- Permission to come aboard, Sir.} {- Granted, Sir.} 
+
+{Index}: 370
+{StartTime}: 0:45:40
+{EndTime}: 0:45:43
+{Text}: {Gran... ted.} 
+
+{Index}: 371
+{StartTime}: 0:45:53
+{EndTime}: 0:45:55
+{Text}: {Why... Why, it's Mister...} 
+
+{Index}: 372
+{StartTime}: 0:45:55
+{EndTime}: 0:45:58
+{Text}: {Spock!} 
+
+{Index}: 373
+{StartTime}: 0:46:0
+{EndTime}: 0:46:2
+{Text}: {Spock.} 
+
+{Index}: 374
+{StartTime}: 0:46:7
+{EndTime}: 0:46:10
+{Text}: {Commander, if I may?} 
+
+{Index}: 375
+{StartTime}: 0:46:11
+{EndTime}: 0:46:13
+{Text}: {If... Oh.} 
+
+{Index}: 376
+{StartTime}: 0:46:22
+{EndTime}: 0:46:26
+{Text}: {I've been monitoring your communications with Starfleet.} 
+
+{Index}: 377
+{StartTime}: 0:46:27
+{EndTime}: 0:46:29
+{Text}: {I'm aware of your engine design difficulties.} 
+
+{Index}: 378
+{StartTime}: 0:46:31
+{EndTime}: 0:46:34
+{Text}: {I offer my services as science officer...} 
+
+{Index}: 379
+{StartTime}: 0:46:34
+{EndTime}: 0:46:37
+{Text}: {with all due respect, Commander.} 
+
+{Index}: 380
+{StartTime}: 0:46:37
+{EndTime}: 0:46:39
+{Text}: {- If our exec has no objections.} {- Of course not.} 
+
+{Index}: 381
+{StartTime}: 0:46:39
+{EndTime}: 0:46:41
+{Text}: {I'm well aware of Mr. Spock's qualifications.} 
+
+{Index}: 382
+{StartTime}: 0:46:41
+{EndTime}: 0:46:45
+{Text}: {Mr. Chekov, log Mr. Spock's Starfleet commission reactivated.} 
+
+{Index}: 383
+{StartTime}: 0:46:45
+{EndTime}: 0:46:50
+{Text}: {List him as science officer.} {Both effective immediately.} 
+
+{Index}: 384
+{StartTime}: 0:46:51
+{EndTime}: 0:46:53
+{Text}: {Mr. Spock.} 
+
+{Index}: 385
+{StartTime}: 0:46:53
+{EndTime}: 0:46:55
+{Text}: {Well, so help me, I'm actually pleased to see you.} 
+
+{Index}: 386
+{StartTime}: 0:47:8
+{EndTime}: 0:47:10
+{Text}: {It's how we all feel, Mr. Spock.} 
+
+{Index}: 387
+{StartTime}: 0:47:10
+{EndTime}: 0:47:12
+{Text}: {Captain, with your permission...} 
+
+{Index}: 388
+{StartTime}: 0:47:12
+{EndTime}: 0:47:14
+{Text}: {I will now discuss these fuel equations with the engineer.} 
+
+{Index}: 389
+{StartTime}: 0:47:19
+{EndTime}: 0:47:21
+{Text}: {Mr. Spock.} 
+
+{Index}: 390
+{StartTime}: 0:47:21
+{EndTime}: 0:47:23
+{Text}: {Welcome aboard.} 
+
+{Index}: 391
+{StartTime}: 0:47:45
+{EndTime}: 0:47:49
+{Text}: {Captain 's Log.: Stardate 7413.4.} 
+
+{Index}: 392
+{StartTime}: 0:47:49
+{EndTime}: 0:47:53
+{Text}: {Thanks to Mr. Spock's timely arrival and assistance...} 
+
+{Index}: 393
+{StartTime}: 0:47:53
+{EndTime}: 0:47:57
+{Text}: {we have the engines rebalanced into full warp capacity.} 
+
+{Index}: 394
+{StartTime}: 0:47:57
+{EndTime}: 0:47:59
+{Text}: {Repair time.: less than three hours.} 
+
+{Index}: 395
+{StartTime}: 0:47:59
+{EndTime}: 0:48:1
+{Text}: {Which means we will now be able to intercept intruder...} 
+
+{Index}: 396
+{StartTime}: 0:48:1
+{EndTime}: 0:48:3
+{Text}: {while still more than a day from Earth.} 
+
+{Index}: 397
+{StartTime}: 0:48:5
+{EndTime}: 0:48:7
+{Text}: {Warp .8.} 
+
+{Index}: 398
+{StartTime}: 0:48:12
+{EndTime}: 0:48:14
+{Text}: {.9.} 
+
+{Index}: 399
+{StartTime}: 0:48:21
+{EndTime}: 0:48:22
+{Text}: {Warp 2, Sir.} 
+
+{Index}: 400
+{StartTime}: 0:48:25
+{EndTime}: 0:48:26
+{Text}: {Warp 3.} 
+
+{Index}: 401
+{StartTime}: 0:48:29
+{EndTime}: 0:48:31
+{Text}: {Warp 4.} 
+
+{Index}: 402
+{StartTime}: 0:48:33
+{EndTime}: 0:48:35
+{Text}: {Warp 5.} 
+
+{Index}: 403
+{StartTime}: 0:48:37
+{EndTime}: 0:48:38
+{Text}: {Warp 6.} 
+
+{Index}: 404
+{StartTime}: 0:48:45
+{EndTime}: 0:48:48
+{Text}: {Warp 7.} 
+
+{Index}: 405
+{StartTime}: 0:49:2
+{EndTime}: 0:49:5
+{Text}: {Science Officer Spock, reporting as ordered, Captain.} 
+
+{Index}: 406
+{StartTime}: 0:49:6
+{EndTime}: 0:49:9
+{Text}: {Please, sit down.} 
+
+{Index}: 407
+{StartTime}: 0:49:9
+{EndTime}: 0:49:11
+{Text}: {Spock, you haven't changed a bit.} 
+
+{Index}: 408
+{StartTime}: 0:49:11
+{EndTime}: 0:49:14
+{Text}: {You're just as warm and sociable as ever.} 
+
+{Index}: 409
+{StartTime}: 0:49:14
+{EndTime}: 0:49:16
+{Text}: {Nor have you, Doctor...} 
+
+{Index}: 410
+{StartTime}: 0:49:16
+{EndTime}: 0:49:19
+{Text}: {as your continued predilection for irrelevancy demonstrates.} 
+
+{Index}: 411
+{StartTime}: 0:49:19
+{EndTime}: 0:49:20
+{Text}: {Gentlemen.} 
+
+{Index}: 412
+{StartTime}: 0:49:23
+{EndTime}: 0:49:25
+{Text}: {At last report, you were on Vulcan...} 
+
+{Index}: 413
+{StartTime}: 0:49:25
+{EndTime}: 0:49:27
+{Text}: {apparently to stay.} 
+
+{Index}: 414
+{StartTime}: 0:49:28
+{EndTime}: 0:49:32
+{Text}: {Yes, you were undergoing the ''Kolanear'' discipline.} 
+
+{Index}: 415
+{StartTime}: 0:49:32
+{EndTime}: 0:49:33
+{Text}: {Sit down.} 
+
+{Index}: 416
+{StartTime}: 0:49:33
+{EndTime}: 0:49:37
+{Text}: {If you are referring to the Kolinahr, Doctor, you are correct.} 
+
+{Index}: 417
+{StartTime}: 0:49:38
+{EndTime}: 0:49:42
+{Text}: {Well, however it's pronounced, Mr. Spock, it's the Vulcan ritual...} 
+
+{Index}: 418
+{StartTime}: 0:49:42
+{EndTime}: 0:49:46
+{Text}: {that's supposed to purge all remaining emotions.} 
+
+{Index}: 419
+{StartTime}: 0:49:46
+{EndTime}: 0:49:50
+{Text}: {The Kolinahr is also a discipline you broke to join us.} 
+
+{Index}: 420
+{StartTime}: 0:49:52
+{EndTime}: 0:49:57
+{Text}: {Will you, please, sit down?} 
+
+{Index}: 421
+{StartTime}: 0:50:7
+{EndTime}: 0:50:9
+{Text}: {On Vulcan I began sensing a consciousness...} 
+
+{Index}: 422
+{StartTime}: 0:50:9
+{EndTime}: 0:50:13
+{Text}: {from a source more powerful than I have ever encountered.} 
+
+{Index}: 423
+{StartTime}: 0:50:13
+{EndTime}: 0:50:16
+{Text}: {Thought patterns of exactingly perfect order.} 
+
+{Index}: 424
+{StartTime}: 0:50:16
+{EndTime}: 0:50:19
+{Text}: {I believe they emanate from the intruder.} 
+
+{Index}: 425
+{StartTime}: 0:50:19
+{EndTime}: 0:50:22
+{Text}: {I believe it may hold my answers.} 
+
+{Index}: 426
+{StartTime}: 0:50:22
+{EndTime}: 0:50:25
+{Text}: {Isn't it lucky for you that we just happened to be heading your way?} 
+
+{Index}: 427
+{StartTime}: 0:50:26
+{EndTime}: 0:50:28
+{Text}: {Bones!} 
+
+{Index}: 428
+{StartTime}: 0:50:29
+{EndTime}: 0:50:31
+{Text}: {We need him.} 
+
+{Index}: 429
+{StartTime}: 0:50:32
+{EndTime}: 0:50:34
+{Text}: {I need him.} 
+
+{Index}: 430
+{StartTime}: 0:50:36
+{EndTime}: 0:50:38
+{Text}: {Then my presence is to our mutual advantage.} 
+
+{Index}: 431
+{StartTime}: 0:50:44
+{EndTime}: 0:50:48
+{Text}: {Any thought patterns you might sense...} 
+
+{Index}: 432
+{StartTime}: 0:50:49
+{EndTime}: 0:50:51
+{Text}: {whether they appear to affect you personally or not...} 
+
+{Index}: 433
+{StartTime}: 0:50:51
+{EndTime}: 0:50:53
+{Text}: {I expect immediately reported.} 
+
+{Index}: 434
+{StartTime}: 0:50:53
+{EndTime}: 0:50:55
+{Text}: {Of course, Captain.} 
+
+{Index}: 435
+{StartTime}: 0:50:55
+{EndTime}: 0:50:59
+{Text}: {- Is there anything else?} {- No.} 
+
+{Index}: 436
+{StartTime}: 0:51:9
+{EndTime}: 0:51:11
+{Text}: {Jim?} 
+
+{Index}: 437
+{StartTime}: 0:51:14
+{EndTime}: 0:51:16
+{Text}: {If this super intelligence...} 
+
+{Index}: 438
+{StartTime}: 0:51:16
+{EndTime}: 0:51:20
+{Text}: {is as important to him as he says it is, how do we know...} 
+
+{Index}: 439
+{StartTime}: 0:51:21
+{EndTime}: 0:51:23
+{Text}: {That he wouldn't put his own interests ahead of the ship's?} 
+
+{Index}: 440
+{StartTime}: 0:51:26
+{EndTime}: 0:51:28
+{Text}: {I could never believe that.} 
+
+{Index}: 441
+{StartTime}: 0:51:28
+{EndTime}: 0:51:30
+{Text}: {Bridge to Officers' Lounge.} {Captain Kirk.} 
+
+{Index}: 442
+{StartTime}: 0:51:30
+{EndTime}: 0:51:33
+{Text}: {Revised estimate on cloud visual contact.:3.7minutes.} 
+
+{Index}: 443
+{StartTime}: 0:51:49
+{EndTime}: 0:51:51
+{Text}: {Standard light, Engineer.} 
+
+{Index}: 444
+{StartTime}: 0:51:53
+{EndTime}: 0:51:55
+{Text}: {- Full mag on viewer.} {- Full mag, Sir.} 
+
+{Index}: 445
+{StartTime}: 0:52:4
+{EndTime}: 0:52:5
+{Text}: {Lingua code?} 
+
+{Index}: 446
+{StartTime}: 0:52:5
+{EndTime}: 0:52:8
+{Text}: {Continuing friendship messages on all frequencies, Sir.} 
+
+{Index}: 447
+{StartTime}: 0:52:8
+{EndTime}: 0:52:10
+{Text}: {All decks and divisions confirmed.} {Status red.} 
+
+{Index}: 448
+{StartTime}: 0:52:10
+{EndTime}: 0:52:12
+{Text}: {Captain, we are being scanned.} 
+
+{Index}: 449
+{StartTime}: 0:52:12
+{EndTime}: 0:52:15
+{Text}: {Do not return scan, Mr. Spock.} 
+
+{Index}: 450
+{StartTime}: 0:52:15
+{EndTime}: 0:52:17
+{Text}: {It could be misinterpreted as hostility.} 
+
+{Index}: 451
+{StartTime}: 0:52:17
+{EndTime}: 0:52:20
+{Text}: {Intruder scans emanating from the exact center of the cloud.} 
+
+{Index}: 452
+{StartTime}: 0:52:21
+{EndTime}: 0:52:22
+{Text}: {Energy of a type...} 
+
+{Index}: 453
+{StartTime}: 0:52:23
+{EndTime}: 0:52:25
+{Text}: {never before encountered.} 
+
+{Index}: 454
+{StartTime}: 0:52:33
+{EndTime}: 0:52:35
+{Text}: {There's no response to friendship messages, Sir.} 
+
+{Index}: 455
+{StartTime}: 0:52:35
+{EndTime}: 0:52:37
+{Text}: {- Shall I go to battle stations?} {- Negative.} 
+
+{Index}: 456
+{StartTime}: 0:52:37
+{EndTime}: 0:52:38
+{Text}: {We'll take no provocative action.} 
+
+{Index}: 457
+{StartTime}: 0:52:38
+{EndTime}: 0:52:41
+{Text}: {Recommend defensive posture, Captain.} {Screens and shields.} 
+
+{Index}: 458
+{StartTime}: 0:52:43
+{EndTime}: 0:52:48
+{Text}: {No, Mr. Decker, that could also be misinterpreted as hostile.} 
+
+{Index}: 459
+{StartTime}: 0:52:49
+{EndTime}: 0:52:51
+{Text}: {Cloud composition, Mr. Spock?} 
+
+{Index}: 460
+{StartTime}: 0:52:51
+{EndTime}: 0:52:53
+{Text}: {- Twelfth-power energy field.} {- Twelfth-power?} 
+
+{Index}: 461
+{StartTime}: 0:52:53
+{EndTime}: 0:52:56
+{Text}: {We've seen what their weapons can do.} {Shouldn't we take every precaution?} 
+
+{Index}: 462
+{StartTime}: 0:52:56
+{EndTime}: 0:52:58
+{Text}: {- Mr. Decker... - Captain.} 
+
+{Index}: 463
+{StartTime}: 0:52:59
+{EndTime}: 0:53:2
+{Text}: {I suspect there's an object at the heart of that cloud.} 
+
+{Index}: 464
+{StartTime}: 0:53:6
+{EndTime}: 0:53:10
+{Text}: {Mr. Decker, I will not provoke an attack.} {If that order isn't clear enough...} 
+
+{Index}: 465
+{StartTime}: 0:53:10
+{EndTime}: 0:53:12
+{Text}: {Captain, as your exec it's my duty...} 
+
+{Index}: 466
+{StartTime}: 0:53:12
+{EndTime}: 0:53:14
+{Text}: {to point out alternatives.} 
+
+{Index}: 467
+{StartTime}: 0:53:16
+{EndTime}: 0:53:17
+{Text}: {Yes, it is.} 
+
+{Index}: 468
+{StartTime}: 0:53:18
+{EndTime}: 0:53:20
+{Text}: {I stand corrected.} 
+
+{Index}: 469
+{StartTime}: 0:53:20
+{EndTime}: 0:53:21
+{Text}: {Five minutes to cloud boundary.} 
+
+{Index}: 470
+{StartTime}: 0:53:22
+{EndTime}: 0:53:26
+{Text}: {Navigator, lay in a conic section flight path to the cloud center.} 
+
+{Index}: 471
+{StartTime}: 0:53:26
+{EndTime}: 0:53:29
+{Text}: {Bring us parallel to whatever we find in there.} 
+
+{Index}: 472
+{StartTime}: 0:53:29
+{EndTime}: 0:53:31
+{Text}: {Mr. Sulu, tactical plot on viewer.} 
+
+{Index}: 473
+{StartTime}: 0:53:31
+{EndTime}: 0:53:32
+{Text}: {Tactical on viewer, Sir.} 
+
+{Index}: 474
+{StartTime}: 0:53:47
+{EndTime}: 0:53:49
+{Text}: {That measures 12th-power energy?} 
+
+{Index}: 475
+{StartTime}: 0:53:51
+{EndTime}: 0:53:54
+{Text}: {Thousands of starships couldn't generate that much...} 
+
+{Index}: 476
+{StartTime}: 0:53:54
+{EndTime}: 0:53:56
+{Text}: {Mr. Spock?} 
+
+{Index}: 477
+{StartTime}: 0:54:0
+{EndTime}: 0:54:2
+{Text}: {Spock, tell me.} 
+
+{Index}: 478
+{StartTime}: 0:54:9
+{EndTime}: 0:54:12
+{Text}: {I sense...} 
+
+{Index}: 479
+{StartTime}: 0:54:12
+{EndTime}: 0:54:13
+{Text}: {puzzlement.} 
+
+{Index}: 480
+{StartTime}: 0:54:14
+{EndTime}: 0:54:16
+{Text}: {We have been contacted.} 
+
+{Index}: 481
+{StartTime}: 0:54:18
+{EndTime}: 0:54:20
+{Text}: {Why have we not replied?} 
+
+{Index}: 482
+{StartTime}: 0:54:20
+{EndTime}: 0:54:22
+{Text}: {Contacted?} 
+
+{Index}: 483
+{StartTime}: 0:54:22
+{EndTime}: 0:54:24
+{Text}: {How?} 
+
+{Index}: 484
+{StartTime}: 0:54:26
+{EndTime}: 0:54:28
+{Text}: {Force fields up full.} {Deflectors, now.} 
+
+{Index}: 485
+{StartTime}: 0:54:31
+{EndTime}: 0:54:35
+{Text}: {Force fields and deflectors up full, Captain.} 
+
+{Index}: 486
+{StartTime}: 0:54:42
+{EndTime}: 0:54:43
+{Text}: {Analysis, Mr. Spock.} 
+
+{Index}: 487
+{StartTime}: 0:54:43
+{EndTime}: 0:54:46
+{Text}: {Alien weapon is a form of plasma energy, Captain.} 
+
+{Index}: 488
+{StartTime}: 0:54:46
+{EndTime}: 0:54:48
+{Text}: {Exact composition unknown.} 
+
+{Index}: 489
+{StartTime}: 0:54:48
+{EndTime}: 0:54:50
+{Text}: {Guidance system unknown.} 
+
+{Index}: 490
+{StartTime}: 0:54:53
+{EndTime}: 0:54:55
+{Text}: {All decks, brace for impact.} 
+
+{Index}: 491
+{StartTime}: 0:55:5
+{EndTime}: 0:55:7
+{Text}: {Engineering, status report.} 
+
+{Index}: 492
+{StartTime}: 0:55:7
+{EndTime}: 0:55:8
+{Text}: {Systems overloading, Captain.} 
+
+{Index}: 493
+{StartTime}: 0:55:18
+{EndTime}: 0:55:19
+{Text}: {Medic.} 
+
+{Index}: 494
+{StartTime}: 0:55:20
+{EndTime}: 0:55:22
+{Text}: {Medics are coming.} 
+
+{Index}: 495
+{StartTime}: 0:55:34
+{EndTime}: 0:55:35
+{Text}: {Engineering to Bridge.} 
+
+{Index}: 496
+{StartTime}: 0:55:35
+{EndTime}: 0:55:37
+{Text}: {Cannot hold full power on force fields.} 
+
+{Index}: 497
+{StartTime}: 0:55:37
+{EndTime}: 0:55:39
+{Text}: {Deflector power is down 70 percent.} 
+
+{Index}: 498
+{StartTime}: 0:55:40
+{EndTime}: 0:55:42
+{Text}: {Divert auxiliary power to deflectors.} 
+
+{Index}: 499
+{StartTime}: 0:55:46
+{EndTime}: 0:55:46
+{Text}: {Captain.} 
+
+{Index}: 500
+{StartTime}: 0:55:48
+{EndTime}: 0:55:50
+{Text}: {The intruder has been attempting to communicate.} 
+
+{Index}: 501
+{StartTime}: 0:55:54
+{EndTime}: 0:55:56
+{Text}: {I am now programming our computer...} 
+
+{Index}: 502
+{StartTime}: 0:55:56
+{EndTime}: 0:55:59
+{Text}: {to transmit lingua code at their frequency and rate of speed.} 
+
+{Index}: 503
+{StartTime}: 0:55:59
+{EndTime}: 0:56:1
+{Text}: {Commander.} 
+
+{Index}: 504
+{StartTime}: 0:56:10
+{EndTime}: 0:56:12
+{Text}: {Spock!} 
+
+{Index}: 505
+{StartTime}: 0:56:17
+{EndTime}: 0:56:18
+{Text}: {Here it comes.} 
+
+{Index}: 506
+{StartTime}: 0:56:19
+{EndTime}: 0:56:21
+{Text}: {Engineering, what's happening to our force field?} 
+
+{Index}: 507
+{StartTime}: 0:56:20
+{EndTime}: 0:56:23
+{Text}: {Our shields cannot handle another attack.} 
+
+{Index}: 508
+{StartTime}: 0:56:23
+{EndTime}: 0:56:25
+{Text}: {Mr. Spock.} 
+
+{Index}: 509
+{StartTime}: 0:56:29
+{EndTime}: 0:56:31
+{Text}: {Impact in 20 seconds} 
+
+{Index}: 510
+{StartTime}: 0:56:33
+{EndTime}: 0:56:34
+{Text}: {Spock.} 
+
+{Index}: 511
+{StartTime}: 0:56:34
+{EndTime}: 0:56:36
+{Text}: {Fifteen seconds.} 
+
+{Index}: 512
+{StartTime}: 0:56:36
+{EndTime}: 0:56:38
+{Text}: {Spock, transmit now.} 
+
+{Index}: 513
+{StartTime}: 0:56:38
+{EndTime}: 0:56:40
+{Text}: {Ten seconds.} 
+
+{Index}: 514
+{StartTime}: 0:56:41
+{EndTime}: 0:56:42
+{Text}: {Transmitting.} 
+
+{Index}: 515
+{StartTime}: 0:56:54
+{EndTime}: 0:56:56
+{Text}: {It would seem our friendship messages...} 
+
+{Index}: 516
+{StartTime}: 0:56:56
+{EndTime}: 0:56:58
+{Text}: {have been received and understood, Mr. Spock.} 
+
+{Index}: 517
+{StartTime}: 0:56:58
+{EndTime}: 0:57:1
+{Text}: {I would say that was a logical assumption, Captain.} 
+
+{Index}: 518
+{StartTime}: 0:57:3
+{EndTime}: 0:57:4
+{Text}: {Mr. Sulu, hold present position.} 
+
+{Index}: 519
+{StartTime}: 0:57:4
+{EndTime}: 0:57:6
+{Text}: {Holding present position, Sir.} 
+
+{Index}: 520
+{StartTime}: 0:57:14
+{EndTime}: 0:57:16
+{Text}: {Tactical plot on viewer.} 
+
+{Index}: 521
+{StartTime}: 0:57:16
+{EndTime}: 0:57:18
+{Text}: {Course projection on tactical, Sir.} 
+
+{Index}: 522
+{StartTime}: 0:57:24
+{EndTime}: 0:57:25
+{Text}: {Opinion, Mr. Spock.} 
+
+{Index}: 523
+{StartTime}: 0:57:25
+{EndTime}: 0:57:27
+{Text}: {Recommend we proceed, Captain.} 
+
+{Index}: 524
+{StartTime}: 0:57:28
+{EndTime}: 0:57:31
+{Text}: {- Mr. Decker?} {- I advise caution, Captain.} 
+
+{Index}: 525
+{StartTime}: 0:57:31
+{EndTime}: 0:57:33
+{Text}: {We can't withstand another attack.} 
+
+{Index}: 526
+{StartTime}: 0:57:33
+{EndTime}: 0:57:35
+{Text}: {That thing is 20 hours away from Earth.} 
+
+{Index}: 527
+{StartTime}: 0:57:35
+{EndTime}: 0:57:38
+{Text}: {- We know nothing about it as yet.} {- Precisely the point, Captain.} 
+
+{Index}: 528
+{StartTime}: 0:57:38
+{EndTime}: 0:57:40
+{Text}: {We don't know what it'll do.} 
+
+{Index}: 529
+{StartTime}: 0:57:40
+{EndTime}: 0:57:43
+{Text}: {Moving into that cloud at this time...} 
+
+{Index}: 530
+{StartTime}: 0:57:43
+{EndTime}: 0:57:44
+{Text}: {is an unwarranted gamble.} 
+
+{Index}: 531
+{StartTime}: 0:57:46
+{EndTime}: 0:57:48
+{Text}: {How do you define ''unwarranted''?} 
+
+{Index}: 532
+{StartTime}: 0:57:51
+{EndTime}: 0:57:53
+{Text}: {You asked my opinion, Sir.} 
+
+{Index}: 533
+{StartTime}: 0:58:0
+{EndTime}: 0:58:2
+{Text}: {Viewer.} {Standard ahead.} 
+
+{Index}: 534
+{StartTime}: 0:58:11
+{EndTime}: 0:58:13
+{Text}: {Navigator, maintain course.} 
+
+{Index}: 535
+{StartTime}: 0:58:13
+{EndTime}: 0:58:14
+{Text}: {Helmsman...} 
+
+{Index}: 536
+{StartTime}: 0:58:15
+{EndTime}: 0:58:17
+{Text}: {steady as she goes.} 
+
+{Index}: 537
+{StartTime}: 1:0:24
+{EndTime}: 1:0:28
+{Text}: {No vessel could generate a power field of this magnitude.} 
+
+{Index}: 538
+{StartTime}: 1:0:29
+{EndTime}: 1:0:30
+{Text}: {Spock.} 
+
+{Index}: 539
+{StartTime}: 1:0:34
+{EndTime}: 1:0:36
+{Text}: {Instruments fluctuating, Captain.} 
+
+{Index}: 540
+{StartTime}: 1:0:38
+{EndTime}: 1:0:40
+{Text}: {Patterns unrecognizable.} 
+
+{Index}: 541
+{StartTime}: 1:2:20
+{EndTime}: 1:2:22
+{Text}: {Transmit image of alien to Starfleet.} 
+
+{Index}: 542
+{StartTime}: 1:2:22
+{EndTime}: 1:2:23
+{Text}: {Advise we are attempting further communication.} 
+
+{Index}: 543
+{StartTime}: 1:2:24
+{EndTime}: 1:2:26
+{Text}: {Unable to make contact with Starfleet, Captain.} 
+
+{Index}: 544
+{StartTime}: 1:2:27
+{EndTime}: 1:2:31
+{Text}: {Any attempt to transmit out of the cloud is being reflected back.} 
+
+{Index}: 545
+{StartTime}: 1:2:39
+{EndTime}: 1:2:42
+{Text}: {We are closing on it rapidly, Captain.} 
+
+{Index}: 546
+{StartTime}: 1:2:49
+{EndTime}: 1:2:52
+{Text}: {Reduce magnification factor four, Mr. Sulu.} 
+
+{Index}: 547
+{StartTime}: 1:2:53
+{EndTime}: 1:2:55
+{Text}: {We are already two settings below that, Sir.} 
+
+{Index}: 548
+{StartTime}: 1:2:59
+{EndTime}: 1:3:1
+{Text}: {Mr. Sulu...} 
+
+{Index}: 549
+{StartTime}: 1:3:1
+{EndTime}: 1:3:3
+{Text}: {bring us into a parallel course...} 
+
+{Index}: 550
+{StartTime}: 1:3:3
+{EndTime}: 1:3:5
+{Text}: {over the alien...} 
+
+{Index}: 551
+{StartTime}: 1:3:5
+{EndTime}: 1:3:7
+{Text}: {at 500 meters.} 
+
+{Index}: 552
+{StartTime}: 1:3:7
+{EndTime}: 1:3:9
+{Text}: {Five hundred meters?} 
+
+{Index}: 553
+{StartTime}: 1:3:10
+{EndTime}: 1:3:12
+{Text}: {Then take us out to 100 kilometers distance...} 
+
+{Index}: 554
+{StartTime}: 1:3:12
+{EndTime}: 1:3:14
+{Text}: {adjusting parallel course.} 
+
+{Index}: 555
+{StartTime}: 1:3:16
+{EndTime}: 1:3:17
+{Text}: {Aye, Sir.} 
+
+{Index}: 556
+{StartTime}: 1:5:12
+{EndTime}: 1:5:14
+{Text}: {Viewer astern.} 
+
+{Index}: 557
+{StartTime}: 1:5:14
+{EndTime}: 1:5:16
+{Text}: {Reverse angle on the view, Captain.} 
+
+{Index}: 558
+{StartTime}: 1:5:35
+{EndTime}: 1:5:36
+{Text}: {Five hundred meters.} 
+
+{Index}: 559
+{StartTime}: 1:5:37
+{EndTime}: 1:5:39
+{Text}: {Viewer ahead, Sir.} 
+
+{Index}: 560
+{StartTime}: 1:8:2
+{EndTime}: 1:8:4
+{Text}: {Hold relative position here.} 
+
+{Index}: 561
+{StartTime}: 1:8:42
+{EndTime}: 1:8:44
+{Text}: {Mr. Spock!} 
+
+{Index}: 562
+{StartTime}: 1:8:45
+{EndTime}: 1:8:47
+{Text}: {Can that be one of their crew?} 
+
+{Index}: 563
+{StartTime}: 1:8:48
+{EndTime}: 1:8:50
+{Text}: {A probe from their vessel, Captain.} 
+
+{Index}: 564
+{StartTime}: 1:8:50
+{EndTime}: 1:8:53
+{Text}: {Plasma-energy combination.} 
+
+{Index}: 565
+{StartTime}: 1:8:55
+{EndTime}: 1:8:56
+{Text}: {Don't interfere with it.} 
+
+{Index}: 566
+{StartTime}: 1:8:56
+{EndTime}: 1:8:59
+{Text}: {Absolutely, I will not interfere.} 
+
+{Index}: 567
+{StartTime}: 1:9:1
+{EndTime}: 1:9:3
+{Text}: {No one interfere.} 
+
+{Index}: 568
+{StartTime}: 1:9:4
+{EndTime}: 1:9:7
+{Text}: {It doesn't seem interested in us.} {Only the ship.} 
+
+{Index}: 569
+{StartTime}: 1:9:23
+{EndTime}: 1:9:25
+{Text}: {Computer off.} 
+
+{Index}: 570
+{StartTime}: 1:9:32
+{EndTime}: 1:9:34
+{Text}: {It's taking control of the computer.} 
+
+{Index}: 571
+{StartTime}: 1:9:40
+{EndTime}: 1:9:43
+{Text}: {It's running our records... Earth defenses, Starfleet strength.} 
+
+{Index}: 572
+{StartTime}: 1:10:17
+{EndTime}: 1:10:18
+{Text}: {Ilia!} 
+
+{Index}: 573
+{StartTime}: 1:10:22
+{EndTime}: 1:10:24
+{Text}: {Ilia!} 
+
+{Index}: 574
+{StartTime}: 1:10:46
+{EndTime}: 1:10:48
+{Text}: {This is how I define ''unwarranted.''} 
+
+{Index}: 575
+{StartTime}: 1:10:57
+{EndTime}: 1:11:0
+{Text}: {Activate auxiliary computer circuits through manual shutoff.} 
+
+{Index}: 576
+{StartTime}: 1:11:26
+{EndTime}: 1:11:28
+{Text}: {Captain, we've been seized by a tractor beam.} 
+
+{Index}: 577
+{StartTime}: 1:11:28
+{EndTime}: 1:11:30
+{Text}: {Get someone up here to take the navigator's station.} 
+
+{Index}: 578
+{StartTime}: 1:11:30
+{EndTime}: 1:11:32
+{Text}: {- Engineering.} {- Chief DiFalco, to the bridge.} 
+
+{Index}: 579
+{StartTime}: 1:11:32
+{EndTime}: 1:11:35
+{Text}: {- Emergency power.} {- Going to full emergency.} 
+
+{Index}: 580
+{StartTime}: 1:11:36
+{EndTime}: 1:11:40
+{Text}: {But, Captain, if we don't break free in 15 seconds, she'll burn up.} 
+
+{Index}: 581
+{StartTime}: 1:11:40
+{EndTime}: 1:11:42
+{Text}: {We cannot break free, Captain.} 
+
+{Index}: 582
+{StartTime}: 1:11:42
+{EndTime}: 1:11:44
+{Text}: {We have only a fraction of the power necessary.} 
+
+{Index}: 583
+{StartTime}: 1:11:44
+{EndTime}: 1:11:47
+{Text}: {Engineering, belay that order.} 
+
+{Index}: 584
+{StartTime}: 1:11:47
+{EndTime}: 1:11:48
+{Text}: {Disengage all main drive systems.} 
+
+{Index}: 585
+{StartTime}: 1:12:6
+{EndTime}: 1:12:10
+{Text}: {Chief DiFalco, take over Lieutenant Ilia's station.} 
+
+{Index}: 586
+{StartTime}: 1:12:16
+{EndTime}: 1:12:18
+{Text}: {DiFalco, disengage engine navigation relays now.} 
+
+{Index}: 587
+{StartTime}: 1:12:18
+{EndTime}: 1:12:19
+{Text}: {Aye, Sir.} 
+
+{Index}: 588
+{StartTime}: 1:12:19
+{EndTime}: 1:12:21
+{Text}: {Force field circuits E-10 through 14...} 
+
+{Index}: 589
+{StartTime}: 1:12:21
+{EndTime}: 1:12:23
+{Text}: {show ready for reactivation.} 
+
+{Index}: 590
+{StartTime}: 1:12:23
+{EndTime}: 1:12:24
+{Text}: {Confirm, please.} 
+
+{Index}: 591
+{StartTime}: 1:12:26
+{EndTime}: 1:12:28
+{Text}: {Scotty, drive systems should be free now.} 
+
+{Index}: 592
+{StartTime}: 1:12:28
+{EndTime}: 1:12:29
+{Text}: {Commander?} 
+
+{Index}: 593
+{StartTime}: 1:12:29
+{EndTime}: 1:12:31
+{Text}: {Ready to launch remote communications drone...} 
+
+{Index}: 594
+{StartTime}: 1:12:31
+{EndTime}: 1:12:32
+{Text}: {with complete ship's records...} 
+
+{Index}: 595
+{StartTime}: 1:12:32
+{EndTime}: 1:12:34
+{Text}: {including our present situation, Sir.} 
+
+{Index}: 596
+{StartTime}: 1:12:34
+{EndTime}: 1:12:36
+{Text}: {Delay launching as long as possible.} 
+
+{Index}: 597
+{StartTime}: 1:12:36
+{EndTime}: 1:12:39
+{Text}: {Our drone can't escape as long as we're held in their tractor.} 
+
+{Index}: 598
+{StartTime}: 1:12:39
+{EndTime}: 1:12:40
+{Text}: {Aye.} 
+
+{Index}: 599
+{StartTime}: 1:13:4
+{EndTime}: 1:13:7
+{Text}: {Captain, a maximum phaser strike directly at the beam...} 
+
+{Index}: 600
+{StartTime}: 1:13:7
+{EndTime}: 1:13:9
+{Text}: {might weaken it just enough for us to break free.} 
+
+{Index}: 601
+{StartTime}: 1:13:9
+{EndTime}: 1:13:11
+{Text}: {Break free to where, Commander?} 
+
+{Index}: 602
+{StartTime}: 1:13:13
+{EndTime}: 1:13:15
+{Text}: {Any show of resistance would be futile, Captain.} 
+
+{Index}: 603
+{StartTime}: 1:13:15
+{EndTime}: 1:13:19
+{Text}: {We don't know that, Mr. Spock.} {Why are you opposed to trying?} 
+
+{Index}: 604
+{StartTime}: 1:14:8
+{EndTime}: 1:14:11
+{Text}: {Why bring us inside?} 
+
+{Index}: 605
+{StartTime}: 1:14:11
+{EndTime}: 1:14:14
+{Text}: {Not to destroy us.} {They could have done that outside.} 
+
+{Index}: 606
+{StartTime}: 1:14:14
+{EndTime}: 1:14:16
+{Text}: {They still can.} 
+
+{Index}: 607
+{StartTime}: 1:14:16
+{EndTime}: 1:14:18
+{Text}: {Curiosity, Mr. Decker.} 
+
+{Index}: 608
+{StartTime}: 1:14:20
+{EndTime}: 1:14:22
+{Text}: {Insatiable curiosity.} 
+
+{Index}: 609
+{StartTime}: 1:14:30
+{EndTime}: 1:14:34
+{Text}: {Captain, photic sonar readings indicate the aperture is closing.} 
+
+{Index}: 610
+{StartTime}: 1:14:34
+{EndTime}: 1:14:36
+{Text}: {We're trapped, Sir.} 
+
+{Index}: 611
+{StartTime}: 1:14:37
+{EndTime}: 1:14:39
+{Text}: {Reverse angle on the viewer, Captain.} 
+
+{Index}: 612
+{StartTime}: 1:15:3
+{EndTime}: 1:15:6
+{Text}: {Tractor beam has released us, Captain.} 
+
+{Index}: 613
+{StartTime}: 1:15:6
+{EndTime}: 1:15:9
+{Text}: {Confirmed.} {Vessel is floating free.} 
+
+{Index}: 614
+{StartTime}: 1:15:9
+{EndTime}: 1:15:11
+{Text}: {No forward momentum.} 
+
+{Index}: 615
+{StartTime}: 1:15:13
+{EndTime}: 1:15:14
+{Text}: {Viewer ahead.} 
+
+{Index}: 616
+{StartTime}: 1:15:14
+{EndTime}: 1:15:15
+{Text}: {Viewer ahead, Sir.} 
+
+{Index}: 617
+{StartTime}: 1:15:21
+{EndTime}: 1:15:24
+{Text}: {Maneuvering thrusters, Mr. Sulu.} {Ahead one third.} 
+
+{Index}: 618
+{StartTime}: 1:15:24
+{EndTime}: 1:15:26
+{Text}: {Thrusters ahead one third.} 
+
+{Index}: 619
+{StartTime}: 1:15:31
+{EndTime}: 1:15:32
+{Text}: {Let's take a look.} 
+
+{Index}: 620
+{StartTime}: 1:15:33
+{EndTime}: 1:15:35
+{Text}: {Full sensor scan, Mr. Spock.} 
+
+{Index}: 621
+{StartTime}: 1:15:35
+{EndTime}: 1:15:37
+{Text}: {They can't expect us not to look them over now.} 
+
+{Index}: 622
+{StartTime}: 1:15:37
+{EndTime}: 1:15:39
+{Text}: {Now that we're looking down their throat.} 
+
+{Index}: 623
+{StartTime}: 1:15:39
+{EndTime}: 1:15:42
+{Text}: {Right, now that we've got them just where they want us.} 
+
+{Index}: 624
+{StartTime}: 1:15:58
+{EndTime}: 1:15:59
+{Text}: {It's closing up.} 
+
+{Index}: 625
+{StartTime}: 1:16:2
+{EndTime}: 1:16:4
+{Text}: {Hold position.} 
+
+{Index}: 626
+{StartTime}: 1:16:8
+{EndTime}: 1:16:9
+{Text}: {Captain.} 
+
+{Index}: 627
+{StartTime}: 1:16:13
+{EndTime}: 1:16:16
+{Text}: {All our scans are being reflected back.} 
+
+{Index}: 628
+{StartTime}: 1:16:16
+{EndTime}: 1:16:17
+{Text}: {Sensors are useless.} 
+
+{Index}: 629
+{StartTime}: 1:16:18
+{EndTime}: 1:16:20
+{Text}: {Damn.} 
+
+{Index}: 630
+{StartTime}: 1:16:27
+{EndTime}: 1:16:29
+{Text}: {What do you make of all this?} 
+
+{Index}: 631
+{StartTime}: 1:16:29
+{EndTime}: 1:16:32
+{Text}: {I believe the closed orifice leads to another chamber...} 
+
+{Index}: 632
+{StartTime}: 1:16:32
+{EndTime}: 1:16:35
+{Text}: {undoubtedly part of the vessel's inner mechanism.} 
+
+{Index}: 633
+{StartTime}: 1:16:35
+{EndTime}: 1:16:38
+{Text}: {I suspect it may be necess...} 
+
+{Index}: 634
+{StartTime}: 1:16:43
+{EndTime}: 1:16:45
+{Text}: {Intruder alert!} {Deck 5.} {Officer's quarters.} 
+
+{Index}: 635
+{StartTime}: 1:16:45
+{EndTime}: 1:16:48
+{Text}: {Have Security meet me at deck 5, main elevator.} 
+
+{Index}: 636
+{StartTime}: 1:16:48
+{EndTime}: 1:16:50
+{Text}: {Spock.} {Mr. Decker, you have the com.} 
+
+{Index}: 637
+{StartTime}: 1:16:50
+{EndTime}: 1:16:52
+{Text}: {Hold positions.} 
+
+{Index}: 638
+{StartTime}: 1:17:12
+{EndTime}: 1:17:15
+{Text}: {You are the Kirk unit.} 
+
+{Index}: 639
+{StartTime}: 1:17:15
+{EndTime}: 1:17:17
+{Text}: {You will assist me.} 
+
+{Index}: 640
+{StartTime}: 1:17:18
+{EndTime}: 1:17:20
+{Text}: {I have been programmed by V'Ger...} 
+
+{Index}: 641
+{StartTime}: 1:17:21
+{EndTime}: 1:17:23
+{Text}: {to observe and record...} 
+
+{Index}: 642
+{StartTime}: 1:17:23
+{EndTime}: 1:17:26
+{Text}: {normal functions of the carbon-based units...} 
+
+{Index}: 643
+{StartTime}: 1:17:26
+{EndTime}: 1:17:29
+{Text}: {infesting USS Enterprise.} 
+
+{Index}: 644
+{StartTime}: 1:17:40
+{EndTime}: 1:17:43
+{Text}: {-Jim, what's going on?} {- Tricorder.} 
+
+{Index}: 645
+{StartTime}: 1:17:47
+{EndTime}: 1:17:49
+{Text}: {Who is...} 
+
+{Index}: 646
+{StartTime}: 1:17:49
+{EndTime}: 1:17:51
+{Text}: {V'Ger?} 
+
+{Index}: 647
+{StartTime}: 1:17:51
+{EndTime}: 1:17:53
+{Text}: {V'Ger is that which programmed me.} 
+
+{Index}: 648
+{StartTime}: 1:17:55
+{EndTime}: 1:17:59
+{Text}: {Is V'Ger the name of the Captain of the alien vessel?} 
+
+{Index}: 649
+{StartTime}: 1:17:59
+{EndTime}: 1:18:0
+{Text}: {Jim.} 
+
+{Index}: 650
+{StartTime}: 1:18:0
+{EndTime}: 1:18:2
+{Text}: {This is a mechanism.} 
+
+{Index}: 651
+{StartTime}: 1:18:2
+{EndTime}: 1:18:3
+{Text}: {A probe, Captain.} 
+
+{Index}: 652
+{StartTime}: 1:18:5
+{EndTime}: 1:18:8
+{Text}: {No doubt a sensor-transceiver combination...} 
+
+{Index}: 653
+{StartTime}: 1:18:8
+{EndTime}: 1:18:10
+{Text}: {recording everything we say and do.} 
+
+{Index}: 654
+{StartTime}: 1:18:11
+{EndTime}: 1:18:13
+{Text}: {Where is Lieutenant Ilia?} 
+
+{Index}: 655
+{StartTime}: 1:18:13
+{EndTime}: 1:18:15
+{Text}: {That unit no longer functions.} 
+
+{Index}: 656
+{StartTime}: 1:18:15
+{EndTime}: 1:18:17
+{Text}: {I've been given its form...} 
+
+{Index}: 657
+{StartTime}: 1:18:17
+{EndTime}: 1:18:20
+{Text}: {to more readily communicate with the carbon-based units...} 
+
+{Index}: 658
+{StartTime}: 1:18:20
+{EndTime}: 1:18:22
+{Text}: {infesting Enterprise.} 
+
+{Index}: 659
+{StartTime}: 1:18:22
+{EndTime}: 1:18:24
+{Text}: {Carbon-based units?} 
+
+{Index}: 660
+{StartTime}: 1:18:24
+{EndTime}: 1:18:27
+{Text}: {Humans, Ensign Perez.} {Us.} 
+
+{Index}: 661
+{StartTime}: 1:18:28
+{EndTime}: 1:18:30
+{Text}: {Why does V'Ger travel...} 
+
+{Index}: 662
+{StartTime}: 1:18:30
+{EndTime}: 1:18:33
+{Text}: {to the third planet of the solar system directly ahead?} 
+
+{Index}: 663
+{StartTime}: 1:18:33
+{EndTime}: 1:18:35
+{Text}: {To find the creator.} 
+
+{Index}: 664
+{StartTime}: 1:18:35
+{EndTime}: 1:18:38
+{Text}: {Find the creator?} 
+
+{Index}: 665
+{StartTime}: 1:18:39
+{EndTime}: 1:18:40
+{Text}: {Whose...} 
+
+{Index}: 666
+{StartTime}: 1:18:44
+{EndTime}: 1:18:46
+{Text}: {What does V'Ger want with the creator?} 
+
+{Index}: 667
+{StartTime}: 1:18:46
+{EndTime}: 1:18:48
+{Text}: {To join with him.} 
+
+{Index}: 668
+{StartTime}: 1:18:48
+{EndTime}: 1:18:51
+{Text}: {To join with the creator?} {How?} 
+
+{Index}: 669
+{StartTime}: 1:18:51
+{EndTime}: 1:18:54
+{Text}: {V'Ger and the creator will become one.} 
+
+{Index}: 670
+{StartTime}: 1:18:54
+{EndTime}: 1:18:55
+{Text}: {And who is the creator?} 
+
+{Index}: 671
+{StartTime}: 1:18:55
+{EndTime}: 1:18:58
+{Text}: {The creator is that which created V'Ger.} 
+
+{Index}: 672
+{StartTime}: 1:18:58
+{EndTime}: 1:19:0
+{Text}: {Who is V'Ger?} 
+
+{Index}: 673
+{StartTime}: 1:19:0
+{EndTime}: 1:19:2
+{Text}: {V'Ger is that which seeks the creator.} 
+
+{Index}: 674
+{StartTime}: 1:19:6
+{EndTime}: 1:19:9
+{Text}: {I'm ready to commence my observations.} 
+
+{Index}: 675
+{StartTime}: 1:19:9
+{EndTime}: 1:19:12
+{Text}: {Doctor, a thorough examination of this probe...} 
+
+{Index}: 676
+{StartTime}: 1:19:12
+{EndTime}: 1:19:14
+{Text}: {might provide some insight into those who manufactured it...} 
+
+{Index}: 677
+{StartTime}: 1:19:14
+{EndTime}: 1:19:16
+{Text}: {and how to deal with them.} 
+
+{Index}: 678
+{StartTime}: 1:19:17
+{EndTime}: 1:19:19
+{Text}: {Fine.} {Let's get her to sick bay.} 
+
+{Index}: 679
+{StartTime}: 1:19:23
+{EndTime}: 1:19:26
+{Text}: {I'm programmed to observe and record...} 
+
+{Index}: 680
+{StartTime}: 1:19:26
+{EndTime}: 1:19:28
+{Text}: {only the normal functioning of the carbon-based units.} 
+
+{Index}: 681
+{StartTime}: 1:19:28
+{EndTime}: 1:19:30
+{Text}: {The, uh...} 
+
+{Index}: 682
+{StartTime}: 1:19:30
+{EndTime}: 1:19:33
+{Text}: {examination is a normal function.} 
+
+{Index}: 683
+{StartTime}: 1:19:35
+{EndTime}: 1:19:37
+{Text}: {You may proceed.} 
+
+{Index}: 684
+{StartTime}: 1:19:43
+{EndTime}: 1:19:45
+{Text}: {Micro-miniature hydraulics...} 
+
+{Index}: 685
+{StartTime}: 1:19:48
+{EndTime}: 1:19:50
+{Text}: {sensors...} 
+
+{Index}: 686
+{StartTime}: 1:19:53
+{EndTime}: 1:19:57
+{Text}: {and molecule-sized multiprocessor chips.} 
+
+{Index}: 687
+{StartTime}: 1:20:1
+{EndTime}: 1:20:3
+{Text}: {And take a look at this.} 
+
+{Index}: 688
+{StartTime}: 1:20:3
+{EndTime}: 1:20:5
+{Text}: {An osmotic micropump, right here.} 
+
+{Index}: 689
+{StartTime}: 1:20:6
+{EndTime}: 1:20:9
+{Text}: {Even the smallest body functions are exactly duplicated.} 
+
+{Index}: 690
+{StartTime}: 1:20:12
+{EndTime}: 1:20:15
+{Text}: {Every exocrine system is the same, too...} 
+
+{Index}: 691
+{StartTime}: 1:20:16
+{EndTime}: 1:20:18
+{Text}: {even eye moisture.} 
+
+{Index}: 692
+{StartTime}: 1:20:19
+{EndTime}: 1:20:20
+{Text}: {Decker.} 
+
+{Index}: 693
+{StartTime}: 1:20:21
+{EndTime}: 1:20:22
+{Text}: {Fascinating.} 
+
+{Index}: 694
+{StartTime}: 1:20:22
+{EndTime}: 1:20:24
+{Text}: {Not ''Decker unit.''} 
+
+{Index}: 695
+{StartTime}: 1:20:29
+{EndTime}: 1:20:31
+{Text}: {Gentlemen.} 
+
+{Index}: 696
+{StartTime}: 1:20:31
+{EndTime}: 1:20:32
+{Text}: {Will.} 
+
+{Index}: 697
+{StartTime}: 1:20:43
+{EndTime}: 1:20:45
+{Text}: {- What happened to her?} {- Captain.} 
+
+{Index}: 698
+{StartTime}: 1:20:45
+{EndTime}: 1:20:47
+{Text}: {This probe may be our key to the aliens.} 
+
+{Index}: 699
+{StartTime}: 1:20:47
+{EndTime}: 1:20:50
+{Text}: {- Probe?} {Ilia?} {- Exactly.} 
+
+{Index}: 700
+{StartTime}: 1:20:50
+{EndTime}: 1:20:52
+{Text}: {It is a programmed mechanism, Commander.} 
+
+{Index}: 701
+{StartTime}: 1:20:52
+{EndTime}: 1:20:56
+{Text}: {Its body duplicates our navigator in precise detail.} 
+
+{Index}: 702
+{StartTime}: 1:20:56
+{EndTime}: 1:20:58
+{Text}: {Suppose that, beneath its programming...} 
+
+{Index}: 703
+{StartTime}: 1:20:58
+{EndTime}: 1:21:2
+{Text}: {the real Ilia's memory patterns are duplicated with equal precision.} 
+
+{Index}: 704
+{StartTime}: 1:21:2
+{EndTime}: 1:21:4
+{Text}: {- They had a pattern to follow.} {- Indeed.} 
+
+{Index}: 705
+{StartTime}: 1:21:4
+{EndTime}: 1:21:7
+{Text}: {They may have followed it too precisely.} 
+
+{Index}: 706
+{StartTime}: 1:21:7
+{EndTime}: 1:21:9
+{Text}: {Ilia's memory...} 
+
+{Index}: 707
+{StartTime}: 1:21:9
+{EndTime}: 1:21:11
+{Text}: {her feelings of loyalty, obedience, friendship...} 
+
+{Index}: 708
+{StartTime}: 1:21:12
+{EndTime}: 1:21:14
+{Text}: {might all be there.} 
+
+{Index}: 709
+{StartTime}: 1:21:14
+{EndTime}: 1:21:18
+{Text}: {You did have a relationship with Lieutenant Ilia, Commander.} 
+
+{Index}: 710
+{StartTime}: 1:21:18
+{EndTime}: 1:21:21
+{Text}: {That probe, in another form, is what killed Ilia.} 
+
+{Index}: 711
+{StartTime}: 1:21:21
+{EndTime}: 1:21:23
+{Text}: {Commander...} 
+
+{Index}: 712
+{StartTime}: 1:21:23
+{EndTime}: 1:21:25
+{Text}: {Will, we're locked in an alien vessel...} 
+
+{Index}: 713
+{StartTime}: 1:21:25
+{EndTime}: 1:21:27
+{Text}: {six hours from Earth's orbit.} 
+
+{Index}: 714
+{StartTime}: 1:21:27
+{EndTime}: 1:21:29
+{Text}: {Our only contact with our captor is that probe.} 
+
+{Index}: 715
+{StartTime}: 1:21:29
+{EndTime}: 1:21:31
+{Text}: {If we can control it, persuade it, use it...} 
+
+{Index}: 716
+{StartTime}: 1:21:35
+{EndTime}: 1:21:37
+{Text}: {I have recorded enough here.} 
+
+{Index}: 717
+{StartTime}: 1:21:37
+{EndTime}: 1:21:39
+{Text}: {You will now assist me further.} 
+
+{Index}: 718
+{StartTime}: 1:21:42
+{EndTime}: 1:21:44
+{Text}: {The, uh...} 
+
+{Index}: 719
+{StartTime}: 1:21:44
+{EndTime}: 1:21:47
+{Text}: {Decker unit can assist you with much greater efficiency.} 
+
+{Index}: 720
+{StartTime}: 1:21:51
+{EndTime}: 1:21:54
+{Text}: {Carry on with your assignment, Mr. Decker.} 
+
+{Index}: 721
+{StartTime}: 1:21:55
+{EndTime}: 1:21:56
+{Text}: {Aye, Sir.} 
+
+{Index}: 722
+{StartTime}: 1:22:1
+{EndTime}: 1:22:5
+{Text}: {I am concerned with that being our only source of information, Captain.} 
+
+{Index}: 723
+{StartTime}: 1:22:9
+{EndTime}: 1:22:12
+{Text}: {Captain's Log: Stardate 7414.1.} 
+
+{Index}: 724
+{StartTime}: 1:22:12
+{EndTime}: 1:22:16
+{Text}: {Our best estimates place us some four hours from Earth.} 
+
+{Index}: 725
+{StartTime}: 1:22:16
+{EndTime}: 1:22:18
+{Text}: {No significant progress thus far...} 
+
+{Index}: 726
+{StartTime}: 1:22:18
+{EndTime}: 1:22:22
+{Text}: {reviving Ilia memory patterns within the alien probe.} 
+
+{Index}: 727
+{StartTime}: 1:22:22
+{EndTime}: 1:22:26
+{Text}: {This remains our only means of contact with our captor.} 
+
+{Index}: 728
+{StartTime}: 1:22:26
+{EndTime}: 1:22:28
+{Text}: {All those vessels were called Enterprise.} 
+
+{Index}: 729
+{StartTime}: 1:22:39
+{EndTime}: 1:22:43
+{Text}: {The carbon units use this area for recreation.} 
+
+{Index}: 730
+{StartTime}: 1:22:43
+{EndTime}: 1:22:45
+{Text}: {This is one of the games.} 
+
+{Index}: 731
+{StartTime}: 1:22:49
+{EndTime}: 1:22:53
+{Text}: {What types of recreation does the crew aboard your vessel enjoy?} 
+
+{Index}: 732
+{StartTime}: 1:22:54
+{EndTime}: 1:22:56
+{Text}: {The words ''recreation''...} 
+
+{Index}: 733
+{StartTime}: 1:22:57
+{EndTime}: 1:22:59
+{Text}: {and ''enjoy''...} 
+
+{Index}: 734
+{StartTime}: 1:22:59
+{EndTime}: 1:23:2
+{Text}: {have no meaning to my programming.} 
+
+{Index}: 735
+{StartTime}: 1:23:10
+{EndTime}: 1:23:11
+{Text}: {Ilia enjoyed this game.} 
+
+{Index}: 736
+{StartTime}: 1:23:13
+{EndTime}: 1:23:15
+{Text}: {She nearly always won.} 
+
+{Index}: 737
+{StartTime}: 1:23:21
+{EndTime}: 1:23:24
+{Text}: {Good.} {He's using audiovisual association.} 
+
+{Index}: 738
+{StartTime}: 1:23:59
+{EndTime}: 1:24:1
+{Text}: {This device serves no purpose.} 
+
+{Index}: 739
+{StartTime}: 1:24:12
+{EndTime}: 1:24:16
+{Text}: {Why does Enterprise require the presence of carbon units?} 
+
+{Index}: 740
+{StartTime}: 1:24:16
+{EndTime}: 1:24:19
+{Text}: {Enterprise would be unable to function without carbon units.} 
+
+{Index}: 741
+{StartTime}: 1:24:20
+{EndTime}: 1:24:23
+{Text}: {More data concerning this functioning is necessary...} 
+
+{Index}: 742
+{StartTime}: 1:24:23
+{EndTime}: 1:24:26
+{Text}: {before carbon units can be patterned...} 
+
+{Index}: 743
+{StartTime}: 1:24:26
+{EndTime}: 1:24:28
+{Text}: {for data storage.} 
+
+{Index}: 744
+{StartTime}: 1:24:31
+{EndTime}: 1:24:33
+{Text}: {What does that mean?} 
+
+{Index}: 745
+{StartTime}: 1:24:33
+{EndTime}: 1:24:36
+{Text}: {When my examination is complete...} 
+
+{Index}: 746
+{StartTime}: 1:24:36
+{EndTime}: 1:24:39
+{Text}: {all carbon units will be reduced to data patterns.} 
+
+{Index}: 747
+{StartTime}: 1:24:40
+{EndTime}: 1:24:42
+{Text}: {Within you...} 
+
+{Index}: 748
+{StartTime}: 1:24:42
+{EndTime}: 1:24:45
+{Text}: {are the memory patterns of a certain carbon unit.} 
+
+{Index}: 749
+{StartTime}: 1:24:45
+{EndTime}: 1:24:48
+{Text}: {If I can help you to revive those patterns...} 
+
+{Index}: 750
+{StartTime}: 1:24:48
+{EndTime}: 1:24:50
+{Text}: {you could understand our functions better.} 
+
+{Index}: 751
+{StartTime}: 1:24:51
+{EndTime}: 1:24:53
+{Text}: {That is logical.} 
+
+{Index}: 752
+{StartTime}: 1:24:53
+{EndTime}: 1:24:55
+{Text}: {You may proceed.} 
+
+{Index}: 753
+{StartTime}: 1:25:38
+{EndTime}: 1:25:42
+{Text}: {I remember Lieutenant Ilia once mentioning she wore that.} 
+
+{Index}: 754
+{StartTime}: 1:25:47
+{EndTime}: 1:25:50
+{Text}: {On Delta.} 
+
+{Index}: 755
+{StartTime}: 1:25:50
+{EndTime}: 1:25:51
+{Text}: {Remember?} 
+
+{Index}: 756
+{StartTime}: 1:25:51
+{EndTime}: 1:25:52
+{Text}: {Ilia.} 
+
+{Index}: 757
+{StartTime}: 1:25:59
+{EndTime}: 1:26:0
+{Text}: {Dr. Chapel.} 
+
+{Index}: 758
+{StartTime}: 1:26:10
+{EndTime}: 1:26:11
+{Text}: {Will?} 
+
+{Index}: 759
+{StartTime}: 1:26:13
+{EndTime}: 1:26:14
+{Text}: {Ilia.} 
+
+{Index}: 760
+{StartTime}: 1:26:15
+{EndTime}: 1:26:17
+{Text}: {Commander.} 
+
+{Index}: 761
+{StartTime}: 1:26:18
+{EndTime}: 1:26:20
+{Text}: {Commander.} 
+
+{Index}: 762
+{StartTime}: 1:26:22
+{EndTime}: 1:26:23
+{Text}: {This is a mechanism.} 
+
+{Index}: 763
+{StartTime}: 1:26:27
+{EndTime}: 1:26:29
+{Text}: {Ilia...} 
+
+{Index}: 764
+{StartTime}: 1:26:30
+{EndTime}: 1:26:33
+{Text}: {help us make direct contact with V'Ger.} 
+
+{Index}: 765
+{StartTime}: 1:26:34
+{EndTime}: 1:26:35
+{Text}: {I cannot.} 
+
+{Index}: 766
+{StartTime}: 1:26:36
+{EndTime}: 1:26:41
+{Text}: {This creator V'Ger is looking for... what is it?} 
+
+{Index}: 767
+{StartTime}: 1:26:42
+{EndTime}: 1:26:44
+{Text}: {V'Ger does not know.} 
+
+{Index}: 768
+{StartTime}: 1:27:11
+{EndTime}: 1:27:14
+{Text}: {Computer, commence recording.} 
+
+{Index}: 769
+{StartTime}: 1:27:14
+{EndTime}: 1:27:18
+{Text}: {Captain Kirk, these messages will detail my attempt...} 
+
+{Index}: 770
+{StartTime}: 1:27:18
+{EndTime}: 1:27:20
+{Text}: {to contact the aliens.} 
+
+{Index}: 771
+{StartTime}: 1:27:47
+{EndTime}: 1:27:51
+{Text}: {I intend to calculate thruster ignition and acceleration rate...} 
+
+{Index}: 772
+{StartTime}: 1:27:51
+{EndTime}: 1:27:53
+{Text}: {to coincide with the opening of the V'Ger orifice.} 
+
+{Index}: 773
+{StartTime}: 1:27:53
+{EndTime}: 1:27:55
+{Text}: {This should facilitate a better view...} 
+
+{Index}: 774
+{StartTime}: 1:27:55
+{EndTime}: 1:27:57
+{Text}: {of the interior of the alien spacecraft.} 
+
+{Index}: 775
+{StartTime}: 1:28:2
+{EndTime}: 1:28:6
+{Text}: {Captain, Starfleet signals are growing in strength, Sir.} 
+
+{Index}: 776
+{StartTime}: 1:28:6
+{EndTime}: 1:28:8
+{Text}: {They still have the intruder on their monitors.} 
+
+{Index}: 777
+{StartTime}: 1:28:8
+{EndTime}: 1:28:10
+{Text}: {- It's decelerating.} {- Confirmed, Sir.} 
+
+{Index}: 778
+{StartTime}: 1:28:10
+{EndTime}: 1:28:14
+{Text}: {Lunar beacons indicate intruder on a course into Earth orbit.} 
+
+{Index}: 779
+{StartTime}: 1:28:14
+{EndTime}: 1:28:17
+{Text}: {Sir, air lock 4 has been opened.} 
+
+{Index}: 780
+{StartTime}: 1:28:17
+{EndTime}: 1:28:20
+{Text}: {A thruster suit is reported missing.} 
+
+{Index}: 781
+{StartTime}: 1:28:22
+{EndTime}: 1:28:23
+{Text}: {A thruster suit?} 
+
+{Index}: 782
+{StartTime}: 1:28:25
+{EndTime}: 1:28:27
+{Text}: {That's Spock.} 
+
+{Index}: 783
+{StartTime}: 1:28:27
+{EndTime}: 1:28:29
+{Text}: {Damn him.} 
+
+{Index}: 784
+{StartTime}: 1:28:29
+{EndTime}: 1:28:30
+{Text}: {Bring him back here.} 
+
+{Index}: 785
+{StartTime}: 1:28:30
+{EndTime}: 1:28:32
+{Text}: {No, wait.} 
+
+{Index}: 786
+{StartTime}: 1:28:39
+{EndTime}: 1:28:42
+{Text}: {- Get a fix on his position.} {- Aye, Sir.} 
+
+{Index}: 787
+{StartTime}: 1:29:56
+{EndTime}: 1:29:57
+{Text}: {I have successfully penetrated...} 
+
+{Index}: 788
+{StartTime}: 1:29:57
+{EndTime}: 1:29:59
+{Text}: {the next chamber of the alien's interior...} 
+
+{Index}: 789
+{StartTime}: 1:29:59
+{EndTime}: 1:30:2
+{Text}: {and I'm witnessing some sort of dimensional image...} 
+
+{Index}: 790
+{StartTime}: 1:30:2
+{EndTime}: 1:30:5
+{Text}: {which I believe to be a representation...} 
+
+{Index}: 791
+{StartTime}: 1:30:5
+{EndTime}: 1:30:7
+{Text}: {of V'Ger's home planet.} 
+
+{Index}: 792
+{StartTime}: 1:30:14
+{EndTime}: 1:30:16
+{Text}: {I'm passing through a connecting tunnel.} 
+
+{Index}: 793
+{StartTime}: 1:30:16
+{EndTime}: 1:30:19
+{Text}: {Apparently, a kind of plasma-energy conduit.} 
+
+{Index}: 794
+{StartTime}: 1:30:20
+{EndTime}: 1:30:23
+{Text}: {Possibly a field coil for a gigantic imaging system.} 
+
+{Index}: 795
+{StartTime}: 1:30:33
+{EndTime}: 1:30:35
+{Text}: {Curious.} 
+
+{Index}: 796
+{StartTime}: 1:30:35
+{EndTime}: 1:30:38
+{Text}: {I'm seeing images of planets, moons, stars...} 
+
+{Index}: 797
+{StartTime}: 1:30:38
+{EndTime}: 1:30:41
+{Text}: {whole galaxies all stored here, recorded.} 
+
+{Index}: 798
+{StartTime}: 1:30:41
+{EndTime}: 1:30:44
+{Text}: {It could be a representation of V'Ger's entire journey.} 
+
+{Index}: 799
+{StartTime}: 1:30:49
+{EndTime}: 1:30:51
+{Text}: {But who or what...} 
+
+{Index}: 800
+{StartTime}: 1:30:52
+{EndTime}: 1:30:53
+{Text}: {are we dealing with?} 
+
+{Index}: 801
+{StartTime}: 1:30:53
+{EndTime}: 1:30:57
+{Text}: {The Epsilon 9 station, stored here with every detail.} 
+
+{Index}: 802
+{StartTime}: 1:31:5
+{EndTime}: 1:31:7
+{Text}: {Captain, I am now quite convinced...} 
+
+{Index}: 803
+{StartTime}: 1:31:7
+{EndTime}: 1:31:9
+{Text}: {that all of this is V'Ger...} 
+
+{Index}: 804
+{StartTime}: 1:31:9
+{EndTime}: 1:31:12
+{Text}: {that we are inside a living machine.} 
+
+{Index}: 805
+{StartTime}: 1:31:17
+{EndTime}: 1:31:18
+{Text}: {Ilia.} 
+
+{Index}: 806
+{StartTime}: 1:31:23
+{EndTime}: 1:31:25
+{Text}: {The sensor...} 
+
+{Index}: 807
+{StartTime}: 1:31:25
+{EndTime}: 1:31:28
+{Text}: {must contain some special meaning.} 
+
+{Index}: 808
+{StartTime}: 1:31:32
+{EndTime}: 1:31:33
+{Text}: {I must try to mind-meld with it.} 
+
+{Index}: 809
+{StartTime}: 1:32:25
+{EndTime}: 1:32:26
+{Text}: {Spock.} 
+
+{Index}: 810
+{StartTime}: 1:32:27
+{EndTime}: 1:32:28
+{Text}: {Spock!} 
+
+{Index}: 811
+{StartTime}: 1:32:29
+{EndTime}: 1:32:31
+{Text}: {Spock.} 
+
+{Index}: 812
+{StartTime}: 1:32:45
+{EndTime}: 1:32:50
+{Text}: {Now scanning pons area at spinal nerve fiber connection.} 
+
+{Index}: 813
+{StartTime}: 1:32:53
+{EndTime}: 1:32:57
+{Text}: {Indications of some neurological trauma.} 
+
+{Index}: 814
+{StartTime}: 1:32:57
+{EndTime}: 1:33:0
+{Text}: {The power pouring through that mind-meld must have been staggering.} 
+
+{Index}: 815
+{StartTime}: 1:33:7
+{EndTime}: 1:33:8
+{Text}: {Spock.} 
+
+{Index}: 816
+{StartTime}: 1:33:8
+{EndTime}: 1:33:10
+{Text}: {Jim.} 
+
+{Index}: 817
+{StartTime}: 1:33:13
+{EndTime}: 1:33:15
+{Text}: {I should have known.} 
+
+{Index}: 818
+{StartTime}: 1:33:15
+{EndTime}: 1:33:17
+{Text}: {Were you right...} 
+
+{Index}: 819
+{StartTime}: 1:33:17
+{EndTime}: 1:33:18
+{Text}: {about V'Ger?} 
+
+{Index}: 820
+{StartTime}: 1:33:19
+{EndTime}: 1:33:22
+{Text}: {A life-form of its own.} 
+
+{Index}: 821
+{StartTime}: 1:33:22
+{EndTime}: 1:33:25
+{Text}: {A conscious, living entity.} 
+
+{Index}: 822
+{StartTime}: 1:33:25
+{EndTime}: 1:33:26
+{Text}: {A living machine?} 
+
+{Index}: 823
+{StartTime}: 1:33:26
+{EndTime}: 1:33:28
+{Text}: {It considers the Enterprise a living machine.} 
+
+{Index}: 824
+{StartTime}: 1:33:28
+{EndTime}: 1:33:30
+{Text}: {That's why the probe refers to our ship as an entity.} 
+
+{Index}: 825
+{StartTime}: 1:33:30
+{EndTime}: 1:33:32
+{Text}: {I saw V'Ger's planet.} 
+
+{Index}: 826
+{StartTime}: 1:33:34
+{EndTime}: 1:33:37
+{Text}: {A planet populated by living machines.} 
+
+{Index}: 827
+{StartTime}: 1:33:37
+{EndTime}: 1:33:39
+{Text}: {Unbelievable technology.} 
+
+{Index}: 828
+{StartTime}: 1:33:41
+{EndTime}: 1:33:45
+{Text}: {V'Ger has knowledge that spans this universe.} 
+
+{Index}: 829
+{StartTime}: 1:33:46
+{EndTime}: 1:33:48
+{Text}: {And yet...} 
+
+{Index}: 830
+{StartTime}: 1:33:48
+{EndTime}: 1:33:51
+{Text}: {with all its pure logic...} 
+
+{Index}: 831
+{StartTime}: 1:33:51
+{EndTime}: 1:33:53
+{Text}: {V'Ger is barren...} 
+
+{Index}: 832
+{StartTime}: 1:33:53
+{EndTime}: 1:33:55
+{Text}: {cold.} 
+
+{Index}: 833
+{StartTime}: 1:33:55
+{EndTime}: 1:33:56
+{Text}: {No mystery.} 
+
+{Index}: 834
+{StartTime}: 1:33:57
+{EndTime}: 1:33:58
+{Text}: {No beauty.} 
+
+{Index}: 835
+{StartTime}: 1:34:3
+{EndTime}: 1:34:5
+{Text}: {Should have known.} 
+
+{Index}: 836
+{StartTime}: 1:34:7
+{EndTime}: 1:34:8
+{Text}: {Known?} 
+
+{Index}: 837
+{StartTime}: 1:34:9
+{EndTime}: 1:34:11
+{Text}: {Known what?} {Spock.} 
+
+{Index}: 838
+{StartTime}: 1:34:19
+{EndTime}: 1:34:22
+{Text}: {What should you have known?} {What should you have known?} 
+
+{Index}: 839
+{StartTime}: 1:34:27
+{EndTime}: 1:34:29
+{Text}: {Jim...} 
+
+{Index}: 840
+{StartTime}: 1:34:33
+{EndTime}: 1:34:34
+{Text}: {this...} 
+
+{Index}: 841
+{StartTime}: 1:34:34
+{EndTime}: 1:34:36
+{Text}: {simple feeling...} 
+
+{Index}: 842
+{StartTime}: 1:34:38
+{EndTime}: 1:34:40
+{Text}: {is beyond V'Ger's comprehension.} 
+
+{Index}: 843
+{StartTime}: 1:34:48
+{EndTime}: 1:34:51
+{Text}: {No meaning, no hope.} 
+
+{Index}: 844
+{StartTime}: 1:34:52
+{EndTime}: 1:34:54
+{Text}: {Jim...} 
+
+{Index}: 845
+{StartTime}: 1:34:55
+{EndTime}: 1:34:57
+{Text}: {no answers.} 
+
+{Index}: 846
+{StartTime}: 1:34:58
+{EndTime}: 1:35:0
+{Text}: {It's asking questions.} 
+
+{Index}: 847
+{StartTime}: 1:35:1
+{EndTime}: 1:35:4
+{Text}: {''Is this...} 
+
+{Index}: 848
+{StartTime}: 1:35:4
+{EndTime}: 1:35:6
+{Text}: {all that I am?} 
+
+{Index}: 849
+{StartTime}: 1:35:7
+{EndTime}: 1:35:8
+{Text}: {Is there nothing more?''} 
+
+{Index}: 850
+{StartTime}: 1:35:14
+{EndTime}: 1:35:16
+{Text}: {Bridge to Captain.} 
+
+{Index}: 851
+{StartTime}: 1:35:19
+{EndTime}: 1:35:20
+{Text}: {Kirk here.} 
+
+{Index}: 852
+{StartTime}: 1:35:20
+{EndTime}: 1:35:23
+{Text}: {A faint signal from Starfleet, Sir.} 
+
+{Index}: 853
+{StartTime}: 1:35:23
+{EndTime}: 1:35:26
+{Text}: {Intruder cloud has been located on their outer monitors...} 
+
+{Index}: 854
+{StartTime}: 1:35:26
+{EndTime}: 1:35:28
+{Text}: {for the past 27 minutes.} 
+
+{Index}: 855
+{StartTime}: 1:35:28
+{EndTime}: 1:35:31
+{Text}: {Cloud dissipating rapidly as it approaches.} 
+
+{Index}: 856
+{StartTime}: 1:35:31
+{EndTime}: 1:35:35
+{Text}: {Starfleet reports forward velocity has slowed to sub-warp speed.} 
+
+{Index}: 857
+{StartTime}: 1:35:35
+{EndTime}: 1:35:37
+{Text}: {We are three minutes from Earth orbit.} 
+
+{Index}: 858
+{StartTime}: 1:35:37
+{EndTime}: 1:35:39
+{Text}: {I'll be right there.} 
+
+{Index}: 859
+{StartTime}: 1:35:43
+{EndTime}: 1:35:45
+{Text}: {I need Spock on the bridge.} 
+
+{Index}: 860
+{StartTime}: 1:35:45
+{EndTime}: 1:35:47
+{Text}: {Dalaphaline, five cc's.} 
+
+{Index}: 861
+{StartTime}: 1:35:48
+{EndTime}: 1:35:50
+{Text}: {A machine planet...} 
+
+{Index}: 862
+{StartTime}: 1:35:51
+{EndTime}: 1:35:53
+{Text}: {sending a machine to Earth.} {.} 
+
+{Index}: 863
+{StartTime}: 1:35:55
+{EndTime}: 1:35:57
+{Text}: {looking for its creator.} 
+
+{Index}: 864
+{StartTime}: 1:36:0
+{EndTime}: 1:36:2
+{Text}: {It's absolutely incredible.} 
+
+{Index}: 865
+{StartTime}: 1:36:6
+{EndTime}: 1:36:9
+{Text}: {Mr. Chekov.} {Commander Decker present location.} 
+
+{Index}: 866
+{StartTime}: 1:36:9
+{EndTime}: 1:36:11
+{Text}: {They are in the engineering, Sir.} 
+
+{Index}: 867
+{StartTime}: 1:36:20
+{EndTime}: 1:36:24
+{Text}: {Captain, Starfleet is sending this tactical on V'Ger's position.} 
+
+{Index}: 868
+{StartTime}: 1:36:26
+{EndTime}: 1:36:29
+{Text}: {V'Ger is transmitting... a signal.} 
+
+{Index}: 869
+{StartTime}: 1:36:31
+{EndTime}: 1:36:32
+{Text}: {Jim.} 
+
+{Index}: 870
+{StartTime}: 1:36:33
+{EndTime}: 1:36:35
+{Text}: {From V'Ger.} 
+
+{Index}: 871
+{StartTime}: 1:36:38
+{EndTime}: 1:36:42
+{Text}: {V'Ger signals the creator.} 
+
+{Index}: 872
+{StartTime}: 1:36:55
+{EndTime}: 1:36:56
+{Text}: {Spock?} 
+
+{Index}: 873
+{StartTime}: 1:36:57
+{EndTime}: 1:37:0
+{Text}: {A simple binary code...} 
+
+{Index}: 874
+{StartTime}: 1:37:0
+{EndTime}: 1:37:3
+{Text}: {transmitted by carrier wave signal.} 
+
+{Index}: 875
+{StartTime}: 1:37:4
+{EndTime}: 1:37:5
+{Text}: {Radio.} 
+
+{Index}: 876
+{StartTime}: 1:37:7
+{EndTime}: 1:37:8
+{Text}: {Radio?} 
+
+{Index}: 877
+{StartTime}: 1:37:13
+{EndTime}: 1:37:15
+{Text}: {Jim.} 
+
+{Index}: 878
+{StartTime}: 1:37:15
+{EndTime}: 1:37:18
+{Text}: {V'Ger expects an answer.} 
+
+{Index}: 879
+{StartTime}: 1:37:19
+{EndTime}: 1:37:20
+{Text}: {An answer?} 
+
+{Index}: 880
+{StartTime}: 1:37:20
+{EndTime}: 1:37:22
+{Text}: {I don't know the question.} 
+
+{Index}: 881
+{StartTime}: 1:37:23
+{EndTime}: 1:37:25
+{Text}: {The creator has not responded.} 
+
+{Index}: 882
+{StartTime}: 1:37:39
+{EndTime}: 1:37:42
+{Text}: {All planetary defense systems have just gone inoperative.} 
+
+{Index}: 883
+{StartTime}: 1:38:21
+{EndTime}: 1:38:24
+{Text}: {Sir, Starfleet computes the devices are proceeding...} 
+
+{Index}: 884
+{StartTime}: 1:38:25
+{EndTime}: 1:38:28
+{Text}: {toward equidistant positions orbiting the planet.} 
+
+{Index}: 885
+{StartTime}: 1:38:28
+{EndTime}: 1:38:29
+{Text}: {They're the same things that hit us.} 
+
+{Index}: 886
+{StartTime}: 1:38:29
+{EndTime}: 1:38:32
+{Text}: {They are hundreds of times more powerful, Captain.} 
+
+{Index}: 887
+{StartTime}: 1:38:32
+{EndTime}: 1:38:33
+{Text}: {From those positions...} 
+
+{Index}: 888
+{StartTime}: 1:38:33
+{EndTime}: 1:38:36
+{Text}: {they could devastate the entire surface of the planet.} 
+
+{Index}: 889
+{StartTime}: 1:38:49
+{EndTime}: 1:38:50
+{Text}: {Why?} 
+
+{Index}: 890
+{StartTime}: 1:38:50
+{EndTime}: 1:38:52
+{Text}: {The creator has not answered.} 
+
+{Index}: 891
+{StartTime}: 1:38:52
+{EndTime}: 1:38:56
+{Text}: {The carbon unit infestation is to be removed from the creator's planet.} 
+
+{Index}: 892
+{StartTime}: 1:38:56
+{EndTime}: 1:38:57
+{Text}: {Why?} 
+
+{Index}: 893
+{StartTime}: 1:38:57
+{EndTime}: 1:39:0
+{Text}: {You infest Enterprise.} 
+
+{Index}: 894
+{StartTime}: 1:39:0
+{EndTime}: 1:39:3
+{Text}: {You interfere with the creator in the same manner.} 
+
+{Index}: 895
+{StartTime}: 1:39:10
+{EndTime}: 1:39:11
+{Text}: {V'Ger} 
+
+{Index}: 896
+{StartTime}: 1:39:12
+{EndTime}: 1:39:13
+{Text}: {V'Ger} 
+
+{Index}: 897
+{StartTime}: 1:39:23
+{EndTime}: 1:39:24
+{Text}: {Captain.} 
+
+{Index}: 898
+{StartTime}: 1:39:29
+{EndTime}: 1:39:31
+{Text}: {V'Ger is a child.} 
+
+{Index}: 899
+{StartTime}: 1:39:32
+{EndTime}: 1:39:34
+{Text}: {I suggest you treat it as such.} 
+
+{Index}: 900
+{StartTime}: 1:39:34
+{EndTime}: 1:39:36
+{Text}: {- A child?} {- Yes, Captain.} 
+
+{Index}: 901
+{StartTime}: 1:39:36
+{EndTime}: 1:39:38
+{Text}: {A child...} 
+
+{Index}: 902
+{StartTime}: 1:39:38
+{EndTime}: 1:39:41
+{Text}: {evolving, learning, searching...} 
+
+{Index}: 903
+{StartTime}: 1:39:42
+{EndTime}: 1:39:44
+{Text}: {instinctively needing.} 
+
+{Index}: 904
+{StartTime}: 1:39:44
+{EndTime}: 1:39:46
+{Text}: {- Needing what?} {- Spock.} 
+
+{Index}: 905
+{StartTime}: 1:39:46
+{EndTime}: 1:39:51
+{Text}: {This child is about to wipe out every living thing on Earth.} 
+
+{Index}: 906
+{StartTime}: 1:39:51
+{EndTime}: 1:39:54
+{Text}: {Now, what do you suggest we do?} {Spank it?} 
+
+{Index}: 907
+{StartTime}: 1:39:57
+{EndTime}: 1:39:59
+{Text}: {It knows only that it needs, Commander.} 
+
+{Index}: 908
+{StartTime}: 1:40:0
+{EndTime}: 1:40:3
+{Text}: {But, like so many of us...} 
+
+{Index}: 909
+{StartTime}: 1:40:3
+{EndTime}: 1:40:5
+{Text}: {it does not know what.} 
+
+{Index}: 910
+{StartTime}: 1:40:18
+{EndTime}: 1:40:21
+{Text}: {The carbon units know why the creator has not responded.} 
+
+{Index}: 911
+{StartTime}: 1:40:24
+{EndTime}: 1:40:26
+{Text}: {Disclose the information.} 
+
+{Index}: 912
+{StartTime}: 1:40:26
+{EndTime}: 1:40:30
+{Text}: {Not until V'Ger withdraws the devices orbiting the third planet.} 
+
+{Index}: 913
+{StartTime}: 1:40:30
+{EndTime}: 1:40:32
+{Text}: {Captain.} 
+
+{Index}: 914
+{StartTime}: 1:40:34
+{EndTime}: 1:40:36
+{Text}: {I'm losing Starfleet.} 
+
+{Index}: 915
+{StartTime}: 1:40:36
+{EndTime}: 1:40:38
+{Text}: {Interference from V'Ger.} 
+
+{Index}: 916
+{StartTime}: 1:40:38
+{EndTime}: 1:40:42
+{Text}: {Kirk unit, disclose the information.} 
+
+{Index}: 917
+{StartTime}: 1:40:42
+{EndTime}: 1:40:46
+{Text}: {Why has the creator not responded?} 
+
+{Index}: 918
+{StartTime}: 1:40:46
+{EndTime}: 1:40:47
+{Text}: {No.} 
+
+{Index}: 919
+{StartTime}: 1:40:51
+{EndTime}: 1:40:52
+{Text}: {Secure all stations.} 
+
+{Index}: 920
+{StartTime}: 1:40:52
+{EndTime}: 1:40:54
+{Text}: {Clear the bridge.} 
+
+{Index}: 921
+{StartTime}: 1:40:56
+{EndTime}: 1:40:59
+{Text}: {Clear the bridge, Captain?} 
+
+{Index}: 922
+{StartTime}: 1:40:59
+{EndTime}: 1:41:1
+{Text}: {- That was the order, Mr. Sulu.} {- Clear the bridge  - Aye, Sir.} 
+
+{Index}: 923
+{StartTime}: 1:41:8
+{EndTime}: 1:41:12
+{Text}: {Your child is having a tantrum, Mr. Spock.} 
+
+{Index}: 924
+{StartTime}: 1:41:14
+{EndTime}: 1:41:16
+{Text}: {V'Ger requires the information.} 
+
+{Index}: 925
+{StartTime}: 1:41:19
+{EndTime}: 1:41:22
+{Text}: {Bridge, secure all stations.} {Move out.} 
+
+{Index}: 926
+{StartTime}: 1:41:22
+{EndTime}: 1:41:24
+{Text}: {Jim, what the hell kind of strategy is this?} 
+
+{Index}: 927
+{StartTime}: 1:41:26
+{EndTime}: 1:41:28
+{Text}: {All ship's functions going to automatic, Captain.} 
+
+{Index}: 928
+{StartTime}: 1:41:28
+{EndTime}: 1:41:30
+{Text}: {If V'Ger destroys the Enterprise...} 
+
+{Index}: 929
+{StartTime}: 1:41:30
+{EndTime}: 1:41:32
+{Text}: {the information that V'Ger requires will also be destroyed.} 
+
+{Index}: 930
+{StartTime}: 1:41:32
+{EndTime}: 1:41:35
+{Text}: {It is illogical to withhold required information.} 
+
+{Index}: 931
+{StartTime}: 1:41:36
+{EndTime}: 1:41:38
+{Text}: {Kirk unit!} 
+
+{Index}: 932
+{StartTime}: 1:41:38
+{EndTime}: 1:41:39
+{Text}: {Kirk unit.} 
+
+{Index}: 933
+{StartTime}: 1:41:42
+{EndTime}: 1:41:44
+{Text}: {Why do you not disclose information?} 
+
+{Index}: 934
+{StartTime}: 1:41:48
+{EndTime}: 1:41:51
+{Text}: {Because V'Ger's going to destroy all carbon units on the third planet.} 
+
+{Index}: 935
+{StartTime}: 1:41:51
+{EndTime}: 1:41:53
+{Text}: {They have repressed the creator.} 
+
+{Index}: 936
+{StartTime}: 1:41:53
+{EndTime}: 1:41:56
+{Text}: {The information will not be disclosed.} 
+
+{Index}: 937
+{StartTime}: 1:41:57
+{EndTime}: 1:41:59
+{Text}: {V'Ger needs the information.} 
+
+{Index}: 938
+{StartTime}: 1:41:59
+{EndTime}: 1:42:4
+{Text}: {Then V'Ger must withdraw all the orbiting devices.} 
+
+{Index}: 939
+{StartTime}: 1:42:5
+{EndTime}: 1:42:6
+{Text}: {V'Ger will comply...} 
+
+{Index}: 940
+{StartTime}: 1:42:6
+{EndTime}: 1:42:9
+{Text}: {if the carbon units will disclose the information.} 
+
+{Index}: 941
+{StartTime}: 1:42:16
+{EndTime}: 1:42:17
+{Text}: {It learns fast, doesn't it?} 
+
+{Index}: 942
+{StartTime}: 1:42:18
+{EndTime}: 1:42:21
+{Text}: {Captain, the vessel... V'Ger...} 
+
+{Index}: 943
+{StartTime}: 1:42:21
+{EndTime}: 1:42:25
+{Text}: {obviously operates from a central brain complex.} 
+
+{Index}: 944
+{StartTime}: 1:42:25
+{EndTime}: 1:42:27
+{Text}: {The orbiting devices would be controlled from that point, then.} 
+
+{Index}: 945
+{StartTime}: 1:42:27
+{EndTime}: 1:42:29
+{Text}: {Precisely.} 
+
+{Index}: 946
+{StartTime}: 1:42:38
+{EndTime}: 1:42:42
+{Text}: {The carbon unit's information cannot be disclosed to V'Ger's probe...} 
+
+{Index}: 947
+{StartTime}: 1:42:42
+{EndTime}: 1:42:45
+{Text}: {but only to V'Ger directly.} 
+
+{Index}: 948
+{StartTime}: 1:43:8
+{EndTime}: 1:43:9
+{Text}: {Forward motion, Captain.} 
+
+{Index}: 949
+{StartTime}: 1:43:9
+{EndTime}: 1:43:10
+{Text}: {Tractor beam.} 
+
+{Index}: 950
+{StartTime}: 1:43:27
+{EndTime}: 1:43:30
+{Text}: {Captain, what's the next move?} 
+
+{Index}: 951
+{StartTime}: 1:43:32
+{EndTime}: 1:43:34
+{Text}: {The question is, Mr. Decker...} 
+
+{Index}: 952
+{StartTime}: 1:43:34
+{EndTime}: 1:43:36
+{Text}: {is there a next move?} 
+
+{Index}: 953
+{StartTime}: 1:43:38
+{EndTime}: 1:43:40
+{Text}: {Resume duty stations.} 
+
+{Index}: 954
+{StartTime}: 1:43:41
+{EndTime}: 1:43:43
+{Text}: {All personnel, resume stations.} 
+
+{Index}: 955
+{StartTime}: 1:43:48
+{EndTime}: 1:43:52
+{Text}: {Well, Mr. Decker, it seems my bluff has been called.} 
+
+{Index}: 956
+{StartTime}: 1:43:54
+{EndTime}: 1:43:57
+{Text}: {I'm afraid our hand is pretty weak, Captain.} 
+
+{Index}: 957
+{StartTime}: 1:44:1
+{EndTime}: 1:44:4
+{Text}: {Mr. Chekov, when do those devices reach final position?} 
+
+{Index}: 958
+{StartTime}: 1:44:5
+{EndTime}: 1:44:8
+{Text}: {Twenty-seven minutes.} {Mark.} 
+
+{Index}: 959
+{StartTime}: 1:44:14
+{EndTime}: 1:44:16
+{Text}: {Captain, I believe that is our destination.} 
+
+{Index}: 960
+{StartTime}: 1:44:23
+{EndTime}: 1:44:25
+{Text}: {Forward motion slowing, Captain.} 
+
+{Index}: 961
+{StartTime}: 1:44:28
+{EndTime}: 1:44:32
+{Text}: {I read an oxygen-gravity envelope forming outside the Enterprise.} 
+
+{Index}: 962
+{StartTime}: 1:44:40
+{EndTime}: 1:44:42
+{Text}: {Forward motion stopped, Captain.} 
+
+{Index}: 963
+{StartTime}: 1:44:46
+{EndTime}: 1:44:48
+{Text}: {V'Ger.} 
+
+{Index}: 964
+{StartTime}: 1:44:48
+{EndTime}: 1:44:52
+{Text}: {Sir, I've located the source of V'Ger's radio signal.} 
+
+{Index}: 965
+{StartTime}: 1:44:52
+{EndTime}: 1:44:53
+{Text}: {It's directly ahead.} 
+
+{Index}: 966
+{StartTime}: 1:44:54
+{EndTime}: 1:44:58
+{Text}: {That transmitter is a vital link between V'Ger and its creator.} 
+
+{Index}: 967
+{StartTime}: 1:45:1
+{EndTime}: 1:45:4
+{Text}: {The carbon units will now provide V'Ger...} 
+
+{Index}: 968
+{StartTime}: 1:45:4
+{EndTime}: 1:45:6
+{Text}: {with the required information.} 
+
+{Index}: 969
+{StartTime}: 1:45:13
+{EndTime}: 1:45:14
+{Text}: {Mr. Spock.} {Bones.} 
+
+{Index}: 970
+{StartTime}: 1:45:18
+{EndTime}: 1:45:22
+{Text}: {Mr. Decker, I will contact you every five minutes.} 
+
+{Index}: 971
+{StartTime}: 1:45:22
+{EndTime}: 1:45:24
+{Text}: {Captain.} 
+
+{Index}: 972
+{StartTime}: 1:45:26
+{EndTime}: 1:45:27
+{Text}: {I'd like to go along.} 
+
+{Index}: 973
+{StartTime}: 1:45:31
+{EndTime}: 1:45:32
+{Text}: {Mr. Sulu, you have the com.} 
+
+{Index}: 974
+{StartTime}: 1:47:23
+{EndTime}: 1:47:24
+{Text}: {V'Ger.} 
+
+{Index}: 975
+{StartTime}: 1:48:33
+{EndTime}: 1:48:37
+{Text}: {''V..} {.} {G-E-R.''} 
+
+{Index}: 976
+{StartTime}: 1:48:40
+{EndTime}: 1:48:41
+{Text}: {V'Ger.} 
+
+{Index}: 977
+{StartTime}: 1:48:54
+{EndTime}: 1:48:57
+{Text}: {''V-O-Y-A-G-E-R.''} 
+
+{Index}: 978
+{StartTime}: 1:48:57
+{EndTime}: 1:48:58
+{Text}: {Voyager.} 
+
+{Index}: 979
+{StartTime}: 1:49:2
+{EndTime}: 1:49:4
+{Text}: {Voyager 6.} 
+
+{Index}: 980
+{StartTime}: 1:49:4
+{EndTime}: 1:49:8
+{Text}: {NASA.} {National Aeronautics and Space Administration.} 
+
+{Index}: 981
+{StartTime}: 1:49:8
+{EndTime}: 1:49:10
+{Text}: {Jim...} 
+
+{Index}: 982
+{StartTime}: 1:49:10
+{EndTime}: 1:49:13
+{Text}: {this was launched more than 300 years ago.} 
+
+{Index}: 983
+{StartTime}: 1:49:16
+{EndTime}: 1:49:18
+{Text}: {Voyager series.} 
+
+{Index}: 984
+{StartTime}: 1:49:20
+{EndTime}: 1:49:22
+{Text}: {Designed to collect data...} 
+
+{Index}: 985
+{StartTime}: 1:49:24
+{EndTime}: 1:49:27
+{Text}: {and transmit it back to Earth.} 
+
+{Index}: 986
+{StartTime}: 1:50:6
+{EndTime}: 1:50:8
+{Text}: {Captain...} 
+
+{Index}: 987
+{StartTime}: 1:50:8
+{EndTime}: 1:50:13
+{Text}: {Voyager 6 disappeared into what they used to call a black hole.} 
+
+{Index}: 988
+{StartTime}: 1:50:13
+{EndTime}: 1:50:16
+{Text}: {It must have emerged on the far side of the galaxy...} 
+
+{Index}: 989
+{StartTime}: 1:50:17
+{EndTime}: 1:50:20
+{Text}: {and fell into the machine planet's gravitational field.} 
+
+{Index}: 990
+{StartTime}: 1:50:20
+{EndTime}: 1:50:23
+{Text}: {The machine inhabitants found it to be one of their own kind...} 
+
+{Index}: 991
+{StartTime}: 1:50:23
+{EndTime}: 1:50:26
+{Text}: {primitive, yet kindred.} 
+
+{Index}: 992
+{StartTime}: 1:50:26
+{EndTime}: 1:50:28
+{Text}: {They discovered its simple 20th-century programming...} 
+
+{Index}: 993
+{StartTime}: 1:50:29
+{EndTime}: 1:50:31
+{Text}: {collect all data possible.} 
+
+{Index}: 994
+{StartTime}: 1:50:32
+{EndTime}: 1:50:34
+{Text}: {Learn all that is learnable.} 
+
+{Index}: 995
+{StartTime}: 1:50:36
+{EndTime}: 1:50:38
+{Text}: {Return that information to its creator.} 
+
+{Index}: 996
+{StartTime}: 1:50:39
+{EndTime}: 1:50:40
+{Text}: {Precisely, Mr. Decker.} 
+
+{Index}: 997
+{StartTime}: 1:50:41
+{EndTime}: 1:50:43
+{Text}: {The machines interpreted it literally.} 
+
+{Index}: 998
+{StartTime}: 1:50:43
+{EndTime}: 1:50:45
+{Text}: {They built this entire vessel...} 
+
+{Index}: 999
+{StartTime}: 1:50:45
+{EndTime}: 1:50:49
+{Text}: {so that Voyager could actually fulfill its programming.} 
+
+{Index}: 1000
+{StartTime}: 1:50:49
+{EndTime}: 1:50:51
+{Text}: {And on its journey back...} 
+
+{Index}: 1001
+{StartTime}: 1:50:53
+{EndTime}: 1:50:55
+{Text}: {it amassed so much knowledge...} 
+
+{Index}: 1002
+{StartTime}: 1:50:56
+{EndTime}: 1:50:59
+{Text}: {it achieved consciousness itself.} 
+
+{Index}: 1003
+{StartTime}: 1:51:0
+{EndTime}: 1:51:2
+{Text}: {It became a living thing.} 
+
+{Index}: 1004
+{StartTime}: 1:51:15
+{EndTime}: 1:51:18
+{Text}: {Kirk unit.} 
+
+{Index}: 1005
+{StartTime}: 1:51:18
+{EndTime}: 1:51:20
+{Text}: {V'Ger awaits the information.} 
+
+{Index}: 1006
+{StartTime}: 1:51:21
+{EndTime}: 1:51:23
+{Text}: {Enterprise...} 
+
+{Index}: 1007
+{StartTime}: 1:51:24
+{EndTime}: 1:51:26
+{Text}: {order up the ship's computer library records...} 
+
+{Index}: 1008
+{StartTime}: 1:51:26
+{EndTime}: 1:51:29
+{Text}: {on the late 20th-century NASA probe Voyager 6.} 
+
+{Index}: 1009
+{StartTime}: 1:51:29
+{EndTime}: 1:51:32
+{Text}: {Specifically, we want the old NASA code signal...} 
+
+{Index}: 1010
+{StartTime}: 1:51:32
+{EndTime}: 1:51:34
+{Text}: {that instructs the probe to transmit its data.} 
+
+{Index}: 1011
+{StartTime}: 1:51:34
+{EndTime}: 1:51:36
+{Text}: {- And fast, Uhura, fast.} {-Aye, Sir.} 
+
+{Index}: 1012
+{StartTime}: 1:51:36
+{EndTime}: 1:51:38
+{Text}: {That's what it's been signaling...} 
+
+{Index}: 1013
+{StartTime}: 1:51:38
+{EndTime}: 1:51:41
+{Text}: {its readiness to transmit its information.} 
+
+{Index}: 1014
+{StartTime}: 1:51:41
+{EndTime}: 1:51:43
+{Text}: {And there's no one on Earth...} 
+
+{Index}: 1015
+{StartTime}: 1:51:43
+{EndTime}: 1:51:45
+{Text}: {who could recognize the old signal and send a response.} 
+
+{Index}: 1016
+{StartTime}: 1:51:45
+{EndTime}: 1:51:47
+{Text}: {The creator does not answer.} 
+
+{Index}: 1017
+{StartTime}: 1:51:57
+{EndTime}: 1:51:58
+{Text}: {V'Ger.} 
+
+{Index}: 1018
+{StartTime}: 1:52:4
+{EndTime}: 1:52:5
+{Text}: {V'Ger.} 
+
+{Index}: 1019
+{StartTime}: 1:52:8
+{EndTime}: 1:52:9
+{Text}: {V'Ger!} 
+
+{Index}: 1020
+{StartTime}: 1:52:13
+{EndTime}: 1:52:16
+{Text}: {We are the creator.} 
+
+{Index}: 1021
+{StartTime}: 1:52:16
+{EndTime}: 1:52:18
+{Text}: {That is not logical.} 
+
+{Index}: 1022
+{StartTime}: 1:52:18
+{EndTime}: 1:52:20
+{Text}: {Carbon units are not true life-forms.} 
+
+{Index}: 1023
+{StartTime}: 1:52:20
+{EndTime}: 1:52:21
+{Text}: {We will prove it.} 
+
+{Index}: 1024
+{StartTime}: 1:52:21
+{EndTime}: 1:52:25
+{Text}: {We will make it possible for you to complete your programming.} 
+
+{Index}: 1025
+{StartTime}: 1:52:25
+{EndTime}: 1:52:28
+{Text}: {Only the creator could accomplish that.} 
+
+{Index}: 1026
+{StartTime}: 1:52:30
+{EndTime}: 1:52:31
+{Text}: {Enterprise?} 
+
+{Index}: 1027
+{StartTime}: 1:52:31
+{EndTime}: 1:52:34
+{Text}: {We have just received the response code, Captain.} 
+
+{Index}: 1028
+{StartTime}: 1:52:34
+{EndTime}: 1:52:36
+{Text}: {Set the Enterprise transmitter on appropriate frequency...} 
+
+{Index}: 1029
+{StartTime}: 1:52:36
+{EndTime}: 1:52:39
+{Text}: {and transmit the code now.} 
+
+{Index}: 1030
+{StartTime}: 1:52:39
+{EndTime}: 1:52:40
+{Text}: {Transmitting.} 
+
+{Index}: 1031
+{StartTime}: 1:52:41
+{EndTime}: 1:52:43
+{Text}: {5-0-4...} 
+
+{Index}: 1032
+{StartTime}: 1:52:43
+{EndTime}: 1:52:45
+{Text}: {3-2-9...} 
+
+{Index}: 1033
+{StartTime}: 1:52:45
+{EndTime}: 1:52:47
+{Text}: {3-1-7...} 
+
+{Index}: 1034
+{StartTime}: 1:52:48
+{EndTime}: 1:52:50
+{Text}: {5-1-0...} 
+
+{Index}: 1035
+{StartTime}: 1:52:50
+{EndTime}: 1:52:52
+{Text}: {and the final sequence.} 
+
+{Index}: 1036
+{StartTime}: 1:52:52
+{EndTime}: 1:52:55
+{Text}: {That should trigger Voyager's transmitter.} 
+
+{Index}: 1037
+{StartTime}: 1:53:7
+{EndTime}: 1:53:10
+{Text}: {Voyager is not transmitting its data, Captain.} 
+
+{Index}: 1038
+{StartTime}: 1:53:12
+{EndTime}: 1:53:14
+{Text}: {The creator must join with V'Ger.} 
+
+{Index}: 1039
+{StartTime}: 1:53:16
+{EndTime}: 1:53:19
+{Text}: {Uhura, repeat the final sequence.} 
+
+{Index}: 1040
+{StartTime}: 1:53:23
+{EndTime}: 1:53:26
+{Text}: {The creator must join with V'Ger.} 
+
+{Index}: 1041
+{StartTime}: 1:53:46
+{EndTime}: 1:53:48
+{Text}: {Voyager is not transmitting, Captain...} 
+
+{Index}: 1042
+{StartTime}: 1:53:48
+{EndTime}: 1:53:51
+{Text}: {because it did not receive the final sequence.} 
+
+{Index}: 1043
+{StartTime}: 1:53:51
+{EndTime}: 1:53:53
+{Text}: {Jim, we're down to ten minutes.} 
+
+{Index}: 1044
+{StartTime}: 1:53:53
+{EndTime}: 1:53:55
+{Text}: {Enterprise, stand by.} 
+
+{Index}: 1045
+{StartTime}: 1:54:4
+{EndTime}: 1:54:7
+{Text}: {- The antenna leads are melted away.} {- Yes, Captain, just now.} 
+
+{Index}: 1046
+{StartTime}: 1:54:7
+{EndTime}: 1:54:10
+{Text}: {By V'Ger itself.} 
+
+{Index}: 1047
+{StartTime}: 1:54:10
+{EndTime}: 1:54:13
+{Text}: {- Why?} {- To prevent reception.} 
+
+{Index}: 1048
+{StartTime}: 1:54:13
+{EndTime}: 1:54:14
+{Text}: {Of course.} 
+
+{Index}: 1049
+{StartTime}: 1:54:14
+{EndTime}: 1:54:17
+{Text}: {To bring the creator here.} 
+
+{Index}: 1050
+{StartTime}: 1:54:17
+{EndTime}: 1:54:19
+{Text}: {To finish transmitting the code in person.} 
+
+{Index}: 1051
+{StartTime}: 1:54:23
+{EndTime}: 1:54:24
+{Text}: {To touch the creator.} 
+
+{Index}: 1052
+{StartTime}: 1:54:25
+{EndTime}: 1:54:27
+{Text}: {Capture God?} 
+
+{Index}: 1053
+{StartTime}: 1:54:29
+{EndTime}: 1:54:32
+{Text}: {V'Ger's liable to be in for one hell of a disappointment.} 
+
+{Index}: 1054
+{StartTime}: 1:54:32
+{EndTime}: 1:54:34
+{Text}: {Perhaps not, Doctor.} 
+
+{Index}: 1055
+{StartTime}: 1:54:56
+{EndTime}: 1:54:58
+{Text}: {Captain.} 
+
+{Index}: 1056
+{StartTime}: 1:55:4
+{EndTime}: 1:55:6
+{Text}: {V'Ger must evolve.} 
+
+{Index}: 1057
+{StartTime}: 1:55:6
+{EndTime}: 1:55:10
+{Text}: {Its knowledge has reached the limits of this universe.} {It must evolve.} 
+
+{Index}: 1058
+{StartTime}: 1:55:10
+{EndTime}: 1:55:13
+{Text}: {What it requires of its god, Doctor, is the answer to its question...} 
+
+{Index}: 1059
+{StartTime}: 1:55:13
+{EndTime}: 1:55:14
+{Text}: {Is there nothing more?} 
+
+{Index}: 1060
+{StartTime}: 1:55:14
+{EndTime}: 1:55:17
+{Text}: {What more is there than the universe, Spock?} 
+
+{Index}: 1061
+{StartTime}: 1:55:17
+{EndTime}: 1:55:19
+{Text}: {Other dimensions.} {Higher levels of being.} 
+
+{Index}: 1062
+{StartTime}: 1:55:19
+{EndTime}: 1:55:21
+{Text}: {The existence of which cannot be proven logically.} 
+
+{Index}: 1063
+{StartTime}: 1:55:22
+{EndTime}: 1:55:25
+{Text}: {Therefore, V'Ger is incapable of believing in them.} 
+
+{Index}: 1064
+{StartTime}: 1:55:25
+{EndTime}: 1:55:27
+{Text}: {What V'Ger needs in order to evolve...} 
+
+{Index}: 1065
+{StartTime}: 1:55:27
+{EndTime}: 1:55:30
+{Text}: {is a human quality...} 
+
+{Index}: 1066
+{StartTime}: 1:55:30
+{EndTime}: 1:55:32
+{Text}: {our capacity to leap beyond logic.} 
+
+{Index}: 1067
+{StartTime}: 1:55:36
+{EndTime}: 1:55:38
+{Text}: {Joining with its creator might accomplish that.} 
+
+{Index}: 1068
+{StartTime}: 1:55:38
+{EndTime}: 1:55:41
+{Text}: {You mean this machine wants to physically join with a human?} 
+
+{Index}: 1069
+{StartTime}: 1:55:42
+{EndTime}: 1:55:44
+{Text}: {Is that possible?} 
+
+{Index}: 1070
+{StartTime}: 1:55:47
+{EndTime}: 1:55:48
+{Text}: {Let's find out.} 
+
+{Index}: 1071
+{StartTime}: 1:55:57
+{EndTime}: 1:55:58
+{Text}: {Decker.} 
+
+{Index}: 1072
+{StartTime}: 1:55:58
+{EndTime}: 1:56:1
+{Text}: {I'm gonna key the final sequence through the ground test computer.} 
+
+{Index}: 1073
+{StartTime}: 1:56:1
+{EndTime}: 1:56:3
+{Text}: {You don't know what that'll do to you!} 
+
+{Index}: 1074
+{StartTime}: 1:56:4
+{EndTime}: 1:56:5
+{Text}: {Yes, I do, Doctor.} 
+
+{Index}: 1075
+{StartTime}: 1:56:11
+{EndTime}: 1:56:13
+{Text}: {Decker, don't.} 
+
+{Index}: 1076
+{StartTime}: 1:56:13
+{EndTime}: 1:56:15
+{Text}: {Jim, I want this.} 
+
+{Index}: 1077
+{StartTime}: 1:56:15
+{EndTime}: 1:56:20
+{Text}: {As much as you wanted the Enterprise, I want this.} 
+
+{Index}: 1078
+{StartTime}: 1:59:6
+{EndTime}: 1:59:7
+{Text}: {Captain.} 
+
+{Index}: 1079
+{StartTime}: 1:59:9
+{EndTime}: 1:59:13
+{Text}: {Spock, did we just see the beginning of a new life-form?} 
+
+{Index}: 1080
+{StartTime}: 1:59:13
+{EndTime}: 1:59:16
+{Text}: {Yes, Captain.} {We witnessed a birth.} 
+
+{Index}: 1081
+{StartTime}: 1:59:16
+{EndTime}: 1:59:19
+{Text}: {Possibly a next step in our evolution.} 
+
+{Index}: 1082
+{StartTime}: 1:59:19
+{EndTime}: 1:59:21
+{Text}: {I wonder.} 
+
+{Index}: 1083
+{StartTime}: 1:59:21
+{EndTime}: 1:59:24
+{Text}: {Well, it's been a long time since I delivered a baby.} 
+
+{Index}: 1084
+{StartTime}: 1:59:24
+{EndTime}: 1:59:26
+{Text}: {I hope we got this one off to a good start.} 
+
+{Index}: 1085
+{StartTime}: 1:59:26
+{EndTime}: 1:59:28
+{Text}: {I hope so too.} 
+
+{Index}: 1086
+{StartTime}: 1:59:28
+{EndTime}: 1:59:32
+{Text}: {I think we gave it the ability to create its own sense of purpose...} 
+
+{Index}: 1087
+{StartTime}: 1:59:34
+{EndTime}: 1:59:36
+{Text}: {out of our own human weaknesses...} 
+
+{Index}: 1088
+{StartTime}: 1:59:37
+{EndTime}: 1:59:40
+{Text}: {and the drive that compels us to overcome them.} 
+
+{Index}: 1089
+{StartTime}: 1:59:40
+{EndTime}: 1:59:43
+{Text}: {And a lot of foolish human emotions.} {Right, Mr. Spock?} 
+
+{Index}: 1090
+{StartTime}: 1:59:43
+{EndTime}: 1:59:45
+{Text}: {Quite true, Doctor.} 
+
+{Index}: 1091
+{StartTime}: 1:59:45
+{EndTime}: 1:59:49
+{Text}: {Unfortunately, it will have to deal with them as well.} 
+
+{Index}: 1092
+{StartTime}: 1:59:49
+{EndTime}: 1:59:50
+{Text}: {Interrogative from Starfleet.} 
+
+{Index}: 1093
+{StartTime}: 1:59:51
+{EndTime}: 1:59:54
+{Text}: {They're requesting damage and injury reports and complete vessel status.} 
+
+{Index}: 1094
+{StartTime}: 1:59:54
+{EndTime}: 1:59:56
+{Text}: {Report two casualties.} 
+
+{Index}: 1095
+{StartTime}: 1:59:57
+{EndTime}: 1:59:58
+{Text}: {Lieutenant Ilia.} 
+
+{Index}: 1096
+{StartTime}: 1:59:59
+{EndTime}: 2:0:1
+{Text}: {Captain Decker.} 
+
+{Index}: 1097
+{StartTime}: 2:0:1
+{EndTime}: 2:0:2
+{Text}: {- Aye, Sir.} {- Correction.} 
+
+{Index}: 1098
+{StartTime}: 2:0:2
+{EndTime}: 2:0:4
+{Text}: {They're not casualties.} 
+
+{Index}: 1099
+{StartTime}: 2:0:4
+{EndTime}: 2:0:6
+{Text}: {They...} 
+
+{Index}: 1100
+{StartTime}: 2:0:9
+{EndTime}: 2:0:11
+{Text}: {List them as missing.} 
+
+{Index}: 1101
+{StartTime}: 2:0:11
+{EndTime}: 2:0:13
+{Text}: {Vessel status: fully operational.} 
+
+{Index}: 1102
+{StartTime}: 2:0:13
+{EndTime}: 2:0:15
+{Text}: {Aye, Sir.} 
+
+{Index}: 1103
+{StartTime}: 2:0:15
+{EndTime}: 2:0:19
+{Text}: {Mr. Scott, shall we give the Enterprise a proper shakedown?} 
+
+{Index}: 1104
+{StartTime}: 2:0:20
+{EndTime}: 2:0:23
+{Text}: {I would say it's time for that, Sir, aye.} 
+
+{Index}: 1105
+{StartTime}: 2:0:23
+{EndTime}: 2:0:26
+{Text}: {We can have you back on Vulcan in four days, Mr. Spock.} 
+
+{Index}: 1106
+{StartTime}: 2:0:26
+{EndTime}: 2:0:28
+{Text}: {Unnecessary, Mr. Scott.} 
+
+{Index}: 1107
+{StartTime}: 2:0:28
+{EndTime}: 2:0:31
+{Text}: {My task on Vulcan is completed.} 
+
+{Index}: 1108
+{StartTime}: 2:0:32
+{EndTime}: 2:0:34
+{Text}: {Mr. Sulu, ahead warp 1 .} 
+
+{Index}: 1109
+{StartTime}: 2:0:34
+{EndTime}: 2:0:37
+{Text}: {- Warp 1 , Sir.} {- Heading, Sir?} 
+
+{Index}: 1110
+{StartTime}: 2:0:41
+{EndTime}: 2:0:43
+{Text}: {Out there.} 
+
+{Index}: 1111
+{StartTime}: 2:0:44
+{EndTime}: 2:0:46
+{Text}: {That away.} 
+
